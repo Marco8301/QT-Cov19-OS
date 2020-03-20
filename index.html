@@ -42,7 +42,7 @@
     </header>
 
     <main>
-        <div class="container mt-3">
+        <div class="container mt-3 w-75">
             <div class="jumbotron">
                 <h1 class="display-4">Formulario Tecnico de deteccion de caso</h1>
                 <p class="lead">Este formulario tiene como objetivo el mapeo y análisis de Cov19 en Colombia. Es un
@@ -57,17 +57,37 @@
             </div>
         </div>
 
-        <div class="container">
+
+        <!-- Bloc identité -->
+        <div class="container w-75">
             <div class="jumbotron">
                 <form>
                     <fieldset>
-                        <div class="form-group ">
+                        <div class="container">
+                            <legend>Su identidad</legend>
 
-                            <label class="col-form-label" for="inputDefault">Geolocalizacion</label>
-                            <div style="display:flex; ">
-                                <input type="text" class="form-control w-50" placeholder="Comparte su ubicacion"
-                                    id="inputDefault">
-                                <button type="submit" class="btn btn-primary ">Compartir</button>
+                            <div class="form-group">
+                                <label class="col-form-label" for="inputDefault">Geolocalizacion</label>
+                                <div style="display:flex; ">
+                                    <input type="text" class="form-control w-50" placeholder="Su ubicacion"
+                                        id="inputDefault">
+                                    <button type="submit" class="btn btn-primary ">Compartir</button>
+                                </div>
+                            </div>
+
+                            <div class="form-group w-100" style="display:flex;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputEdad">Edad</label>
+                                    <input type="number" class="form-control w-75" placeholder="Su edad" id="inputEdad">
+                                </div>
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputGenero">Genero</label>
+                                    <select class="form-control w-75" id="inputGenero">
+                                        <option selected="true">Su genero</option>
+                                        <option>Masculino</option>
+                                        <option>Femenino</option>
+                                    </select>
+                                </div>
                             </div>
                         </div>
 
@@ -77,43 +97,153 @@
 
 
 
-                        <div class="form-group w-100" style="display:flex;">
-                            <div class="w-100">
-                                <label class="col-form-label" for="inputDefault">Edad</label>
-                                <input type="number" class="form-control w-75" placeholder="Su edad" id="inputDefault">
+
+                        <!-- Bloc symptomes -->
+
+                        <div class="container mt-5">
+                            <legend>Su Sintomas</legend>
+
+                            <div class="form-group w-100" style="display:flex;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputFebre">Febre</label>
+                                    <select class="form-control w-75" id="inputFebre">
+                                        <option selected="false">Elige</option>
+                                        <option>Tengo febre</option>
+                                        <option>No tengo febre</option>
+                                    </select>
+                                </div>
+
+                                <div class="w-100">
+                                    <label class="col-form-label" for="infoFebre">Si sí desde cuándo ?</label>
+                                    <select class="form-control w-75" id="infoFebre">
+                                        <option selected="true">Elige</option>
+                                        <option>1 dia</option>
+                                        <option>2 dias</option>
+                                        <option>3 dias</option>
+                                        <option>4 dias</option>
+                                        <option>5 dias</option>
+                                    </select>
+                                </div>
                             </div>
-                            <div class="w-100">
-                                <label class="col-form-label" for="inputDefault">Genero</label>
-                                <select class="form-control" id="exampleSelect1">
-                                    <option>Masculino</option>
-                                    <option>Femenino</option>
-                                </select>
+
+
+
+                            <div class="form-group w-100" style="display:flex;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputTos">Tos</label>
+                                    <select class="form-control w-75" id="inputTos">
+                                        <option selected="false">Elige</option>
+                                        <option>Tengo tos</option>
+                                        <option>No tengo tos</option>
+                                    </select>
+                                </div>
+
+                                <div class="w-100">
+                                    <label class="col-form-label" for="infoTos">Si sí desde cuándo ?</label>
+                                    <select class="form-control w-75" id="infoTos">
+                                        <option selected="true">Elige</option>
+                                        <option>1 dia</option>
+                                        <option>2 dias</option>
+                                        <option>3 dias</option>
+                                        <option>4 dias</option>
+                                        <option>5 dias</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group w-100" style="display:flex;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputMoqueo">Moqueo</label>
+                                    <select class="form-control w-75" id="inputMoqueo">
+                                        <option selected="false">Elige</option>
+                                        <option>Tengo moqueo</option>
+                                        <option>No tengo moqueo</option>
+                                    </select>
+                                </div>
+
+                                <div class="w-100">
+                                    <label class="col-form-label" for="infoMoqueo">Si sí desde cuándo ?</label>
+                                    <select class="form-control w-75" id="infoMoqueo">
+                                        <option selected="true">Elige</option>
+                                        <option>1 dia</option>
+                                        <option>2 dias</option>
+                                        <option>3 dias</option>
+                                        <option>4 dias</option>
+                                        <option>5 dias</option>
+                                    </select>
+                                </div>
                             </div>
                         </div>
 
 
 
 
+                        <!-- Bloc Oui/Non -->
+                        <div class="container mt-5">
+                            <fieldset class="form-group">
+                                <legend class="w-75">Estuvo en contacto con otras personas desde que siente los síntomas
+                                    o
+                                    en los 14
+                                    últimos:</legend>
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios"
+                                            id="optionsRadios1" value="option1">
+                                        Si
+                                    </label>
+                                </div>
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios"
+                                            id="optionsRadios2" value="option2">
+                                        No
+                                    </label>
+                                </div>
+                            </fieldset>
+                        </div>
 
 
 
+                        <div class="container">
+                            <fieldset class="form-group">
+                                <legend class="w-75">Aceptaría que su información sea compartida a las autoridades
+                                    nacionales:</legend>
 
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios"
+                                            id="optionsRadios1" value="option1">
+                                        Si
+                                    </label>
+                                </div>
 
-                        <div class="form-group">
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsRadios"
+                                            id="optionsRadios2" value="option2">
+                                        No
+                                    </label>
+                                </div>
+                            </fieldset>
+                        </div>
+
+                        <!-- <div class="form-group">
                             <label for="exampleInputEmail1">Email address</label>
                             <input type="email" class="form-control" id="exampleInputEmail1"
                                 aria-describedby="emailHelp" placeholder="Enter email">
                             <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
                                 else.</small>
-                        </div>
-
+                        </div> -->
+                        <!-- 
                         <div class="form-group">
                             <label for="exampleInputPassword1">Password</label>
                             <input type="password" class="form-control" id="exampleInputPassword1"
                                 placeholder="Password">
-                        </div>
+                        </div> -->
 
-                        <div class="form-group">
+                        <!-- <div class="form-group">
                             <label for="exampleSelect1">Example select</label>
                             <select class="form-control" id="exampleSelect1">
                                 <option>1</option>
@@ -122,9 +252,7 @@
                                 <option>4</option>
                                 <option>5</option>
                             </select>
-                        </div>
-
-
+                        </div> -->
 
                         <!-- <div class="form-group">
                             <label for="exampleSelect2">Example multiple select</label>
@@ -150,30 +278,7 @@
                                 text for the above input. It's a bit lighter and easily wraps to a new line.</small>
                         </div> -->
 
-                        <fieldset class="form-group">
-                            <legend>Radio buttons</legend>
-                            <div class="form-check">
-                                <label class="form-check-label">
-                                    <input type="radio" class="form-check-input" name="optionsRadios"
-                                        id="optionsRadios1" value="option1" checked="">
-                                    Option one is this and that—be sure to include why it's great
-                                </label>
-                            </div>
-                            <div class="form-check">
-                                <label class="form-check-label">
-                                    <input type="radio" class="form-check-input" name="optionsRadios"
-                                        id="optionsRadios2" value="option2">
-                                    Option two can be something else and selecting it will deselect option one
-                                </label>
-                            </div>
-                            <div class="form-check disabled">
-                                <label class="form-check-label">
-                                    <input type="radio" class="form-check-input" name="optionsRadios"
-                                        id="optionsRadios3" value="option3" disabled="">
-                                    Option three is disabled
-                                </label>
-                            </div>
-                        </fieldset>
+
                         <!-- <fieldset class="form-group">
                             <legend>Checkboxes</legend>
                             <div class="form-check">
