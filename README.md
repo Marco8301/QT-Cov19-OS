@@ -15,5 +15,18 @@ Build with:
 Use this tutorial to make your first commit to the project:
 https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
 
-We follow Github workflow, more about it here:
+###We follow Github workflow:
+
+What is GitHub Flow?
+
+- Anything in the master branch is deployable
+- To work on something new, create a descriptively named branch off of master (ie: new-oauth2-scopes)
+- Commit to that branch locally and regularly push your work to the same named branch on the server
+- When you need feedback or help, or you think the branch is ready for merging, open a pull request
+- After someone else has reviewed and signed off on the feature, you can merge it into master
+- Once it is merged and pushed to ‘master’, you can and should deploy immediately
+
+More about it here:
 http://scottchacon.com/2011/08/31/github-flow.html
+
+This project is under [MIT] (https://opensource.org/licenses/MIT) License
