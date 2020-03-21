@@ -31,7 +31,6 @@ document.addEventListener('DOMContentLoaded', () => {
         })
     }
 })
-
 btnGeoloc.addEventListener('click', () => {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function (position) {
@@ -58,12 +57,8 @@ btnGeoloc.addEventListener('click', () => {
         })
     }
 })
+
 // Form Logic
-let inputFebre = document.getElementById('inputFebre');
-let infoFebre = document.getElementById('infoFebre');
-let infoTos = document.getElementById('infoTos');
-
-
 function changeState(id) {
     switch (id) {
         case inputFebre:
@@ -121,3 +116,13 @@ function changeState(id) {
 
 
 }
+
+// let submitBtn = document.getElementById('submitBtn');
+// let alertPopUp = document.getElementById('alert-pop-up');
+// let btnAlert = document.getElementById('btnAlert');
+
+// btnAlert.addEventListener('click', (event) => {
+//     alertPopUp.style.display = "none";
+
+
+// })
