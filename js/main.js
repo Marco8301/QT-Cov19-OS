@@ -82,6 +82,4 @@ let btnAlert = document.getElementById('btnAlert');
 
 btnAlert.addEventListener('click', (event) => {
     alertPopUp.style.display = "none";
-
-
 })

@@ -53,6 +53,10 @@
                                     <input type="text" class="form-control col-xs-12 col-sm-5"
                                         placeholder="Su departamento" id="inputGeolocDepartamento" name="inputGeolocDepartamento" required>
 
+                                    <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
+
+                                    <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required>
+                                        
                                     <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
                                             style="color:white;"></i></a>
                                 </div>

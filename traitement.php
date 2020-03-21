@@ -4,8 +4,17 @@ if(isset($_POST['submitBtn'])) {
     // Geoloc
     $inputGeolocCiudad = $_POST['inputGeolocCiudad'];
     var_dump($inputGeolocCiudad);
+
     $inputGeolocDepartamento = $_POST['inputGeolocDepartamento'];
     var_dump($inputGeolocDepartamento);
+
+    $inputGeolocLat = $_POST['inputGeolocLat'];
+    var_dump($inputGeolocLat);
+
+
+    $inputGeolocLng = $_POST['inputGeolocLng'];
+    var_dump($inputGeolocLng);
+
 
     // Donnés démographiques
     $inputEdad = $_POST['inputEdad'];
