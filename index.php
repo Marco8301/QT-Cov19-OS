@@ -231,6 +231,8 @@
         </div>
     </main>
     <script src="./js/main.js"></script>
+    <script src="./js/geoloc.js"></script>
+
     <footer>
 
     </footer>
