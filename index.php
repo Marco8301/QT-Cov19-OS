@@ -38,7 +38,7 @@
         <!-- Bloc identité -->
         <div class="container col-xs-12 col-sm-9 col-md-9">
             <div class="jumbotron">
-                <form action="./traitement.php" method="post" id="formSintomas" name="formSintomas">
+                <form action="controller/traitement.php" method="post" id="formSintomas" name="formSintomas">
                     <fieldset id="anchor">
                         <div class="container">
                             <legend style="padding-left:0px;">Su identidad</legend>
