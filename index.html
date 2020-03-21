@@ -44,10 +44,15 @@
                             <legend style="padding-left:0px;">Su identidad</legend>
 
                             <div class="form-group ">
-                                <label class="col-form-label" for="inputGeoloc">Geolocalizacion</label>
+                                <label class="col-form-label" for="inputGeolocCiudad">Geolocalizacion</label>
                                 <div style="display:flex; ">
-                                    <input type="text" class="form-control col-xs-12 col-sm-9"
-                                        placeholder="Su ubicacion" id="inputGeoloc" required>
+
+                                    <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su ciudad"
+                                        id="inputGeolocCiudad" required>
+
+                                    <input type="text" class="form-control col-xs-12 col-sm-5"
+                                        placeholder="Su departamento" id="inputGeolocDepartamento" required>
+
                                     <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
                                             style="color:white;"></i></a>
                                 </div>
@@ -77,16 +82,17 @@
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputFebre">Febre</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputFebre">
-                                        <option selected="false">Elige</option>
-                                        <option>Tengo febre</option>
-                                        <option>No tengo febre</option>
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputFebre"
+                                        onchange="changeState(inputFebre)">
+                                        <option selected="true">Elige</option>
+                                        <option value="febre">Tengo febre</option>
+                                        <option value="noFebre">No tengo febre</option>
                                     </select>
                                 </div>
 
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoFebre">Si sí desde cuándo ?</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoFebre">
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoFebre" disabled>
                                         <option selected="true">Elige</option>
                                         <option>1 dia</option>
                                         <option>2 dias</option>
@@ -100,16 +106,17 @@
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputTos">Tos</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputTos">
-                                        <option selected="false">Elige</option>
-                                        <option>Tengo tos</option>
-                                        <option>No tengo tos</option>
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputTos"
+                                        onchange="changeState(inputTos)">
+                                        <option selected="false" value="elige">Elige</option>
+                                        <option value="tos">Tengo tos</option>
+                                        <option value="no tos">No tengo tos</option>
                                     </select>
                                 </div>
 
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoTos">Si sí desde cuándo ?</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoTos">
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoTos" disabled>
                                         <option selected="true">Elige</option>
                                         <option>1 dia</option>
                                         <option>2 dias</option>
@@ -123,16 +130,17 @@
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputMoqueo">Moqueo</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputMoqueo">
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="inputMoqueo"
+                                        onchange="changeState(inputMoqueo)">
                                         <option selected="false">Elige</option>
-                                        <option>Tengo moqueo</option>
-                                        <option>No tengo moqueo</option>
+                                        <option value="moqueo">Tengo moqueo</option>
+                                        <option value="no moqueo">No tengo moqueo</option>
                                     </select>
                                 </div>
 
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoMoqueo">Si sí desde cuándo ?</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoMoqueo">
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-9" id="infoMoqueo" disabled>
                                         <option selected="true">Elige</option>
                                         <option>1 dia</option>
                                         <option>2 dias</option>
@@ -157,7 +165,7 @@
                                 <div class="form-check">
                                     <label class="form-check-label">
                                         <input type="radio" class="form-check-input" name="optionsRadios"
-                                            id="optionsRadios1" value="option1">
+                                            id="contactoSi" value="si" onchange="changeState(contactoSi)">
                                         Si
                                     </label>
                                 </div>
@@ -165,14 +173,14 @@
                                 <div class="form-check">
                                     <label class="form-check-label">
                                         <input type="radio" class="form-check-input" name="optionsRadios"
-                                            id="optionsRadios2" value="option2">
+                                            id="contactoNo" value="no" onchange="changeState(contactoNo)">
                                         No
                                     </label>
                                 </div>
                                 <div class="w-100">
-                                    <label class="col-form-label" for="infoFebre">Si sí, cuantas personas aprox
+                                    <label class="col-form-label" for="infoContacto">Si sí, cuantas personas aprox
                                         ?</label>
-                                    <select class="form-control col-xs-12 col-sm-9 col-md-5" id="infoFebre">
+                                    <select class="form-control col-xs-12 col-sm-9 col-md-5" id="infoContacto" disabled>
                                         <option selected="true">Elige</option>
                                         <option>1 personna</option>
                                         <option>2 personnas</option>
@@ -193,24 +201,23 @@
 
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input type="radio" class="form-check-input" name="optionsRadios"
-                                            id="optionsRadios1" value="option1">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="numeroSi"
+                                            value="si" onchange="changeState(numeroSi)">
                                         Si
                                     </label>
                                 </div>
-
                                 <div class="form-check">
                                     <label class="form-check-label">
-                                        <input type="radio" class="form-check-input" name="optionsRadios"
-                                            id="optionsRadios2" value="option2">
+                                        <input type="radio" class="form-check-input" name="optionsRadios" id="numeroNo"
+                                            value="no" onchange="changeState(numeroNo)">
                                         No
                                     </label>
                                 </div>
                                 <div class="w-100">
-                                    <label class="col-form-label" for="infoFebre">Si sí, dejar teléfono o celular
+                                    <label class="col-form-label" for="inputTel">Si sí, dejar teléfono o celular
                                         ?</label>
                                     <input type="number" class="form-control col-xs-12 col-sm-9 col-md-5"
-                                        placeholder="Su numero" id="inputTel">
+                                        placeholder="Su numero" id="inputTel" disabled>
 
                                 </div>
                             </fieldset>
