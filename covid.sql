@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost
--- Généré le : Dim 22 mars 2020 à 19:11
+-- Généré le : Dim 22 mars 2020 à 23:35
 -- Version du serveur :  5.7.26
 -- Version de PHP : 7.3.7
 
@@ -59,7 +59,12 @@ CREATE TABLE `responses` (
 --
 
 INSERT INTO `responses` (`id`, `time_submit`, `GeolocCiudad`, `GeolocDepartamento`, `GeolocLat`, `GeolocLng`, `Edad`, `Genero`, `inputFebre`, `infoFebre`, `inputTos`, `infoTos`, `inputRespirar`, `infoRespirar`, `optionsContacto`, `infoContacto`, `optionsNumero`, `inputTel`, `Iniciales`, `inputDigestivos`, `infoDigestivos`, `optionsContactoOtraPersona`, `inputIP`) VALUES
-(14, '2020-03-22 14:11:01.000000', 'Cuzco', 'Province de Cuzco', '-13.5206', '-71.9759', 29, 'Masculino', 'no Febre', NULL, 'tos', '1 dia', 'no dificultad a respirar', NULL, 'no', NULL, 'no', NULL, 'm.s.', 'problemas digestivos', '1 dia', 'no', '::1');
+(14, '2020-03-22 14:11:01.000000', 'Cuzco', 'Province de Cuzco', '-13.5206', '-71.9759', 29, 'Masculino', 'no Febre', NULL, 'tos', '1 dia', 'no dificultad a respirar', NULL, 'no', NULL, 'no', NULL, 'm.s.', 'problemas digestivos', '1 dia', 'no', '::1'),
+(16, '2020-03-22 14:11:01.000000', 'Cuzco', 'Cusco', '-13.5206', '-13.5206', 29, 'Masculino', 'no Febre', 'NULL', 'tos', '1 dia', 'no dificultad a respirar', 'NULL', 'no', 'NULL', 'no', 0, 'G.U', 'problemas digestivos', '1 dia', 'no', '::1'),
+(39, '2020-03-22 16:49:12.000000', 'Cuzco', 'Province de Cuzco', '-13.5206', '-71.9759', 29, 'Masculino', 'no Febre', NULL, 'no tos', NULL, 'no dificultad a respirar', NULL, 'no', NULL, 'no', NULL, 'M.A.', 'no problemas digestivos', NULL, 'no', '::1'),
+(50, '2020-03-22 17:21:04.000000', 'Cuzco', 'Cuzco', '-13.5206', '-13.5206', 29, 'Masculino', 'febre', '1 dia', 'tos', '2 dias', 'si', '3 dias', 'si', '2 personas', 'no', NULL, 'M.A.M.', 'si', '4 dias', 'si', '::1'),
+(51, '2020-03-22 18:31:21.000000', 'Cuzco', 'Province de Cuzco', '-13.5206', '-71.9759', 29, 'Masculino', 'no Febre', NULL, 'no tos', NULL, 'no dificultad a respirar', NULL, 'no', NULL, 'no', NULL, 'P.A.', 'no problemas digestivos', NULL, 'no', '::1'),
+(53, '2020-03-22 18:32:45.000000', 'Cuzco', 'Province de Cuzco', '-13.5206', '-71.9759', 23, 'Masculino', 'febre', '2 dias', 'tos', '1 dia', 'dificultad a respirar', '1 dia', 'no', NULL, 'no', NULL, 'P.A.m.', 'no problemas digestivos', NULL, 'no', '::1');
 
 --
 -- Index pour les tables déchargées
@@ -69,7 +74,10 @@ INSERT INTO `responses` (`id`, `time_submit`, `GeolocCiudad`, `GeolocDepartament
 -- Index pour la table `responses`
 --
 ALTER TABLE `responses`
-  ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `unique_Iniciales` (`Iniciales`),
+  ADD UNIQUE KEY `unique_input_iniciales` (`Iniciales`,`inputIP`),
+  ADD KEY `Iniciales` (`Iniciales`);
 
 --
 -- AUTO_INCREMENT pour les tables déchargées
@@ -79,7 +87,7 @@ ALTER TABLE `responses`
 -- AUTO_INCREMENT pour la table `responses`
 --
 ALTER TABLE `responses`
-  MODIFY `id` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id` int(50) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=55;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
