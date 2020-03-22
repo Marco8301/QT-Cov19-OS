@@ -1,7 +1,10 @@
 <?php
 
 class Submit {
-    function __construct($inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputMoqueo, $infoMoqueo, $optionsContacto, $infoContacto, $optionsNumero, $inputTel) {
+    function __construct($inputIniciales, $inputIP, $inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsContactoOtraPersona, $optionsNumero, $inputTel) {
+        
+        $this->inputIniciales = $inputIniciales;
+        $this->inputIP = $inputIP;
         $this->inputGeolocCiudad = $inputGeolocCiudad;
         $this->inputGeolocDepartamento = $inputGeolocDepartamento;
         $this->inputGeolocLat = $inputGeolocLat;
@@ -12,10 +15,16 @@ class Submit {
         $this->infoFebre = $infoFebre;
         $this->inputTos = $inputTos;
         $this->infoTos = $infoTos;
-        $this->inputMoqueo = $inputMoqueo;
-        $this->infoMoqueo = $infoMoqueo;
+
+
+        $this->inputRespirar = $inputRespirar;
+        $this->infoRespirar = $infoRespirar;
+        $this->inputDigestivos = $inputDigestivos;
+        $this->infoDigestivos = $infoDigestivos;
+
         $this->optionsContacto = $optionsContacto;
         $this->infoContacto = $infoContacto;
+        $this->optionsContactoOtraPersona = $optionsContactoOtraPersona;
         $this->optionsNumero = $optionsNumero;
         $this->inputTel = $inputTel;
     }
@@ -23,12 +32,14 @@ class Submit {
     function submitForm() {
         include('PDO.class.php');
 
-        $request = 'INSERT INTO responses (time_submit, GeolocCiudad, GeolocDepartamento, GeolocLat, GeolocLng, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos, inputMoqueo, infoMoqueo, optionsContacto, infoContacto, optionsNumero, inputTel)
-        VALUES (NOW(), :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputMoqueo, :infoMoqueo, :optionsContacto, :infoContacto, :optionsNumero, :inputTel)';
+        $request = 'INSERT INTO responses (time_submit, Iniciales, inputIP, GeolocCiudad, GeolocDepartamento, GeolocLat, GeolocLng, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos,inputRespirar, infoRespirar, inputDigestivos, infoDigestivos, optionsContacto, infoContacto, optionsContactoOtraPersona, optionsNumero, inputTel)
+        VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)';
     
         $order = $db->prepare($request);
 
         $order->execute([
+            ':Iniciales' => $this->inputIniciales,
+            ':inputIP' => $this->inputIP,
             ':GeolocCiudad' => $this->inputGeolocCiudad,
             ':GeolocDepartamento' => $this->inputGeolocDepartamento,
             ':GeolocLat' => $this->inputGeolocLat,
@@ -39,10 +50,13 @@ class Submit {
             ':infoFebre' => $this->infoFebre,
             ':inputTos' => $this->inputTos,
             ':infoTos' => $this->infoTos,
-            ':inputMoqueo' => $this->inputMoqueo,
-            ':infoMoqueo' => $this->infoMoqueo,
+            ':inputRespirar' => $this->inputRespirar,
+            ':infoRespirar' => $this->infoRespirar,
+            ':inputDigestivos' => $this->inputDigestivos,
+            ':infoDigestivos' => $this->infoDigestivos,
             ':optionsContacto' => $this->optionsContacto,
-            ':infoContacto' => $this->infoContacto,
+            ':infoContacto' => $this->infoContacto,            
+            ':optionsContactoOtraPersona' => $this->optionsContactoOtraPersona,
             ':optionsNumero' => $this->optionsNumero,
             ':inputTel' => $this->inputTel
         ]);
