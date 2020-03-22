@@ -34,7 +34,7 @@ class Submit {
         VALUES (NOW(), :Iniciales, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsNumero, :inputTel)';
     
         $order = $db->prepare($request);
-
+        
         $order->execute([
             ':Iniciales' => $this->inputIniciales,
             ':GeolocCiudad' => $this->inputGeolocCiudad,

@@ -273,7 +273,11 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                     <label class="col-form-label" for="inputTel">Si sí, dejar teléfono o celular
                                         ?</label>
                                     <input required type="number" class="form-control col-xs-12 col-sm-9 col-md-5"
+<<<<<<< HEAD
                                         placeholder="Su numero" id="inputTel" name="inputTel" disabled>
+=======
+                                        placeholder="Su numero" minlength="10" id="inputTel"name="inputTel" style="#inputTel:invalid {border: 2px dashed red;}" disabled>
+>>>>>>> e91ed6929fce0f4913b4646dfefa35a3e3e46f5b
 
                                 </div>
                             </fieldset>

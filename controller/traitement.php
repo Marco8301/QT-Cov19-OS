@@ -39,8 +39,8 @@ if(isset($_POST['submitBtn'])) {
     $submit = new Submit($inputIniciales, $inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsNumero, $inputTel);
     $submit->submitForm();
 
-    // header('Location: ../success.html');
-    // exit();
+    header('Location: ../success.html');
+    exit();
 
 }
 
