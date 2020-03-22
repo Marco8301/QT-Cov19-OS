@@ -29,12 +29,15 @@ class Submit {
         $this->inputTel = $inputTel;
     }
 
+
+
+
     function submitForm() {
         include('PDO.class.php');
 
         $request = 'INSERT INTO responses (time_submit, Iniciales, inputIP, GeolocCiudad, GeolocDepartamento, GeolocLat, GeolocLng, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos,inputRespirar, infoRespirar, inputDigestivos, infoDigestivos, optionsContacto, infoContacto, optionsContactoOtraPersona, optionsNumero, inputTel)
         VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)';
-    
+
         $order = $db->prepare($request);
 
         $order->execute([
@@ -64,3 +67,4 @@ class Submit {
 }
 
 ?>
+
