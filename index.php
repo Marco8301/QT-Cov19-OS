@@ -248,6 +248,28 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             </fieldset>
                         </div>
 
+                        <div class="container mt-5">
+                            <fieldset class="form-group">
+                                <legend style="padding-left:0px;" class="col-xs-12 col-sm-9 col-md-6">Ha estas en contacto con una persona que tiene estos síntomas ?</legend>
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input required type="radio" class="form-check-input" name="optionsContactoOtraPersona"
+                                            id="contactoOtraPersonaSi" value="si" onchange="changeState(contactoSi)">
+                                        Si
+                                    </label>
+                                </div>
+
+                                <div class="form-check">
+                                    <label class="form-check-label">
+                                        <input type="radio" class="form-check-input" name="optionsContactoOtraPersona"
+                                            id="contactoOtraPersonaSi" value="no" onchange="changeState(contactoNo)">
+                                        No
+                                    </label>
+                                </div>
+                            </fieldset>
+                        </div>
+
                         <div class="container mt-5 mb-4">
                             <fieldset class="form-group">
                                 <legend style="padding-left:0px;" class="col-xs-12 col-sm-9 col-md-6">Aceptaría que su

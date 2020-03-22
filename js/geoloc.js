@@ -8,8 +8,6 @@ let btnGeoloc = document.getElementById('btnGeoloc');
 
 function GeolocInput(data, position) {
     let dataGeoloc = [];
-    console.log(data)
-
     console.log(data.results)
     lat = position.coords.latitude;
     lng = position.coords.longitude;

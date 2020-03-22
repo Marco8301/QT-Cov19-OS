@@ -4,6 +4,7 @@ include('../model/Submit.class.php');
 if(isset($_POST['submitBtn'])) {
     // Geoloc
     $inputIniciales = $_POST['inputIniciales'];
+    $inputIP = $_POST['inputIP'];
     $inputGeolocCiudad = $_POST['inputGeolocCiudad'];
     $inputGeolocDepartamento = $_POST['inputGeolocDepartamento'];
     $inputGeolocLat = $_POST['inputGeolocLat'];
@@ -33,10 +34,12 @@ if(isset($_POST['submitBtn'])) {
     $optionsContacto = $_POST['optionsContacto'];
     $infoContacto = $_POST['infoContacto'];
 
+    $optionsContactoOtraPersona = $_POST['optionsContactoOtraPersona'];
+
     $optionsNumero = $_POST['optionsNumero'];
     $inputTel = $_POST['inputTel'];
 
-    $submit = new Submit($inputIniciales, $inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsNumero, $inputTel);
+    $submit = new Submit($inputIniciales, $inputIP, $inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsContactoOtraPersona, $optionsNumero, $inputTel);
     $submit->submitForm();
 
     header('Location: ../success.html');
