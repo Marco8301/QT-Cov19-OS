@@ -29,4 +29,4 @@ What is GitHub Flow?
 More about it here:
 http://scottchacon.com/2011/08/31/github-flow.html
 
-This project is under [MIT](https://opensource.org/licenses/MIT) License
+This project is under BSD 2-Clause "Simplified" License
