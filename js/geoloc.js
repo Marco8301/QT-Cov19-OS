@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function (position) {
             console.log(position);
-            $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng=' + position.coords.latitude + ',' + position.coords.longitude + ' & key=AIzaSyA9VCeYTBLZprpSfqWOtlw - j9rQUVTsCzg', function (data) {
+            $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng=' + position.coords.latitude + ',' + position.coords.longitude + "&key=AIzaSyA9VCeYTBLZprpSfqWOtlw - j9rQUVTsCzg", function (data) {
                 GeolocInput(data, position)
 
             })
