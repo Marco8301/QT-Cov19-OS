@@ -56,7 +56,7 @@
                                     <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
 
                                     <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required>
-                                        
+
                                     <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
                                             style="color:white;"></i></a>
                                 </div>
@@ -221,7 +221,7 @@
                                     <label class="col-form-label" for="inputTel">Si sí, dejar teléfono o celular
                                         ?</label>
                                     <input required type="number" class="form-control col-xs-12 col-sm-9 col-md-5"
-                                        placeholder="Su numero" id="inputTel"name="inputTel" disabled>
+                                        placeholder="Su numero" minlength="10" id="inputTel"name="inputTel" style="#inputTel:invalid {border: 2px dashed red;}" disabled>
 
                                 </div>
                             </fieldset>
