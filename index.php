@@ -308,12 +308,13 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
 
         </div>
     </main>
-    <script src="./js/main.js"></script>
-    <script src="./js/geoloc.js"></script>
+
 
     <footer>
 
     </footer>
+    <script src="./js/main.js"></script>
+    <script src="./js/geoloc.js"></script>
 </body>
 
 </html>
