@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="es">
 
+<?php 
+$inputIP = $_SERVER['REMOTE_ADDR'];
+?>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -20,20 +23,20 @@
     </header>
 
     <main>
-    <div class="container mt-5 col-xs-12 col-sm-9 col-md-9">
-        <div class="jumbotron" style="padding-top:2rem; padding-bottom:2rem;">
-            <h1 class="display-4">Formulario Tecnico de deteccion de caso</h1>
-            <p class="lead">Este formulario tiene como objetivo el mapeo y análisis de Cov19 en Colombia. Es un
-                proyecto
-                de código abierto y cualquier ayuda es más que bienvenida.</p>
-            <hr class="my-4">
-            <p>Por favor complete este formulario debajo.
-            </p>
-            <p class="lead">
-                <a class="btn btn-primary btn-lg" href="#anchor" role="button">Iniciar</a>
-            </p>
+        <div class="container mt-5 col-xs-12 col-sm-9 col-md-9">
+            <div class="jumbotron" style="padding-top:2rem; padding-bottom:2rem;">
+                <h1 class="display-4">Formulario Tecnico de deteccion de caso</h1>
+                <p class="lead">Este formulario tiene como objetivo el mapeo y análisis de Cov19 en Colombia. Es un
+                    proyecto
+                    de código abierto y cualquier ayuda es más que bienvenida.</p>
+                <hr class="my-4">
+                <p>Por favor complete este formulario debajo.
+                </p>
+                <p class="lead">
+                    <a class="btn btn-primary btn-lg" href="#anchor" role="button">Iniciar</a>
+                </p>
+            </div>
         </div>
-    </div>
 
         <!-- Bloc identité -->
         <div class="container col-xs-12 col-sm-9 col-md-9">
@@ -42,6 +45,18 @@
                     <fieldset id="anchor">
                         <div class="container">
                             <legend style="padding-left:0px;">Su identidad</legend>
+                            
+                            <div class="form-group ">
+                                <label class="col-form-label" for="inputGeolocCiudad">Su iniciales</label>
+
+                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su iniciales"
+                                    id="inputIniciales" name="inputIniciales" required>
+
+                                <input type="hidden" id="inputIP" name="inputIP" value="<?= $inputIP ?>">
+                            </div>
+
+
+
 
                             <div class="form-group ">
                                 <label class="col-form-label" for="inputGeolocCiudad">Geolocalizacion</label>
@@ -51,12 +66,13 @@
                                         id="inputGeolocCiudad" name="inputGeolocCiudad" required>
 
                                     <input type="text" class="form-control col-xs-12 col-sm-5"
-                                        placeholder="Su departamento" id="inputGeolocDepartamento" name="inputGeolocDepartamento" required>
+                                        placeholder="Su departamento" id="inputGeolocDepartamento"
+                                        name="inputGeolocDepartamento" required>
 
                                     <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
 
                                     <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required>
-                                        
+
                                     <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
                                             style="color:white;"></i></a>
                                 </div>
@@ -70,7 +86,8 @@
                                 </div>
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputGenero">Genero</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputGenero" name="inputGenero">
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputGenero"
+                                        name="inputGenero">
                                         <option value="">Su genero</option>
                                         <option value="Masculino">Masculino</option>
                                         <option value="Feminino">Femenino</option>
@@ -86,8 +103,8 @@
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputFebre">Febre</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputFebre" name="inputFebre"
-                                        onchange="changeState(inputFebre)">
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputFebre"
+                                        name="inputFebre" onchange="changeState(inputFebre)">
                                         <option value="">Elige</option>
                                         <option value="febre">Tengo febre</option>
                                         <option value="no Febre">No tengo febre</option>
@@ -96,7 +113,8 @@
 
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoFebre">Si sí desde cuándo ?</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoFebre" name="infoFebre" disabled>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoFebre"
+                                        name="infoFebre" disabled>
                                         <option value="">Elige</option>
                                         <option value="1 dia">1 dia</option>
                                         <option value="2 dias">2 dias</option>
@@ -110,8 +128,8 @@
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputTos">Tos</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputTos" name="inputTos"
-                                        onchange="changeState(inputTos)">
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputTos"
+                                        name="inputTos" onchange="changeState(inputTos)">
                                         <option value="">Elige</option>
                                         <option value="tos">Tengo tos</option>
                                         <option value="no tos">No tengo tos</option>
@@ -120,7 +138,8 @@
 
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoTos">Si sí desde cuándo ?</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoTos" name="infoTos" disabled>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoTos"
+                                        name="infoTos" disabled>
                                         <option value="">Elige</option>
                                         <option value="1 dia">1 dia</option>
                                         <option value="2 dias">2 dias</option>
@@ -133,18 +152,19 @@
 
                             <div class="form-group w-100" style="display:flex;">
                                 <div class="w-100">
-                                    <label class="col-form-label" for="inputMoqueo">Moqueo</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputMoqueo" name="inputMoqueo"
-                                        onchange="changeState(inputMoqueo)">
+                                    <label class="col-form-label" for="inputRespirar">Dificultad a respirar</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputRespirar"
+                                        name="inputRespirar" onchange="changeState(inputRespirar)">
                                         <option value="">Elige</option>
-                                        <option value="moqueo">Tengo moqueo</option>
-                                        <option value="no moqueo">No tengo moqueo</option>
+                                        <option value="dificultad a respirar">Tengo dificultad a respirar</option>
+                                        <option value="no dificultad a respirar">No tengo dificultad a respirar</option>
                                     </select>
                                 </div>
 
                                 <div class="w-100">
-                                    <label class="col-form-label" for="infoMoqueo">Si sí desde cuándo ?</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoMoqueo" name="infoMoqueo" disabled>
+                                    <label class="col-form-label" for="infoRespirar">Si sí desde cuándo ?</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="infoRespirar"
+                                        name="infoRespirar" disabled>
                                         <option value="">Elige</option>
                                         <option value="1 dia">1 dia</option>
                                         <option value="2 dias">2 dias</option>
@@ -154,7 +174,38 @@
                                     </select>
                                 </div>
                             </div>
+
+                            <div class="form-group w-100" style="display:flex;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputDigestivos">Problemas digestivos</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9"
+                                        id="inputDigestivos" name="inputDigestivos"
+                                        onchange="changeState(inputDigestivos)">
+                                        <option value="">Elige</option>
+                                        <option value="problemas digestivos">Tengo problemas digestivos</option>
+                                        <option value="no problemas digestivos">No tengo problemas digestivos</option>
+                                    </select>
+                                </div>
+
+                                <div class="w-100">
+                                    <label class="col-form-label" for="infoDigestivos">Si sí desde cuándo ?</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9"
+                                        id="infoDigestivos" name="infoDigestivos" disabled>
+                                        <option value="">Elige</option>
+                                        <option value="1 dia">1 dia</option>
+                                        <option value="2 dias">2 dias</option>
+                                        <option value="3 dias">3 dias</option>
+                                        <option value="4 dias">4 dias</option>
+                                        <option value="5 dias">5 dias</option>
+                                    </select>
+                                </div>
+                            </div>
+
+
                         </div>
+
+
+
 
                         <!-- Bloc Oui/Non -->
                         <div class="container mt-5">
@@ -184,7 +235,8 @@
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoContacto">Si sí, cuantas personas aprox
                                         ?</label>
-                                    <select required class="form-control col-xs-12 col-sm-9 col-md-5" id="infoContacto" name="infoContacto" disabled>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-5" id="infoContacto"
+                                        name="infoContacto" disabled>
                                         <option value="">Elige</option>
                                         <option value="1 personna">1 personna</option>
                                         <option value="2 personnas">2 personnas</option>
@@ -221,12 +273,12 @@
                                     <label class="col-form-label" for="inputTel">Si sí, dejar teléfono o celular
                                         ?</label>
                                     <input required type="number" class="form-control col-xs-12 col-sm-9 col-md-5"
-                                        placeholder="Su numero" id="inputTel"name="inputTel" disabled>
+                                        placeholder="Su numero" id="inputTel" name="inputTel" disabled>
 
                                 </div>
                             </fieldset>
-                            <input type="submit" id="submitBtn" name="submitBtn"
-                                class="btn btn-primary btn-lg" value="Enviar">
+                            <input type="submit" id="submitBtn" name="submitBtn" class="btn btn-primary btn-lg"
+                                value="Enviar">
                         </div>
                     </fieldset>
                 </form>

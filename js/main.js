@@ -1,5 +1,30 @@
 
+
+// Transform full name to initials
+
+let inputIniciales = document.getElementById('inputIniciales');
+let submitBtn = document.getElementById('submitBtn');
+
+function toInitials(input) {
+    let final = "";
+    var output = input.split(" ");
+    for (let i = 0; i < output.length; i++) {
+        var letter = output[i].substr(0, 1);
+        final += letter + ".";
+    }
+    return final
+}
+
+
+submitBtn.addEventListener('click', () => {
+    inputIniciales.value = toInitials(inputIniciales.value);
+})
+
+
+
+
 // Form Logic
+
 function changeState(id) {
     switch (id) {
         case inputFebre:
@@ -18,11 +43,19 @@ function changeState(id) {
             }
             break;
 
-        case inputMoqueo:
-            if (id.value === 'moqueo') {
-                infoMoqueo.removeAttribute('disabled');
+        case inputRespirar:
+            if (id.value === 'dificultad a respirar') {
+                infoRespirar.removeAttribute('disabled');
             } else {
-                infoMoqueo.setAttribute('disabled', '')
+                infoRespirar.setAttribute('disabled', '')
+            }
+            break;
+
+        case inputDigestivos:
+            if (id.value === 'problemas digestivos') {
+                infoDigestivos.removeAttribute('disabled');
+            } else {
+                infoDigestivos.setAttribute('disabled', '')
             }
             break;
 
@@ -49,14 +82,10 @@ function changeState(id) {
                 inputTel.setAttribute('disabled', '')
             }
             break;
-
-
-
     }
-
-
-
 }
+
+
 
 // Detect if Device is mobile so that it can display click to call button
 
@@ -71,15 +100,15 @@ function isMobile() {
 
 let clickToCall = document.getElementById('clickToCall');
 const isMobileTrue = isMobile();
-console.log(isMobileTrue)
 if (isMobileTrue) {
     clickToCall.style.display = 'block';
 }
 
-let submitBtn = document.getElementById('submitBtn');
+// Make the alert disappear in success.html
+
 let alertPopUp = document.getElementById('alert-pop-up');
 let btnAlert = document.getElementById('btnAlert');
 
 btnAlert.addEventListener('click', (event) => {
-    alertPopUp.style.display = "none";
+    alertPopUp.style.display = 'none';
 })
