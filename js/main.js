@@ -36,7 +36,7 @@ submitBtn.addEventListener('click', () => {
 function changeState(id) {
     switch (id) {
         case inputFebre:
-            if (id.value === 'febre') {
+            if (id.value === 'fiebre') {
                 infoFebre.removeAttribute('disabled');
             } else {
                 infoFebre.setAttribute('disabled', '')

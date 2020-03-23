@@ -49,7 +49,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             <div class="form-group ">
                                 <label class="col-form-label" for="inputIniciales">Su nombre y apellido</label>
 
-                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su iniciales"
+                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su nombre y apellido"
                                     id="inputIniciales" name="inputIniciales" required>
 
                                 <input type="hidden" id="inputIP" name="inputIP" value="<?= $inputIP ?>">
@@ -104,8 +104,8 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                     <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputFebre"
                                         name="inputFebre" onchange="changeState(inputFebre)">
                                         <option value="">Elige</option>
-                                        <option value="febre">Tengo febre</option>
-                                        <option value="no Febre">No tengo febre</option>
+                                        <option value="fiebre">Tengo fiebre</option>
+                                        <option value="no fiebre">No tengo fiebre</option>
                                     </select>
                                 </div>
 
