@@ -56,8 +56,6 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             </div>
 
 
-
-
                             <div class="form-group ">
                                 <label class="col-form-label" for="inputGeolocCiudad">Geolocalizacion</label>
                                 <div style="display:flex; ">
