@@ -48,6 +48,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
 
                             <div class="form-group ">
                                 <label class="col-form-label" for="inputGeolocCiudad">Sus iniciales</label>
+                                <label class="col-form-label" for="inputGeolocCiudad">Su nombre y apellido</label>
 
                                 <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su iniciales"
                                     id="inputIniciales" name="inputIniciales" required>
