@@ -198,12 +198,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                     </select>
                                 </div>
                             </div>
-
-
                         </div>
-
-
-
 
                         <!-- Bloc Oui/Non -->
                         <div class="container mt-5">
@@ -215,21 +210,18 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                     en los 14
                                     últimos días?</legend>
 
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input required type="radio" class="form-check-input" name="optionsContacto"
+                                <div class="custom-control custom-radio">
+                                <input required type="radio" class="custom-control-input" name="optionsContacto"
                                             id="contactoSi" value="si" onchange="changeState(contactoSi)">
-                                        Si
-                                    </label>
+                                    <label class="custom-control-label" for="contactoSi">Si</label>
                                 </div>
 
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input type="radio" class="form-check-input" name="optionsContacto"
+                                <div class="custom-control custom-radio">
+                                <input type="radio" class="custom-control-input" name="optionsContacto"
                                             id="contactoNo" value="no" onchange="changeState(contactoNo)">
-                                        No
-                                    </label>
+                                    <label class="custom-control-label" for="contactoNo">No</label>
                                 </div>
+
                                 <div class="w-100">
                                     <label class="col-form-label" for="infoContacto">¿Si sí, cuantas personas aprox
                                         ?</label>
@@ -250,20 +242,16 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             <fieldset class="form-group">
                                 <legend style="padding-left:0px;" class="col-xs-12 col-sm-9 col-md-6">¿Ha estado en contacto con una persona que tiene estos síntomas?</legend>
 
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input required type="radio" class="form-check-input" name="optionsContactoOtraPersona"
-                                            id="contactoOtraPersonaSi" value="si" onchange="changeState(contactoSi)">
-                                        Si
-                                    </label>
+                                <div class="custom-control custom-radio">
+                                <input required type="radio" class="custom-control-input" name="optionsContactoOtraPersona"
+                                            id="contactoOtraPersonaSi" value="si">
+                                    <label class="custom-control-label" for="contactoOtraPersonaSi">Si</label>
                                 </div>
 
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input type="radio" class="form-check-input" name="optionsContactoOtraPersona"
-                                            id="contactoOtraPersonaSi" value="no" onchange="changeState(contactoNo)">
-                                        No
-                                    </label>
+                                <div class="custom-control custom-radio">
+                                <input type="radio" class="custom-control-input" name="optionsContactoOtraPersona"
+                                            id="contactoOtraPersonaNo" value="no">
+                                    <label class="custom-control-label" for="contactoOtraPersonaNo">No</label>
                                 </div>
                             </fieldset>
                         </div>
@@ -272,29 +260,36 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             <fieldset class="form-group">
                                 <legend style="padding-left:0px;" class="col-xs-12 col-sm-9 col-md-6">¿Aceptaría que su información sea compartida a las autoridades nacionales?</legend>
 
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input required type="radio" class="form-check-input" name="optionsNumero"
+                                <div class="custom-control custom-radio">
+                                <input required type="radio" class="custom-control-input" name="optionsNumero"
                                             id="numeroSi" value="si" onchange="changeState(numeroSi)">
-                                        Si
-                                    </label>
+                                    <label class="custom-control-label" for="numeroSi">Si</label>
                                 </div>
-                                <div class="form-check">
-                                    <label class="form-check-label">
-                                        <input type="radio" class="form-check-input" name="optionsNumero" id="numeroNo"
+
+                                <div class="custom-control custom-radio">
+                                <input required type="radio" class="custom-control-input" name="optionsNumero" id="numeroNo"
                                             value="no" onchange="changeState(numeroNo)">
-                                        No
-                                    </label>
+                                    <label class="custom-control-label" for="numeroNo">No</label>
                                 </div>
+
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputTel">¿Si sí, dejar teléfono o celular?</label>
                                     <input required type="number" class="form-control col-xs-12 col-sm-9 col-md-5"
                                         placeholder="Su numero" minlength="10" id="inputTel"name="inputTel" style="#inputTel:invalid {border: 2px dashed red;}" disabled>
-
                                 </div>
                             </fieldset>
+
+                            <fieldset>
+                                <div class="form-group">
+                                    <div class="custom-control custom-checkbox">
+                                        <input type="checkbox" class="custom-control-input" id="checkApruebo" onclick="removeDisabled()">
+                                        <label class="custom-control-label" for="checkApruebo">Doy mi consentimiento para el procesamiento de datos confidenciales</label>
+                                    </div>
+                                </div>
+
+                            </fieldset>
                             <input type="submit" id="submitBtn" name="submitBtn" class="btn btn-primary btn-lg"
-                                value="Enviar">
+                                value="Enviar" disabled>
                         </div>
                     </fieldset>
                 </form>
