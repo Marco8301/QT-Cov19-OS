@@ -257,7 +257,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                         </div>
 
                         <div class="container mt-5 mb-4">
-                            <fieldset class="form-group">
+                            <fieldset class="form-group mb-5">
                                 <legend style="padding-left:0px;" class="col-xs-12 col-sm-9 col-md-6">¿Aceptaría que su información sea compartida a las autoridades nacionales?</legend>
 
                                 <div class="custom-control custom-radio">
