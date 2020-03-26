@@ -157,7 +157,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                 </div>
                             </div>
 
-                            <div class="form-group w-100" style="display:flex;">
+                            <div class="form-group w-100" style="display:flex; align-items: flex-end;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputRespirar">Dificultad para respirar</label>
                                     <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputRespirar"
@@ -182,7 +182,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                 </div>
                             </div>
 
-                            <div class="form-group w-100" style="display:flex;">
+                            <div class="form-group w-100" style="display:flex; align-items: flex-end;">
                                 <div class="w-100">
                                     <label class="col-form-label" for="inputDigestivos">Problemas digestivos</label>
                                     <select required class="form-control col-xs-12 col-sm-9 col-md-9"
