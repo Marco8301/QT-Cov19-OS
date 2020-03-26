@@ -6,14 +6,14 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
 ?>
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-150778269-3"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150778269-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', 'UA-150778269-3');
-    </script>
+  gtag('config', 'UA-150778269-3');
+</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
@@ -314,8 +314,9 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
     </main>
 
 
-    <footer class="navbar navbar-expand-lg navbar-dark bg-primary ">
-    <p style="margin:0 auto; color:white; text-align:center;"><small>Este es un proyecto de código abierto, hecho posible por <strong>Quantrack</strong>. Cualquier ayuda es más que bienvenida.</small></p>
+    <footer class="navbar navbar-expand-lg navbar-dark bg-primary" style="display:block;">
+        <p style="margin:0 auto; color:white; text-align:center;"><small>Este es un proyecto de código abierto, hecho posible por <strong>Quantrack</strong>. Cualquier ayuda es más que bienvenida.</small></p>
+        <p style="margin:0 auto; color:white; text-align:center;"><small>Consulte nuestra <a target="blank" href="./Data protection-Cov19Col OS rev AVE.pdf" style="color:white; text-decoration:underline;">política de privacidad</a></small></p>
     </footer>
 
     <script src="./js/main.js"></script>
