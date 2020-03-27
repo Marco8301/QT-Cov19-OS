@@ -11,7 +11,6 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-150778269-3');
 </script>
     <meta charset="UTF-8">
@@ -19,8 +18,8 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <title>COVID</title>
     <script src="./js/lib/jquery-3.4.0.js"></script>
-
     <script src="https://kit.fontawesome.com/ce9a5e3fb3.js" crossorigin="anonymous"></script>
+    <meta name="theme-color" content="#EB6864">
 </head>
 
 <body>
