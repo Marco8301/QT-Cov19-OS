@@ -36,7 +36,8 @@ class Submit {
         include('PDO.class.php');
 
         $request = 'INSERT INTO responses (time_submit, Iniciales, inputIP, GeolocCiudad, GeolocDepartamento, GeolocLat, GeolocLng, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos,inputRespirar, infoRespirar, inputDigestivos, infoDigestivos, optionsContacto, infoContacto, optionsContactoOtraPersona, optionsNumero, inputTel)
-        VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)';
+        VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)
+        ON DUPLICATE KEY UPDATE inputFebre = :inputFebre, infoFebre = :infoFebre, inputTos = :inputTos, infoTos = :infoTos, inputRespirar = :inputRespirar, infoRespirar = :infoRespirar, inputDigestivos = :inputDigestivos, infoDigestivos = :infoDigestivos, optionsContacto = :optionsContacto, infoContacto = :infoContacto, optionsContactoOtraPersona = :optionsContactoOtraPersona, optionsNumero = :optionsNumero, inputTel = :inputTel';
 
         $order = $db->prepare($request);
 
