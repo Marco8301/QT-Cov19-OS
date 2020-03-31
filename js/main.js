@@ -6,15 +6,19 @@ let inputIniciales = document.getElementById('inputIniciales');
 let submitBtn = document.getElementById('submitBtn');
 let checkApruebo = document.getElementById('checkApruebo');
 
-function toInitials(input) {
-    let final = "";
-    var output = input.split(" ");
-    for (let i = 0; i < output.length; i++) {
-        var letter = output[i].substr(0, 1);
-        final += letter + ".";
-    }
-    return final
-}
+// function toInitials(input) {
+//     let final = "";
+//     var output = input.split(" ");
+//     for (let i = 0; i < output.length; i++) {
+//         var letter = output[i].substr(0, 1);
+//         final += letter + ".";
+//     }
+//     return final
+// }
+
+// submitBtn.addEventListener('click', () => {
+//     inputIniciales.value = toInitials(inputIniciales.value);
+// })
 
 // Toggle btn attribute disabled
 
@@ -26,9 +30,7 @@ function removeDisabled() {
     }
 }
 
-submitBtn.addEventListener('click', () => {
-    inputIniciales.value = toInitials(inputIniciales.value);
-})
+
 
 
 // Form Logic
@@ -92,6 +94,72 @@ function changeState(id) {
             break;
     }
 }
+
+var inputGeolocDepartamento = document.getElementById('inputGeolocDepartamento');
+let inputGeolocCiudad = document.getElementById('inputGeolocCiudad');
+
+
+$.getJSON('./js/department.json', (data) => {
+    createDepartments(data);
+    searchCiudades()
+
+});
+
+function createDepartments(data) {
+
+    let listDepartments = [];
+
+    for (let i = 0; i < data.length; i++) {
+        if (!listDepartments.includes(data[i]["department"])) {
+            listDepartments.push(data[i]["department"])
+        }
+    }
+
+    for (let y = 0; y < listDepartments.length; y++) {
+        var elSelect = document.createElement("option");
+        elSelect.appendChild(document.createTextNode(listDepartments[y]));
+        elSelect.value = listDepartments[y];
+        inputGeolocDepartamento.appendChild(elSelect);
+    }
+
+}
+
+function searchCiudades() {
+    $.getJSON('./js/department.json', (data) => {
+
+        let ciudades = [];
+
+        for (let i = 0; i < data.length; i++) {
+            if (data[i]["department"] === inputGeolocDepartamento.value)
+                ciudades.push(data[i]["municipality"]);
+        }
+
+        if (inputGeolocCiudad.length === 1) {
+            createCiudades(ciudades);
+        } else {
+            while (inputGeolocCiudad.childNodes.length > 1) {
+                inputGeolocCiudad.removeChild(inputGeolocCiudad.lastChild);
+            }
+            var elSelect = document.createElement("option");
+            elSelect.appendChild(document.createTextNode("Elige"));
+            elSelect.value = "";
+            inputGeolocCiudad.appendChild(elSelect);
+            createCiudades(ciudades)
+        }
+
+    });
+
+}
+
+function createCiudades(ciudades) {
+    for (let y = 0; y < ciudades.length; y++) {
+        var elSelect = document.createElement("option");
+        elSelect.appendChild(document.createTextNode(ciudades[y]));
+        elSelect.value = ciudades[y];
+        inputGeolocCiudad.appendChild(elSelect);
+    }
+}
+
 
 
 

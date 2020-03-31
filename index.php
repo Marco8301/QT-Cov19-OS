@@ -55,9 +55,9 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             <legend style="padding-left:0px;">Su identidad</legend>
 
                             <div class="form-group ">
-                                <label class="col-form-label" for="inputIniciales">Su nombre y apellido</label>
+                                <label class="col-form-label" for="inputIniciales">Su Iniciales</label>
 
-                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su nombre y apellido"
+                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su Iniciales"
                                     id="inputIniciales" name="inputIniciales" required>
 
                                 <input type="hidden" id="inputIP" name="inputIP" value="<?= $inputIP ?>">
@@ -65,22 +65,55 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
 
 
                             <div class="form-group ">
-                                <label class="col-form-label" for="inputGeolocCiudad">Geolocalización</label>
                                 <div style="display:flex; ">
 
-                                    <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su ciudad"
-                                        id="inputGeolocCiudad" name="inputGeolocCiudad" required>
+                                    <!-- <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su ciudad"
+                                        id="inputGeolocCiudad" name="inputGeolocCiudad" required> -->
 
-                                    <input type="text" class="form-control col-xs-12 col-sm-5"
+                                    <!-- <input type="text" class="form-control col-xs-12 col-sm-5"
                                         placeholder="Su departamento" id="inputGeolocDepartamento"
-                                        name="inputGeolocDepartamento" required>
+                                        name="inputGeolocDepartamento" required> -->
 
-                                    <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
+                                    <!-- <select required class="form-control col-xs-12 col-sm-9 col-md-4" id="inputGeolocDepartamento"
+                                        name="inputGeolocDepartamento" onchange="searchCiudades()">
+                                        <option value="">Elige</option>
+                                    </select>
 
-                                    <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-4" id="inputGeolocCiudad"
+                                        name="inputGeolocCiudad">
+                                        <option value="">Elige</option>
+                                    </select> -->
 
-                                    <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
-                                            style="color:white;"></i></a>
+
+
+                                    <div class="form-group w-100" style="display:flex; align-items: flex-end;">
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputGeolocDepartamento">Departamento</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputGeolocDepartamento"
+                                        name="inputGeolocDepartamento" onchange="searchCiudades()">
+                                        <option value="">Elige</option>
+                                    </select>
+                                </div>
+
+                                <div class="w-100">
+                                    <label class="col-form-label" for="inputGeolocCiudad">Ciudad</label>
+                                    <select required class="form-control col-xs-12 col-sm-9 col-md-9" id="inputGeolocCiudad"
+                                        name="inputGeolocCiudad">
+                                        <option value="">Elige</option>
+                                    </select>
+                                </div>
+                            </div>
+
+
+                            
+
+                                    <!-- <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
+
+                                    <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required> -->
+
+                                    <!-- <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
+                                            style="color:white;"></i></a> -->
+
                                 </div>
                             </div>
 
@@ -100,6 +133,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                                     </select>
                                 </div>
                             </div>
+
                         </div>
 
                         <!-- Bloc symptomes -->
@@ -312,14 +346,13 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
         </div>
     </main>
 
-
     <footer class="navbar navbar-expand-lg navbar-dark bg-primary" style="display:block;">
         <p style="margin:0 auto; color:white; text-align:center;"><small>Este es un proyecto de código abierto, hecho posible por <strong>Quantrack</strong>. Cualquier ayuda es más que bienvenida.</small></p>
         <p style="margin:0 auto; color:white; text-align:center;"><small>Consulte nuestra <a target="blank" href="./Data protection-Cov19Col OS rev AVE.pdf" style="color:white; text-decoration:underline;">política de privacidad</a></small></p>
     </footer>
 
     <script src="./js/main.js"></script>
-    <script src="./js/geoloc.js"></script>
+    <!-- <script src="./js/geoloc.js"></script> -->
 </body>
 
 </html>

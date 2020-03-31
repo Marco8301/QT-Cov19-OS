@@ -1,14 +1,14 @@
 <?php
 
 class Submit {
-    function __construct($inputIniciales, $inputIP, $inputGeolocCiudad, $inputGeolocDepartamento, $inputGeolocLat, $inputGeolocLng, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsContactoOtraPersona, $optionsNumero, $inputTel) {
+    function __construct($inputIniciales, $inputIP, $inputGeolocCiudad, $inputGeolocDepartamento, $inputEdad, $inputGenero, $inputFebre, $infoFebre, $inputTos, $infoTos, $inputRespirar, $infoRespirar, $inputDigestivos, $infoDigestivos, $optionsContacto, $infoContacto, $optionsContactoOtraPersona, $optionsNumero, $inputTel) {
         
         $this->inputIniciales = $inputIniciales;
         $this->inputIP = $inputIP;
         $this->inputGeolocCiudad = $inputGeolocCiudad;
         $this->inputGeolocDepartamento = $inputGeolocDepartamento;
-        $this->inputGeolocLat = $inputGeolocLat;
-        $this->inputGeolocLng = $inputGeolocLng;
+        // $this->inputGeolocLat = $inputGeolocLat;
+        // $this->inputGeolocLng = $inputGeolocLng;
         $this->inputEdad = $inputEdad;
         $this->inputGenero = $inputGenero;
         $this->inputFebre = $inputFebre;
@@ -35,8 +35,8 @@ class Submit {
     function submitForm() {
         include('PDO.class.php');
 
-        $request = 'INSERT INTO responses (time_submit, Iniciales, inputIP, GeolocCiudad, GeolocDepartamento, GeolocLat, GeolocLng, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos,inputRespirar, infoRespirar, inputDigestivos, infoDigestivos, optionsContacto, infoContacto, optionsContactoOtraPersona, optionsNumero, inputTel)
-        VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :GeolocLat, :GeolocLng, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)
+        $request = 'INSERT INTO responses (time_submit, Iniciales, inputIP, GeolocCiudad, GeolocDepartamento, Edad, Genero, inputFebre, infoFebre, inputTos, infoTos,inputRespirar, infoRespirar, inputDigestivos, infoDigestivos, optionsContacto, infoContacto, optionsContactoOtraPersona, optionsNumero, inputTel)
+        VALUES (NOW(), :Iniciales, :inputIP, :GeolocCiudad, :GeolocDepartamento, :Edad, :Genero, :inputFebre, :infoFebre, :inputTos, :infoTos, :inputRespirar, :infoRespirar, :inputDigestivos, :infoDigestivos, :optionsContacto, :infoContacto, :optionsContactoOtraPersona, :optionsNumero, :inputTel)
         ON DUPLICATE KEY UPDATE inputFebre = :inputFebre, infoFebre = :infoFebre, inputTos = :inputTos, infoTos = :infoTos, inputRespirar = :inputRespirar, infoRespirar = :infoRespirar, inputDigestivos = :inputDigestivos, infoDigestivos = :infoDigestivos, optionsContacto = :optionsContacto, infoContacto = :infoContacto, optionsContactoOtraPersona = :optionsContactoOtraPersona, optionsNumero = :optionsNumero, inputTel = :inputTel';
 
         $order = $db->prepare($request);
@@ -46,8 +46,6 @@ class Submit {
             ':inputIP' => $this->inputIP,
             ':GeolocCiudad' => $this->inputGeolocCiudad,
             ':GeolocDepartamento' => $this->inputGeolocDepartamento,
-            ':GeolocLat' => $this->inputGeolocLat,
-            ':GeolocLng' => $this->inputGeolocLng,
             ':Edad' => $this->inputEdad,
             ':Genero' => $this->inputGenero,
             ':inputFebre' => $this->inputFebre,

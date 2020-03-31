@@ -1,0 +1,7457 @@
+[
+    {
+        "department": "Amazonas",
+        "municipality": "El Encanto",
+        "department_abbreviation": "AM",
+        "NAME": "El Encanto, AM",
+        "row_nr": 1
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "La Chorrera",
+        "department_abbreviation": "AM",
+        "NAME": "La Chorrera, AM",
+        "row_nr": 2
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "La Pedrera",
+        "department_abbreviation": "AM",
+        "NAME": "La Pedrera, AM",
+        "row_nr": 3
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "Leticia",
+        "department_abbreviation": "AM",
+        "NAME": "Leticia, AM",
+        "row_nr": 4
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "Miriti-Parana",
+        "department_abbreviation": "AM",
+        "NAME": "Miriti-Parana, AM",
+        "row_nr": 5
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "Puerto Narino",
+        "department_abbreviation": "AM",
+        "NAME": "Puerto Narino, AM",
+        "row_nr": 6
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "Puerto Santander",
+        "department_abbreviation": "AM",
+        "NAME": "Puerto Santander, AM",
+        "row_nr": 7
+    },
+    {
+        "department": "Amazonas",
+        "municipality": "Tarapaca",
+        "department_abbreviation": "AM",
+        "NAME": "Tarapaca, AM",
+        "row_nr": 8
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Abejorral",
+        "department_abbreviation": "AN",
+        "NAME": "Abejorral, AN",
+        "row_nr": 9
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Abriaqui",
+        "department_abbreviation": "AN",
+        "NAME": "Abriaqui, AN",
+        "row_nr": 10
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Alejandria",
+        "department_abbreviation": "AN",
+        "NAME": "Alejandria, AN",
+        "row_nr": 11
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Amaga",
+        "department_abbreviation": "AN",
+        "NAME": "Amaga, AN",
+        "row_nr": 12
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Amalfi",
+        "department_abbreviation": "AN",
+        "NAME": "Amalfi, AN",
+        "row_nr": 13
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Andes",
+        "department_abbreviation": "AN",
+        "NAME": "Andes, AN",
+        "row_nr": 14
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Angelopolis",
+        "department_abbreviation": "AN",
+        "NAME": "Angelopolis, AN",
+        "row_nr": 15
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Angostura",
+        "department_abbreviation": "AN",
+        "NAME": "Angostura, AN",
+        "row_nr": 16
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Anori",
+        "department_abbreviation": "AN",
+        "NAME": "Anori, AN",
+        "row_nr": 17
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Anza",
+        "department_abbreviation": "AN",
+        "NAME": "Anza, AN",
+        "row_nr": 18
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Apartado",
+        "department_abbreviation": "AN",
+        "NAME": "Apartado, AN",
+        "row_nr": 19
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Arboletes",
+        "department_abbreviation": "AN",
+        "NAME": "Arboletes, AN",
+        "row_nr": 20
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Argelia",
+        "department_abbreviation": "AN",
+        "NAME": "Argelia, AN",
+        "row_nr": 21
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Armenia",
+        "department_abbreviation": "AN",
+        "NAME": "Armenia, AN",
+        "row_nr": 22
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Barbosa",
+        "department_abbreviation": "AN",
+        "NAME": "Barbosa, AN",
+        "row_nr": 23
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Bello",
+        "department_abbreviation": "AN",
+        "NAME": "Bello, AN",
+        "row_nr": 24
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Belmira",
+        "department_abbreviation": "AN",
+        "NAME": "Belmira, AN",
+        "row_nr": 25
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Betania",
+        "department_abbreviation": "AN",
+        "NAME": "Betania, AN",
+        "row_nr": 26
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Betulia",
+        "department_abbreviation": "AN",
+        "NAME": "Betulia, AN",
+        "row_nr": 27
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Bolivar",
+        "department_abbreviation": "AN",
+        "NAME": "Bolivar, AN",
+        "row_nr": 28
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Briceno",
+        "department_abbreviation": "AN",
+        "NAME": "Briceno, AN",
+        "row_nr": 29
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Buritica",
+        "department_abbreviation": "AN",
+        "NAME": "Buritica, AN",
+        "row_nr": 30
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caceres",
+        "department_abbreviation": "AN",
+        "NAME": "Caceres, AN",
+        "row_nr": 31
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caicedo",
+        "department_abbreviation": "AN",
+        "NAME": "Caicedo, AN",
+        "row_nr": 32
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caldas",
+        "department_abbreviation": "AN",
+        "NAME": "Caldas, AN",
+        "row_nr": 33
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Campamento",
+        "department_abbreviation": "AN",
+        "NAME": "Campamento, AN",
+        "row_nr": 34
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Canasgordas",
+        "department_abbreviation": "AN",
+        "NAME": "Canasgordas, AN",
+        "row_nr": 35
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caracoli",
+        "department_abbreviation": "AN",
+        "NAME": "Caracoli, AN",
+        "row_nr": 36
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caramanta",
+        "department_abbreviation": "AN",
+        "NAME": "Caramanta, AN",
+        "row_nr": 37
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Carepa",
+        "department_abbreviation": "AN",
+        "NAME": "Carepa, AN",
+        "row_nr": 38
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Carolina del Principe",
+        "department_abbreviation": "AN",
+        "NAME": "Carolina del Principe, AN",
+        "row_nr": 39
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Caucasia",
+        "department_abbreviation": "AN",
+        "NAME": "Caucasia, AN",
+        "row_nr": 40
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Chigorodo",
+        "department_abbreviation": "AN",
+        "NAME": "Chigorodo, AN",
+        "row_nr": 41
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Cisneros",
+        "department_abbreviation": "AN",
+        "NAME": "Cisneros, AN",
+        "row_nr": 42
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Cocorna",
+        "department_abbreviation": "AN",
+        "NAME": "Cocorna, AN",
+        "row_nr": 43
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Concepcion",
+        "department_abbreviation": "AN",
+        "NAME": "Concepcion, AN",
+        "row_nr": 44
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Concordia",
+        "department_abbreviation": "AN",
+        "NAME": "Concordia, AN",
+        "row_nr": 45
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Copacabana",
+        "department_abbreviation": "AN",
+        "NAME": "Copacabana, AN",
+        "row_nr": 46
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Dabeiba",
+        "department_abbreviation": "AN",
+        "NAME": "Dabeiba, AN",
+        "row_nr": 47
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Don Matias",
+        "department_abbreviation": "AN",
+        "NAME": "Don Matias, AN",
+        "row_nr": 48
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Ebejico",
+        "department_abbreviation": "AN",
+        "NAME": "Ebejico, AN",
+        "row_nr": 49
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "El Bagre",
+        "department_abbreviation": "AN",
+        "NAME": "El Bagre, AN",
+        "row_nr": 50
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "El Carmen de Viboral",
+        "department_abbreviation": "AN",
+        "NAME": "El Carmen de Viboral, AN",
+        "row_nr": 51
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "El Santuario",
+        "department_abbreviation": "AN",
+        "NAME": "El Santuario, AN",
+        "row_nr": 52
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Entrerrios",
+        "department_abbreviation": "AN",
+        "NAME": "Entrerrios, AN",
+        "row_nr": 53
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Envigado",
+        "department_abbreviation": "AN",
+        "NAME": "Envigado, AN",
+        "row_nr": 54
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Fredonia",
+        "department_abbreviation": "AN",
+        "NAME": "Fredonia, AN",
+        "row_nr": 55
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Frontino",
+        "department_abbreviation": "AN",
+        "NAME": "Frontino, AN",
+        "row_nr": 56
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Giraldo",
+        "department_abbreviation": "AN",
+        "NAME": "Giraldo, AN",
+        "row_nr": 57
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Girardota",
+        "department_abbreviation": "AN",
+        "NAME": "Girardota, AN",
+        "row_nr": 58
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Gomez Plata",
+        "department_abbreviation": "AN",
+        "NAME": "Gomez Plata, AN",
+        "row_nr": 59
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Granada",
+        "department_abbreviation": "AN",
+        "NAME": "Granada, AN",
+        "row_nr": 60
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Guadalupe",
+        "department_abbreviation": "AN",
+        "NAME": "Guadalupe, AN",
+        "row_nr": 61
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Guarne",
+        "department_abbreviation": "AN",
+        "NAME": "Guarne, AN",
+        "row_nr": 62
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Guatape",
+        "department_abbreviation": "AN",
+        "NAME": "Guatape, AN",
+        "row_nr": 63
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Heliconia",
+        "department_abbreviation": "AN",
+        "NAME": "Heliconia, AN",
+        "row_nr": 64
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Hispania",
+        "department_abbreviation": "AN",
+        "NAME": "Hispania, AN",
+        "row_nr": 65
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Itagui",
+        "department_abbreviation": "AN",
+        "NAME": "Itagui, AN",
+        "row_nr": 66
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Ituango",
+        "department_abbreviation": "AN",
+        "NAME": "Ituango, AN",
+        "row_nr": 67
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Jardin",
+        "department_abbreviation": "AN",
+        "NAME": "Jardin, AN",
+        "row_nr": 68
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Jerico",
+        "department_abbreviation": "AN",
+        "NAME": "Jerico, AN",
+        "row_nr": 69
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "La Ceja",
+        "department_abbreviation": "AN",
+        "NAME": "La Ceja, AN",
+        "row_nr": 70
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "La Estrella",
+        "department_abbreviation": "AN",
+        "NAME": "La Estrella, AN",
+        "row_nr": 71
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "La Union de Sucre",
+        "department_abbreviation": "AN",
+        "NAME": "La Union de Sucre, AN",
+        "row_nr": 72
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Liborina",
+        "department_abbreviation": "AN",
+        "NAME": "Liborina, AN",
+        "row_nr": 73
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Maceo",
+        "department_abbreviation": "AN",
+        "NAME": "Maceo, AN",
+        "row_nr": 74
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Marinilla",
+        "department_abbreviation": "AN",
+        "NAME": "Marinilla, AN",
+        "row_nr": 75
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Medellin",
+        "department_abbreviation": "AN",
+        "NAME": "Medellin, AN",
+        "row_nr": 76
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Montebello",
+        "department_abbreviation": "AN",
+        "NAME": "Montebello, AN",
+        "row_nr": 77
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Murindo",
+        "department_abbreviation": "AN",
+        "NAME": "Murindo, AN",
+        "row_nr": 78
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Mutata",
+        "department_abbreviation": "AN",
+        "NAME": "Mutata, AN",
+        "row_nr": 79
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Narino",
+        "department_abbreviation": "AN",
+        "NAME": "Narino, AN",
+        "row_nr": 80
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Nechi",
+        "department_abbreviation": "AN",
+        "NAME": "Nechi, AN",
+        "row_nr": 81
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Necocli",
+        "department_abbreviation": "AN",
+        "NAME": "Necocli, AN",
+        "row_nr": 82
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Olaya",
+        "department_abbreviation": "AN",
+        "NAME": "Olaya, AN",
+        "row_nr": 83
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Penol",
+        "department_abbreviation": "AN",
+        "NAME": "Penol, AN",
+        "row_nr": 84
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Peque",
+        "department_abbreviation": "AN",
+        "NAME": "Peque, AN",
+        "row_nr": 85
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Pueblorrico",
+        "department_abbreviation": "AN",
+        "NAME": "Pueblorrico, AN",
+        "row_nr": 86
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Puerto Berrio",
+        "department_abbreviation": "AN",
+        "NAME": "Puerto Berrio, AN",
+        "row_nr": 87
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Puerto Nare",
+        "department_abbreviation": "AN",
+        "NAME": "Puerto Nare, AN",
+        "row_nr": 88
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Puerto Triunfo",
+        "department_abbreviation": "AN",
+        "NAME": "Puerto Triunfo, AN",
+        "row_nr": 89
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Remedios",
+        "department_abbreviation": "AN",
+        "NAME": "Remedios, AN",
+        "row_nr": 90
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Retiro",
+        "department_abbreviation": "AN",
+        "NAME": "Retiro, AN",
+        "row_nr": 91
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Rionegro",
+        "department_abbreviation": "AN",
+        "NAME": "Rionegro, AN",
+        "row_nr": 92
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Sabanalarga",
+        "department_abbreviation": "AN",
+        "NAME": "Sabanalarga, AN",
+        "row_nr": 93
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Sabaneta",
+        "department_abbreviation": "AN",
+        "NAME": "Sabaneta, AN",
+        "row_nr": 94
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Salgar",
+        "department_abbreviation": "AN",
+        "NAME": "Salgar, AN",
+        "row_nr": 95
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Andres de Cuerquia",
+        "department_abbreviation": "AN",
+        "NAME": "San Andres de Cuerquia, AN",
+        "row_nr": 96
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Carlos",
+        "department_abbreviation": "AN",
+        "NAME": "San Carlos, AN",
+        "row_nr": 97
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Francisco",
+        "department_abbreviation": "AN",
+        "NAME": "San Francisco, AN",
+        "row_nr": 98
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Jeronimo",
+        "department_abbreviation": "AN",
+        "NAME": "San Jeronimo, AN",
+        "row_nr": 99
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Jose de la Montana",
+        "department_abbreviation": "AN",
+        "NAME": "San Jose de la Montana, AN",
+        "row_nr": 100
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Juan de Uraba",
+        "department_abbreviation": "AN",
+        "NAME": "San Juan de Uraba, AN",
+        "row_nr": 101
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Luis",
+        "department_abbreviation": "AN",
+        "NAME": "San Luis, AN",
+        "row_nr": 102
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Pedro de los Milagros",
+        "department_abbreviation": "AN",
+        "NAME": "San Pedro de los Milagros, AN",
+        "row_nr": 103
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Pedro de Uraba",
+        "department_abbreviation": "AN",
+        "NAME": "San Pedro de Uraba, AN",
+        "row_nr": 104
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Rafael",
+        "department_abbreviation": "AN",
+        "NAME": "San Rafael, AN",
+        "row_nr": 105
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Roque",
+        "department_abbreviation": "AN",
+        "NAME": "San Roque, AN",
+        "row_nr": 106
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "San Vicente",
+        "department_abbreviation": "AN",
+        "NAME": "San Vicente, AN",
+        "row_nr": 107
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Santa Barbara",
+        "department_abbreviation": "AN",
+        "NAME": "Santa Barbara, AN",
+        "row_nr": 108
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Santa Fe de Antioquia",
+        "department_abbreviation": "AN",
+        "NAME": "Santa Fe de Antioquia, AN",
+        "row_nr": 109
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Santa Rosa de Osos",
+        "department_abbreviation": "AN",
+        "NAME": "Santa Rosa de Osos, AN",
+        "row_nr": 110
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Santo Domingo",
+        "department_abbreviation": "AN",
+        "NAME": "Santo Domingo, AN",
+        "row_nr": 111
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Segovia",
+        "department_abbreviation": "AN",
+        "NAME": "Segovia, AN",
+        "row_nr": 112
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Sonson",
+        "department_abbreviation": "AN",
+        "NAME": "Sonson, AN",
+        "row_nr": 113
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Sopetran",
+        "department_abbreviation": "AN",
+        "NAME": "Sopetran, AN",
+        "row_nr": 114
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Tamesis",
+        "department_abbreviation": "AN",
+        "NAME": "Tamesis, AN",
+        "row_nr": 115
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Taraza",
+        "department_abbreviation": "AN",
+        "NAME": "Taraza, AN",
+        "row_nr": 116
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Tarso",
+        "department_abbreviation": "AN",
+        "NAME": "Tarso, AN",
+        "row_nr": 117
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Titiribi",
+        "department_abbreviation": "AN",
+        "NAME": "Titiribi, AN",
+        "row_nr": 118
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Toledo",
+        "department_abbreviation": "AN",
+        "NAME": "Toledo, AN",
+        "row_nr": 119
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Turbo",
+        "department_abbreviation": "AN",
+        "NAME": "Turbo, AN",
+        "row_nr": 120
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Uramita",
+        "department_abbreviation": "AN",
+        "NAME": "Uramita, AN",
+        "row_nr": 121
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Urrao",
+        "department_abbreviation": "AN",
+        "NAME": "Urrao, AN",
+        "row_nr": 122
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Valdivia",
+        "department_abbreviation": "AN",
+        "NAME": "Valdivia, AN",
+        "row_nr": 123
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Valparaiso",
+        "department_abbreviation": "AN",
+        "NAME": "Valparaiso, AN",
+        "row_nr": 124
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Vegachi",
+        "department_abbreviation": "AN",
+        "NAME": "Vegachi, AN",
+        "row_nr": 125
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Venecia",
+        "department_abbreviation": "AN",
+        "NAME": "Venecia, AN",
+        "row_nr": 126
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Vigia del Fuerte",
+        "department_abbreviation": "AN",
+        "NAME": "Vigia del Fuerte, AN",
+        "row_nr": 127
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Yali",
+        "department_abbreviation": "AN",
+        "NAME": "Yali, AN",
+        "row_nr": 128
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Yarumal",
+        "department_abbreviation": "AN",
+        "NAME": "Yarumal, AN",
+        "row_nr": 129
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Yolombo",
+        "department_abbreviation": "AN",
+        "NAME": "Yolombo, AN",
+        "row_nr": 130
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Yondo",
+        "department_abbreviation": "AN",
+        "NAME": "Yondo, AN",
+        "row_nr": 131
+    },
+    {
+        "department": "Antioquia",
+        "municipality": "Zaragoza",
+        "department_abbreviation": "AN",
+        "NAME": "Zaragoza, AN",
+        "row_nr": 132
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Arauca",
+        "department_abbreviation": "AR",
+        "NAME": "Arauca, AR",
+        "row_nr": 133
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Arauquita",
+        "department_abbreviation": "AR",
+        "NAME": "Arauquita, AR",
+        "row_nr": 134
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Cravo Norte",
+        "department_abbreviation": "AR",
+        "NAME": "Cravo Norte, AR",
+        "row_nr": 135
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Fortul",
+        "department_abbreviation": "AR",
+        "NAME": "Fortul, AR",
+        "row_nr": 136
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Puerto Rondon",
+        "department_abbreviation": "AR",
+        "NAME": "Puerto Rondon, AR",
+        "row_nr": 137
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Saravena",
+        "department_abbreviation": "AR",
+        "NAME": "Saravena, AR",
+        "row_nr": 138
+    },
+    {
+        "department": "Arauca",
+        "municipality": "Tame",
+        "department_abbreviation": "AR",
+        "NAME": "Tame, AR",
+        "row_nr": 139
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Baranoa",
+        "department_abbreviation": "AT",
+        "NAME": "Baranoa, AT",
+        "row_nr": 140
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Barranquilla",
+        "department_abbreviation": "AT",
+        "NAME": "Barranquilla, AT",
+        "row_nr": 141
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Campo de la Cruz",
+        "department_abbreviation": "AT",
+        "NAME": "Campo de la Cruz, AT",
+        "row_nr": 142
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Candelaria",
+        "department_abbreviation": "AT",
+        "NAME": "Candelaria, AT",
+        "row_nr": 143
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Galapa",
+        "department_abbreviation": "AT",
+        "NAME": "Galapa, AT",
+        "row_nr": 144
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Juan de Acosta",
+        "department_abbreviation": "AT",
+        "NAME": "Juan de Acosta, AT",
+        "row_nr": 145
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Luruaco",
+        "department_abbreviation": "AT",
+        "NAME": "Luruaco, AT",
+        "row_nr": 146
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Malambo",
+        "department_abbreviation": "AT",
+        "NAME": "Malambo, AT",
+        "row_nr": 147
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Manati",
+        "department_abbreviation": "AT",
+        "NAME": "Manati, AT",
+        "row_nr": 148
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Palmar de Varela",
+        "department_abbreviation": "AT",
+        "NAME": "Palmar de Varela, AT",
+        "row_nr": 149
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Piojo",
+        "department_abbreviation": "AT",
+        "NAME": "Piojo, AT",
+        "row_nr": 150
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Polonuevo",
+        "department_abbreviation": "AT",
+        "NAME": "Polonuevo, AT",
+        "row_nr": 151
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Ponedera",
+        "department_abbreviation": "AT",
+        "NAME": "Ponedera, AT",
+        "row_nr": 152
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Puerto Colombia",
+        "department_abbreviation": "AT",
+        "NAME": "Puerto Colombia, AT",
+        "row_nr": 153
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Repelon",
+        "department_abbreviation": "AT",
+        "NAME": "Repelon, AT",
+        "row_nr": 154
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Sabanagrande",
+        "department_abbreviation": "AT",
+        "NAME": "Sabanagrande, AT",
+        "row_nr": 155
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Sabanalarga",
+        "department_abbreviation": "AT",
+        "NAME": "Sabanalarga, AT",
+        "row_nr": 156
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Santa Lucia",
+        "department_abbreviation": "AT",
+        "NAME": "Santa Lucia, AT",
+        "row_nr": 157
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Santo Tomas",
+        "department_abbreviation": "AT",
+        "NAME": "Santo Tomas, AT",
+        "row_nr": 158
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Soledad",
+        "department_abbreviation": "AT",
+        "NAME": "Soledad, AT",
+        "row_nr": 159
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Suan",
+        "department_abbreviation": "AT",
+        "NAME": "Suan, AT",
+        "row_nr": 160
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Tubara",
+        "department_abbreviation": "AT",
+        "NAME": "Tubara, AT",
+        "row_nr": 161
+    },
+    {
+        "department": "Atlantico",
+        "municipality": "Usiacuri",
+        "department_abbreviation": "AT",
+        "NAME": "Usiacuri, AT",
+        "row_nr": 162
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Achi",
+        "department_abbreviation": "BL",
+        "NAME": "Achi, BL",
+        "row_nr": 163
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Altos del Rosario",
+        "department_abbreviation": "BL",
+        "NAME": "Altos del Rosario, BL",
+        "row_nr": 164
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Arjona",
+        "department_abbreviation": "BL",
+        "NAME": "Arjona, BL",
+        "row_nr": 165
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Barranco de Loba",
+        "department_abbreviation": "BL",
+        "NAME": "Barranco de Loba, BL",
+        "row_nr": 166
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Calamar",
+        "department_abbreviation": "BL",
+        "NAME": "Calamar, BL",
+        "row_nr": 167
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Cantagallo",
+        "department_abbreviation": "BL",
+        "NAME": "Cantagallo, BL",
+        "row_nr": 168
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Cartagena de Indias",
+        "department_abbreviation": "BL",
+        "NAME": "Cartagena de Indias, BL",
+        "row_nr": 169
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Cicuco",
+        "department_abbreviation": "BL",
+        "NAME": "Cicuco, BL",
+        "row_nr": 170
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Cordoba",
+        "department_abbreviation": "BL",
+        "NAME": "Cordoba, BL",
+        "row_nr": 171
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "El Carmen de Bolivar",
+        "department_abbreviation": "BL",
+        "NAME": "El Carmen de Bolivar, BL",
+        "row_nr": 172
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "El Guamo",
+        "department_abbreviation": "BL",
+        "NAME": "El Guamo, BL",
+        "row_nr": 173
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Hatillo de Loba",
+        "department_abbreviation": "BL",
+        "NAME": "Hatillo de Loba, BL",
+        "row_nr": 174
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Mahates",
+        "department_abbreviation": "BL",
+        "NAME": "Mahates, BL",
+        "row_nr": 175
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Margarita",
+        "department_abbreviation": "BL",
+        "NAME": "Margarita, BL",
+        "row_nr": 176
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Maria la Baja",
+        "department_abbreviation": "BL",
+        "NAME": "Maria la Baja, BL",
+        "row_nr": 177
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Mompos",
+        "department_abbreviation": "BL",
+        "NAME": "Mompos, BL",
+        "row_nr": 178
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Montecristo",
+        "department_abbreviation": "BL",
+        "NAME": "Montecristo, BL",
+        "row_nr": 179
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Morales",
+        "department_abbreviation": "BL",
+        "NAME": "Morales, BL",
+        "row_nr": 180
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Pinillos",
+        "department_abbreviation": "BL",
+        "NAME": "Pinillos, BL",
+        "row_nr": 181
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Rio Viejo",
+        "department_abbreviation": "BL",
+        "NAME": "Rio Viejo, BL",
+        "row_nr": 182
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Estanislao de Kostka",
+        "department_abbreviation": "BL",
+        "NAME": "San Estanislao de Kostka, BL",
+        "row_nr": 183
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Fernando",
+        "department_abbreviation": "BL",
+        "NAME": "San Fernando, BL",
+        "row_nr": 184
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Jacinto",
+        "department_abbreviation": "BL",
+        "NAME": "San Jacinto, BL",
+        "row_nr": 185
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Juan Nepomuceno",
+        "department_abbreviation": "BL",
+        "NAME": "San Juan Nepomuceno, BL",
+        "row_nr": 186
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Martin de Loba",
+        "department_abbreviation": "BL",
+        "NAME": "San Martin de Loba, BL",
+        "row_nr": 187
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "San Pablo",
+        "department_abbreviation": "BL",
+        "NAME": "San Pablo, BL",
+        "row_nr": 188
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Santa Catalina",
+        "department_abbreviation": "BL",
+        "NAME": "Santa Catalina, BL",
+        "row_nr": 189
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Santa Rosa",
+        "department_abbreviation": "BL",
+        "NAME": "Santa Rosa, BL",
+        "row_nr": 190
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Santa Rosa del Sur",
+        "department_abbreviation": "BL",
+        "NAME": "Santa Rosa del Sur, BL",
+        "row_nr": 191
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Simiti",
+        "department_abbreviation": "BL",
+        "NAME": "Simiti, BL",
+        "row_nr": 192
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Soplaviento",
+        "department_abbreviation": "BL",
+        "NAME": "Soplaviento, BL",
+        "row_nr": 193
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Talaigua Nuevo",
+        "department_abbreviation": "BL",
+        "NAME": "Talaigua Nuevo, BL",
+        "row_nr": 194
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Turbaco",
+        "department_abbreviation": "BL",
+        "NAME": "Turbaco, BL",
+        "row_nr": 195
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Turbana",
+        "department_abbreviation": "BL",
+        "NAME": "Turbana, BL",
+        "row_nr": 196
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Villanueva",
+        "department_abbreviation": "BL",
+        "NAME": "Villanueva, BL",
+        "row_nr": 197
+    },
+    {
+        "department": "Bolivar",
+        "municipality": "Zambrano",
+        "department_abbreviation": "BL",
+        "NAME": "Zambrano, BL",
+        "row_nr": 198
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Almeida",
+        "department_abbreviation": "BY",
+        "NAME": "Almeida, BY",
+        "row_nr": 199
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Aquitania",
+        "department_abbreviation": "BY",
+        "NAME": "Aquitania, BY",
+        "row_nr": 200
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Arcabuco",
+        "department_abbreviation": "BY",
+        "NAME": "Arcabuco, BY",
+        "row_nr": 201
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Belen",
+        "department_abbreviation": "BY",
+        "NAME": "Belen, BY",
+        "row_nr": 202
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Berbeo",
+        "department_abbreviation": "BY",
+        "NAME": "Berbeo, BY",
+        "row_nr": 203
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Beteitiva",
+        "department_abbreviation": "BY",
+        "NAME": "Beteitiva, BY",
+        "row_nr": 204
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Boavita",
+        "department_abbreviation": "BY",
+        "NAME": "Boavita, BY",
+        "row_nr": 205
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Boyaca",
+        "department_abbreviation": "BY",
+        "NAME": "Boyaca, BY",
+        "row_nr": 206
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Briceno",
+        "department_abbreviation": "BY",
+        "NAME": "Briceno, BY",
+        "row_nr": 207
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Buenavista",
+        "department_abbreviation": "BY",
+        "NAME": "Buenavista, BY",
+        "row_nr": 208
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Busbanza",
+        "department_abbreviation": "BY",
+        "NAME": "Busbanza, BY",
+        "row_nr": 209
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Caldas",
+        "department_abbreviation": "BY",
+        "NAME": "Caldas, BY",
+        "row_nr": 210
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Campohermoso",
+        "department_abbreviation": "BY",
+        "NAME": "Campohermoso, BY",
+        "row_nr": 211
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Cerinza",
+        "department_abbreviation": "BY",
+        "NAME": "Cerinza, BY",
+        "row_nr": 212
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chinavita",
+        "department_abbreviation": "BY",
+        "NAME": "Chinavita, BY",
+        "row_nr": 213
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chiquinquira",
+        "department_abbreviation": "BY",
+        "NAME": "Chiquinquira, BY",
+        "row_nr": 214
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chiquiza",
+        "department_abbreviation": "BY",
+        "NAME": "Chiquiza, BY",
+        "row_nr": 215
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chiscas",
+        "department_abbreviation": "BY",
+        "NAME": "Chiscas, BY",
+        "row_nr": 216
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chita",
+        "department_abbreviation": "BY",
+        "NAME": "Chita, BY",
+        "row_nr": 217
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chitaraque",
+        "department_abbreviation": "BY",
+        "NAME": "Chitaraque, BY",
+        "row_nr": 218
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chivata",
+        "department_abbreviation": "BY",
+        "NAME": "Chivata, BY",
+        "row_nr": 219
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Chivor",
+        "department_abbreviation": "BY",
+        "NAME": "Chivor, BY",
+        "row_nr": 220
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Cienaga",
+        "department_abbreviation": "BY",
+        "NAME": "Cienaga, BY",
+        "row_nr": 221
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Combita",
+        "department_abbreviation": "BY",
+        "NAME": "Combita, BY",
+        "row_nr": 222
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Coper",
+        "department_abbreviation": "BY",
+        "NAME": "Coper, BY",
+        "row_nr": 223
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Corrales",
+        "department_abbreviation": "BY",
+        "NAME": "Corrales, BY",
+        "row_nr": 224
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Covarachia",
+        "department_abbreviation": "BY",
+        "NAME": "Covarachia, BY",
+        "row_nr": 225
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Cubara",
+        "department_abbreviation": "BY",
+        "NAME": "Cubara, BY",
+        "row_nr": 226
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Cucaita",
+        "department_abbreviation": "BY",
+        "NAME": "Cucaita, BY",
+        "row_nr": 227
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Cuitiva",
+        "department_abbreviation": "BY",
+        "NAME": "Cuitiva, BY",
+        "row_nr": 228
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Duitama",
+        "department_abbreviation": "BY",
+        "NAME": "Duitama, BY",
+        "row_nr": 229
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "El Cocuy",
+        "department_abbreviation": "BY",
+        "NAME": "El Cocuy, BY",
+        "row_nr": 230
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "El Espino",
+        "department_abbreviation": "BY",
+        "NAME": "El Espino, BY",
+        "row_nr": 231
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Firavitoba",
+        "department_abbreviation": "BY",
+        "NAME": "Firavitoba, BY",
+        "row_nr": 232
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Floresta",
+        "department_abbreviation": "BY",
+        "NAME": "Floresta, BY",
+        "row_nr": 233
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Gachantiva",
+        "department_abbreviation": "BY",
+        "NAME": "Gachantiva, BY",
+        "row_nr": 234
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Gameza",
+        "department_abbreviation": "BY",
+        "NAME": "Gameza, BY",
+        "row_nr": 235
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Garagoa",
+        "department_abbreviation": "BY",
+        "NAME": "Garagoa, BY",
+        "row_nr": 236
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Guacamayas",
+        "department_abbreviation": "BY",
+        "NAME": "Guacamayas, BY",
+        "row_nr": 237
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Guateque",
+        "department_abbreviation": "BY",
+        "NAME": "Guateque, BY",
+        "row_nr": 238
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Guayata",
+        "department_abbreviation": "BY",
+        "NAME": "Guayata, BY",
+        "row_nr": 239
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Guican",
+        "department_abbreviation": "BY",
+        "NAME": "Guican, BY",
+        "row_nr": 240
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Iza",
+        "department_abbreviation": "BY",
+        "NAME": "Iza, BY",
+        "row_nr": 241
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Jenesano",
+        "department_abbreviation": "BY",
+        "NAME": "Jenesano, BY",
+        "row_nr": 242
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Jerico",
+        "department_abbreviation": "BY",
+        "NAME": "Jerico, BY",
+        "row_nr": 243
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "La Capilla",
+        "department_abbreviation": "BY",
+        "NAME": "La Capilla, BY",
+        "row_nr": 244
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "La Uvita",
+        "department_abbreviation": "BY",
+        "NAME": "La Uvita, BY",
+        "row_nr": 245
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "La Victoria",
+        "department_abbreviation": "BY",
+        "NAME": "La Victoria, BY",
+        "row_nr": 246
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Labranzagrande",
+        "department_abbreviation": "BY",
+        "NAME": "Labranzagrande, BY",
+        "row_nr": 247
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Macanal",
+        "department_abbreviation": "BY",
+        "NAME": "Macanal, BY",
+        "row_nr": 248
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Maripi",
+        "department_abbreviation": "BY",
+        "NAME": "Maripi, BY",
+        "row_nr": 249
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Miraflores",
+        "department_abbreviation": "BY",
+        "NAME": "Miraflores, BY",
+        "row_nr": 250
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Mongua",
+        "department_abbreviation": "BY",
+        "NAME": "Mongua, BY",
+        "row_nr": 251
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Mongui",
+        "department_abbreviation": "BY",
+        "NAME": "Mongui, BY",
+        "row_nr": 252
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Moniquira",
+        "department_abbreviation": "BY",
+        "NAME": "Moniquira, BY",
+        "row_nr": 253
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Motavita",
+        "department_abbreviation": "BY",
+        "NAME": "Motavita, BY",
+        "row_nr": 254
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Muzo",
+        "department_abbreviation": "BY",
+        "NAME": "Muzo, BY",
+        "row_nr": 255
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Nobsa",
+        "department_abbreviation": "BY",
+        "NAME": "Nobsa, BY",
+        "row_nr": 256
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Nuevo Colon",
+        "department_abbreviation": "BY",
+        "NAME": "Nuevo Colon, BY",
+        "row_nr": 257
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Oicata",
+        "department_abbreviation": "BY",
+        "NAME": "Oicata, BY",
+        "row_nr": 258
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Otanche",
+        "department_abbreviation": "BY",
+        "NAME": "Otanche, BY",
+        "row_nr": 259
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Pachavita",
+        "department_abbreviation": "BY",
+        "NAME": "Pachavita, BY",
+        "row_nr": 260
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Paez",
+        "department_abbreviation": "BY",
+        "NAME": "Paez, BY",
+        "row_nr": 261
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Paipa",
+        "department_abbreviation": "BY",
+        "NAME": "Paipa, BY",
+        "row_nr": 262
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Pajarito",
+        "department_abbreviation": "BY",
+        "NAME": "Pajarito, BY",
+        "row_nr": 263
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Panqueba",
+        "department_abbreviation": "BY",
+        "NAME": "Panqueba, BY",
+        "row_nr": 264
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Pauna",
+        "department_abbreviation": "BY",
+        "NAME": "Pauna, BY",
+        "row_nr": 265
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Paya",
+        "department_abbreviation": "BY",
+        "NAME": "Paya, BY",
+        "row_nr": 266
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Paz de Rio",
+        "department_abbreviation": "BY",
+        "NAME": "Paz de Rio, BY",
+        "row_nr": 267
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Pesca",
+        "department_abbreviation": "BY",
+        "NAME": "Pesca, BY",
+        "row_nr": 268
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Pisba",
+        "department_abbreviation": "BY",
+        "NAME": "Pisba, BY",
+        "row_nr": 269
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Puerto Boyaca",
+        "department_abbreviation": "BY",
+        "NAME": "Puerto Boyaca, BY",
+        "row_nr": 270
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Quipama",
+        "department_abbreviation": "BY",
+        "NAME": "Quipama, BY",
+        "row_nr": 271
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Ramiriqui",
+        "department_abbreviation": "BY",
+        "NAME": "Ramiriqui, BY",
+        "row_nr": 272
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Raquira",
+        "department_abbreviation": "BY",
+        "NAME": "Raquira, BY",
+        "row_nr": 273
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Rondon",
+        "department_abbreviation": "BY",
+        "NAME": "Rondon, BY",
+        "row_nr": 274
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Saboya",
+        "department_abbreviation": "BY",
+        "NAME": "Saboya, BY",
+        "row_nr": 275
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sachica",
+        "department_abbreviation": "BY",
+        "NAME": "Sachica, BY",
+        "row_nr": 276
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Samaca",
+        "department_abbreviation": "BY",
+        "NAME": "Samaca, BY",
+        "row_nr": 277
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Eduardo",
+        "department_abbreviation": "BY",
+        "NAME": "San Eduardo, BY",
+        "row_nr": 278
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Jose de Pare",
+        "department_abbreviation": "BY",
+        "NAME": "San Jose de Pare, BY",
+        "row_nr": 279
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Luis de Gaceno",
+        "department_abbreviation": "BY",
+        "NAME": "San Luis de Gaceno, BY",
+        "row_nr": 280
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Mateo",
+        "department_abbreviation": "BY",
+        "NAME": "San Mateo, BY",
+        "row_nr": 281
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Miguel de Sema",
+        "department_abbreviation": "BY",
+        "NAME": "San Miguel de Sema, BY",
+        "row_nr": 282
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "San Pablo de Borbur",
+        "department_abbreviation": "BY",
+        "NAME": "San Pablo de Borbur, BY",
+        "row_nr": 283
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Santa Maria",
+        "department_abbreviation": "BY",
+        "NAME": "Santa Maria, BY",
+        "row_nr": 284
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Santa Rosa de Viterbo",
+        "department_abbreviation": "BY",
+        "NAME": "Santa Rosa de Viterbo, BY",
+        "row_nr": 285
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Santa Sofia",
+        "department_abbreviation": "BY",
+        "NAME": "Santa Sofia, BY",
+        "row_nr": 286
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Santana",
+        "department_abbreviation": "BY",
+        "NAME": "Santana, BY",
+        "row_nr": 287
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sativanorte",
+        "department_abbreviation": "BY",
+        "NAME": "Sativanorte, BY",
+        "row_nr": 288
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sativasur",
+        "department_abbreviation": "BY",
+        "NAME": "Sativasur, BY",
+        "row_nr": 289
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Siachoque",
+        "department_abbreviation": "BY",
+        "NAME": "Siachoque, BY",
+        "row_nr": 290
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Soata",
+        "department_abbreviation": "BY",
+        "NAME": "Soata, BY",
+        "row_nr": 291
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Socha",
+        "department_abbreviation": "BY",
+        "NAME": "Socha, BY",
+        "row_nr": 292
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Socota",
+        "department_abbreviation": "BY",
+        "NAME": "Socota, BY",
+        "row_nr": 293
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sogamoso",
+        "department_abbreviation": "BY",
+        "NAME": "Sogamoso, BY",
+        "row_nr": 294
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Somondoco",
+        "department_abbreviation": "BY",
+        "NAME": "Somondoco, BY",
+        "row_nr": 295
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sora",
+        "department_abbreviation": "BY",
+        "NAME": "Sora, BY",
+        "row_nr": 296
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Soraca",
+        "department_abbreviation": "BY",
+        "NAME": "Soraca, BY",
+        "row_nr": 297
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sotaquira",
+        "department_abbreviation": "BY",
+        "NAME": "Sotaquira, BY",
+        "row_nr": 298
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Susacon",
+        "department_abbreviation": "BY",
+        "NAME": "Susacon, BY",
+        "row_nr": 299
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sutamarchan",
+        "department_abbreviation": "BY",
+        "NAME": "Sutamarchan, BY",
+        "row_nr": 300
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Sutatenza",
+        "department_abbreviation": "BY",
+        "NAME": "Sutatenza, BY",
+        "row_nr": 301
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tasco",
+        "department_abbreviation": "BY",
+        "NAME": "Tasco, BY",
+        "row_nr": 302
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tenza",
+        "department_abbreviation": "BY",
+        "NAME": "Tenza, BY",
+        "row_nr": 303
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tibana",
+        "department_abbreviation": "BY",
+        "NAME": "Tibana, BY",
+        "row_nr": 304
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tibasosa",
+        "department_abbreviation": "BY",
+        "NAME": "Tibasosa, BY",
+        "row_nr": 305
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tinjaca",
+        "department_abbreviation": "BY",
+        "NAME": "Tinjaca, BY",
+        "row_nr": 306
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tipacoque",
+        "department_abbreviation": "BY",
+        "NAME": "Tipacoque, BY",
+        "row_nr": 307
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Toca",
+        "department_abbreviation": "BY",
+        "NAME": "Toca, BY",
+        "row_nr": 308
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Togui",
+        "department_abbreviation": "BY",
+        "NAME": "Togui, BY",
+        "row_nr": 309
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Topaga",
+        "department_abbreviation": "BY",
+        "NAME": "Topaga, BY",
+        "row_nr": 310
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tota",
+        "department_abbreviation": "BY",
+        "NAME": "Tota, BY",
+        "row_nr": 311
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tunja",
+        "department_abbreviation": "BY",
+        "NAME": "Tunja, BY",
+        "row_nr": 312
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tunungua",
+        "department_abbreviation": "BY",
+        "NAME": "Tunungua, BY",
+        "row_nr": 313
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Turmeque",
+        "department_abbreviation": "BY",
+        "NAME": "Turmeque, BY",
+        "row_nr": 314
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tuta",
+        "department_abbreviation": "BY",
+        "NAME": "Tuta, BY",
+        "row_nr": 315
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Tutaza",
+        "department_abbreviation": "BY",
+        "NAME": "Tutaza, BY",
+        "row_nr": 316
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Umbita",
+        "department_abbreviation": "BY",
+        "NAME": "Umbita, BY",
+        "row_nr": 317
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Ventaquemada",
+        "department_abbreviation": "BY",
+        "NAME": "Ventaquemada, BY",
+        "row_nr": 318
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Villa de Leyva",
+        "department_abbreviation": "BY",
+        "NAME": "Villa de Leyva, BY",
+        "row_nr": 319
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Viracacha",
+        "department_abbreviation": "BY",
+        "NAME": "Viracacha, BY",
+        "row_nr": 320
+    },
+    {
+        "department": "Boyaca",
+        "municipality": "Zetaquira",
+        "department_abbreviation": "BY",
+        "NAME": "Zetaquira, BY",
+        "row_nr": 321
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Aguadas",
+        "department_abbreviation": "CL",
+        "NAME": "Aguadas, CL",
+        "row_nr": 322
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Anserma",
+        "department_abbreviation": "CL",
+        "NAME": "Anserma, CL",
+        "row_nr": 323
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Aranzazu",
+        "department_abbreviation": "CL",
+        "NAME": "Aranzazu, CL",
+        "row_nr": 324
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Belalcazar",
+        "department_abbreviation": "CL",
+        "NAME": "Belalcazar, CL",
+        "row_nr": 325
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Chinchina",
+        "department_abbreviation": "CL",
+        "NAME": "Chinchina, CL",
+        "row_nr": 326
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Filadelfia",
+        "department_abbreviation": "CL",
+        "NAME": "Filadelfia, CL",
+        "row_nr": 327
+    },
+    {
+        "department": "Caldas",
+        "municipality": "La Dorada",
+        "department_abbreviation": "CL",
+        "NAME": "La Dorada, CL",
+        "row_nr": 328
+    },
+    {
+        "department": "Caldas",
+        "municipality": "La Merced",
+        "department_abbreviation": "CL",
+        "NAME": "La Merced, CL",
+        "row_nr": 329
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Manizales",
+        "department_abbreviation": "CL",
+        "NAME": "Manizales, CL",
+        "row_nr": 330
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Manzanares",
+        "department_abbreviation": "CL",
+        "NAME": "Manzanares, CL",
+        "row_nr": 331
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Marmato",
+        "department_abbreviation": "CL",
+        "NAME": "Marmato, CL",
+        "row_nr": 332
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Marquetalia",
+        "department_abbreviation": "CL",
+        "NAME": "Marquetalia, CL",
+        "row_nr": 333
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Marulanda",
+        "department_abbreviation": "CL",
+        "NAME": "Marulanda, CL",
+        "row_nr": 334
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Neira",
+        "department_abbreviation": "CL",
+        "NAME": "Neira, CL",
+        "row_nr": 335
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Pacora",
+        "department_abbreviation": "CL",
+        "NAME": "Pacora, CL",
+        "row_nr": 336
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Palestina",
+        "department_abbreviation": "CL",
+        "NAME": "Palestina, CL",
+        "row_nr": 337
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Pensilvania",
+        "department_abbreviation": "CL",
+        "NAME": "Pensilvania, CL",
+        "row_nr": 338
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Riosucio",
+        "department_abbreviation": "CL",
+        "NAME": "Riosucio, CL",
+        "row_nr": 339
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Risaralda",
+        "department_abbreviation": "CL",
+        "NAME": "Risaralda, CL",
+        "row_nr": 340
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Salamina",
+        "department_abbreviation": "CL",
+        "NAME": "Salamina, CL",
+        "row_nr": 341
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Samana",
+        "department_abbreviation": "CL",
+        "NAME": "Samana, CL",
+        "row_nr": 342
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Supia",
+        "department_abbreviation": "CL",
+        "NAME": "Supia, CL",
+        "row_nr": 343
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Victoria",
+        "department_abbreviation": "CL",
+        "NAME": "Victoria, CL",
+        "row_nr": 344
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Villamaria",
+        "department_abbreviation": "CL",
+        "NAME": "Villamaria, CL",
+        "row_nr": 345
+    },
+    {
+        "department": "Caldas",
+        "municipality": "Viterbo",
+        "department_abbreviation": "CL",
+        "NAME": "Viterbo, CL",
+        "row_nr": 346
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Albania",
+        "department_abbreviation": "CQ",
+        "NAME": "Albania, CQ",
+        "row_nr": 347
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Belen de los Andaquies",
+        "department_abbreviation": "CQ",
+        "NAME": "Belen de los Andaquies, CQ",
+        "row_nr": 348
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Cartagena del Chaira",
+        "department_abbreviation": "CQ",
+        "NAME": "Cartagena del Chaira, CQ",
+        "row_nr": 349
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Curillo",
+        "department_abbreviation": "CQ",
+        "NAME": "Curillo, CQ",
+        "row_nr": 350
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "El Doncello",
+        "department_abbreviation": "CQ",
+        "NAME": "El Doncello, CQ",
+        "row_nr": 351
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "El Paujil",
+        "department_abbreviation": "CQ",
+        "NAME": "El Paujil, CQ",
+        "row_nr": 352
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Florencia",
+        "department_abbreviation": "CQ",
+        "NAME": "Florencia, CQ",
+        "row_nr": 353
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "La Montanita",
+        "department_abbreviation": "CQ",
+        "NAME": "La Montanita, CQ",
+        "row_nr": 354
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Milan",
+        "department_abbreviation": "CQ",
+        "NAME": "Milan, CQ",
+        "row_nr": 355
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Morelia",
+        "department_abbreviation": "CQ",
+        "NAME": "Morelia, CQ",
+        "row_nr": 356
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Puerto Rico",
+        "department_abbreviation": "CQ",
+        "NAME": "Puerto Rico, CQ",
+        "row_nr": 357
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "San Jose del Fragua",
+        "department_abbreviation": "CQ",
+        "NAME": "San Jose del Fragua, CQ",
+        "row_nr": 358
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "San Vicente del Caguan",
+        "department_abbreviation": "CQ",
+        "NAME": "San Vicente del Caguan, CQ",
+        "row_nr": 359
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Solano",
+        "department_abbreviation": "CQ",
+        "NAME": "Solano, CQ",
+        "row_nr": 360
+    },
+    {
+        "department": "Caqueta",
+        "municipality": "Valparaiso",
+        "department_abbreviation": "CQ",
+        "NAME": "Valparaiso, CQ",
+        "row_nr": 361
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Aguazul",
+        "department_abbreviation": "CS",
+        "NAME": "Aguazul, CS",
+        "row_nr": 362
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Chameza",
+        "department_abbreviation": "CS",
+        "NAME": "Chameza, CS",
+        "row_nr": 363
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Hato Corozal",
+        "department_abbreviation": "CS",
+        "NAME": "Hato Corozal, CS",
+        "row_nr": 364
+    },
+    {
+        "department": "Casanare",
+        "municipality": "La Salina",
+        "department_abbreviation": "CS",
+        "NAME": "La Salina, CS",
+        "row_nr": 365
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Mani",
+        "department_abbreviation": "CS",
+        "NAME": "Mani, CS",
+        "row_nr": 366
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Monterrey",
+        "department_abbreviation": "CS",
+        "NAME": "Monterrey, CS",
+        "row_nr": 367
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Nunchia",
+        "department_abbreviation": "CS",
+        "NAME": "Nunchia, CS",
+        "row_nr": 368
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Orocue",
+        "department_abbreviation": "CS",
+        "NAME": "Orocue, CS",
+        "row_nr": 369
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Paz de Ariporo",
+        "department_abbreviation": "CS",
+        "NAME": "Paz de Ariporo, CS",
+        "row_nr": 370
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Pore",
+        "department_abbreviation": "CS",
+        "NAME": "Pore, CS",
+        "row_nr": 371
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Recetor",
+        "department_abbreviation": "CS",
+        "NAME": "Recetor, CS",
+        "row_nr": 372
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Sabanalarga",
+        "department_abbreviation": "CS",
+        "NAME": "Sabanalarga, CS",
+        "row_nr": 373
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Sacama",
+        "department_abbreviation": "CS",
+        "NAME": "Sacama, CS",
+        "row_nr": 374
+    },
+    {
+        "department": "Casanare",
+        "municipality": "San Luis de Palenque",
+        "department_abbreviation": "CS",
+        "NAME": "San Luis de Palenque, CS",
+        "row_nr": 375
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Tamara",
+        "department_abbreviation": "CS",
+        "NAME": "Tamara, CS",
+        "row_nr": 376
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Tauramena",
+        "department_abbreviation": "CS",
+        "NAME": "Tauramena, CS",
+        "row_nr": 377
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Trinidad",
+        "department_abbreviation": "CS",
+        "NAME": "Trinidad, CS",
+        "row_nr": 378
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Villanueva",
+        "department_abbreviation": "CS",
+        "NAME": "Villanueva, CS",
+        "row_nr": 379
+    },
+    {
+        "department": "Casanare",
+        "municipality": "Yopal",
+        "department_abbreviation": "CS",
+        "NAME": "Yopal, CS",
+        "row_nr": 380
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Almaguer",
+        "department_abbreviation": "CA",
+        "NAME": "Almaguer, CA",
+        "row_nr": 381
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Argelia",
+        "department_abbreviation": "CA",
+        "NAME": "Argelia, CA",
+        "row_nr": 382
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Balboa",
+        "department_abbreviation": "CA",
+        "NAME": "Balboa, CA",
+        "row_nr": 383
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Bolivar",
+        "department_abbreviation": "CA",
+        "NAME": "Bolivar, CA",
+        "row_nr": 384
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Buenos Aires",
+        "department_abbreviation": "CA",
+        "NAME": "Buenos Aires, CA",
+        "row_nr": 385
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Cajibio",
+        "department_abbreviation": "CA",
+        "NAME": "Cajibio, CA",
+        "row_nr": 386
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Caldono",
+        "department_abbreviation": "CA",
+        "NAME": "Caldono, CA",
+        "row_nr": 387
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Caloto",
+        "department_abbreviation": "CA",
+        "NAME": "Caloto, CA",
+        "row_nr": 388
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Corinto",
+        "department_abbreviation": "CA",
+        "NAME": "Corinto, CA",
+        "row_nr": 389
+    },
+    {
+        "department": "Cauca",
+        "municipality": "El Tambo",
+        "department_abbreviation": "CA",
+        "NAME": "El Tambo, CA",
+        "row_nr": 390
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Florencia",
+        "department_abbreviation": "CA",
+        "NAME": "Florencia, CA",
+        "row_nr": 391
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Guapi",
+        "department_abbreviation": "CA",
+        "NAME": "Guapi, CA",
+        "row_nr": 392
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Inza",
+        "department_abbreviation": "CA",
+        "NAME": "Inza, CA",
+        "row_nr": 393
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Jambalo",
+        "department_abbreviation": "CA",
+        "NAME": "Jambalo, CA",
+        "row_nr": 394
+    },
+    {
+        "department": "Cauca",
+        "municipality": "La Sierra",
+        "department_abbreviation": "CA",
+        "NAME": "La Sierra, CA",
+        "row_nr": 395
+    },
+    {
+        "department": "Cauca",
+        "municipality": "La Vega",
+        "department_abbreviation": "CA",
+        "NAME": "La Vega, CA",
+        "row_nr": 396
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Lopez de Micay",
+        "department_abbreviation": "CA",
+        "NAME": "Lopez de Micay, CA",
+        "row_nr": 397
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Mercaderes",
+        "department_abbreviation": "CA",
+        "NAME": "Mercaderes, CA",
+        "row_nr": 398
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Miranda",
+        "department_abbreviation": "CA",
+        "NAME": "Miranda, CA",
+        "row_nr": 399
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Morales",
+        "department_abbreviation": "CA",
+        "NAME": "Morales, CA",
+        "row_nr": 400
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Padilla",
+        "department_abbreviation": "CA",
+        "NAME": "Padilla, CA",
+        "row_nr": 401
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Paez",
+        "department_abbreviation": "CA",
+        "NAME": "Paez, CA",
+        "row_nr": 402
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Patia",
+        "department_abbreviation": "CA",
+        "NAME": "Patia, CA",
+        "row_nr": 403
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Piendamo",
+        "department_abbreviation": "CA",
+        "NAME": "Piendamo, CA",
+        "row_nr": 404
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Popayan",
+        "department_abbreviation": "CA",
+        "NAME": "Popayan, CA",
+        "row_nr": 405
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Puerto Tejada",
+        "department_abbreviation": "CA",
+        "NAME": "Puerto Tejada, CA",
+        "row_nr": 406
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Purace",
+        "department_abbreviation": "CA",
+        "NAME": "Purace, CA",
+        "row_nr": 407
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Rosas",
+        "department_abbreviation": "CA",
+        "NAME": "Rosas, CA",
+        "row_nr": 408
+    },
+    {
+        "department": "Cauca",
+        "municipality": "San Sebastian",
+        "department_abbreviation": "CA",
+        "NAME": "San Sebastian, CA",
+        "row_nr": 409
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Santa Rosa",
+        "department_abbreviation": "CA",
+        "NAME": "Santa Rosa, CA",
+        "row_nr": 410
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Santander de Quilichao",
+        "department_abbreviation": "CA",
+        "NAME": "Santander de Quilichao, CA",
+        "row_nr": 411
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Silvia",
+        "department_abbreviation": "CA",
+        "NAME": "Silvia, CA",
+        "row_nr": 412
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Sotara",
+        "department_abbreviation": "CA",
+        "NAME": "Sotara, CA",
+        "row_nr": 413
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Suarez",
+        "department_abbreviation": "CA",
+        "NAME": "Suarez, CA",
+        "row_nr": 414
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Timbio",
+        "department_abbreviation": "CA",
+        "NAME": "Timbio, CA",
+        "row_nr": 415
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Timbiqui",
+        "department_abbreviation": "CA",
+        "NAME": "Timbiqui, CA",
+        "row_nr": 416
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Toribio",
+        "department_abbreviation": "CA",
+        "NAME": "Toribio, CA",
+        "row_nr": 417
+    },
+    {
+        "department": "Cauca",
+        "municipality": "Totoro",
+        "department_abbreviation": "CA",
+        "NAME": "Totoro, CA",
+        "row_nr": 418
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Aguachica",
+        "department_abbreviation": "CE",
+        "NAME": "Aguachica, CE",
+        "row_nr": 419
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Agustin Codazzi",
+        "department_abbreviation": "CE",
+        "NAME": "Agustin Codazzi, CE",
+        "row_nr": 420
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Astrea",
+        "department_abbreviation": "CE",
+        "NAME": "Astrea, CE",
+        "row_nr": 421
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Becerril",
+        "department_abbreviation": "CE",
+        "NAME": "Becerril, CE",
+        "row_nr": 422
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Bosconia",
+        "department_abbreviation": "CE",
+        "NAME": "Bosconia, CE",
+        "row_nr": 423
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Chimichagua",
+        "department_abbreviation": "CE",
+        "NAME": "Chimichagua, CE",
+        "row_nr": 424
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Chiriguana",
+        "department_abbreviation": "CE",
+        "NAME": "Chiriguana, CE",
+        "row_nr": 425
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Curumani",
+        "department_abbreviation": "CE",
+        "NAME": "Curumani, CE",
+        "row_nr": 426
+    },
+    {
+        "department": "Cesar",
+        "municipality": "El Copey",
+        "department_abbreviation": "CE",
+        "NAME": "El Copey, CE",
+        "row_nr": 427
+    },
+    {
+        "department": "Cesar",
+        "municipality": "El Paso",
+        "department_abbreviation": "CE",
+        "NAME": "El Paso, CE",
+        "row_nr": 428
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Gamarra",
+        "department_abbreviation": "CE",
+        "NAME": "Gamarra, CE",
+        "row_nr": 429
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Gonzalez",
+        "department_abbreviation": "CE",
+        "NAME": "Gonzalez, CE",
+        "row_nr": 430
+    },
+    {
+        "department": "Cesar",
+        "municipality": "La Gloria",
+        "department_abbreviation": "CE",
+        "NAME": "La Gloria, CE",
+        "row_nr": 431
+    },
+    {
+        "department": "Cesar",
+        "municipality": "La Jagua de Ibirico",
+        "department_abbreviation": "CE",
+        "NAME": "La Jagua de Ibirico, CE",
+        "row_nr": 432
+    },
+    {
+        "department": "Cesar",
+        "municipality": "La Paz",
+        "department_abbreviation": "CE",
+        "NAME": "La Paz, CE",
+        "row_nr": 433
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Manaure",
+        "department_abbreviation": "CE",
+        "NAME": "Manaure, CE",
+        "row_nr": 434
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Pailitas",
+        "department_abbreviation": "CE",
+        "NAME": "Pailitas, CE",
+        "row_nr": 435
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Pelaya",
+        "department_abbreviation": "CE",
+        "NAME": "Pelaya, CE",
+        "row_nr": 436
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Rio de Oro",
+        "department_abbreviation": "CE",
+        "NAME": "Rio de Oro, CE",
+        "row_nr": 437
+    },
+    {
+        "department": "Cesar",
+        "municipality": "San Alberto",
+        "department_abbreviation": "CE",
+        "NAME": "San Alberto, CE",
+        "row_nr": 438
+    },
+    {
+        "department": "Cesar",
+        "municipality": "San Diego",
+        "department_abbreviation": "CE",
+        "NAME": "San Diego, CE",
+        "row_nr": 439
+    },
+    {
+        "department": "Cesar",
+        "municipality": "San Martin",
+        "department_abbreviation": "CE",
+        "NAME": "San Martin, CE",
+        "row_nr": 440
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Tamalameque",
+        "department_abbreviation": "CE",
+        "NAME": "Tamalameque, CE",
+        "row_nr": 441
+    },
+    {
+        "department": "Cesar",
+        "municipality": "Valledupar",
+        "department_abbreviation": "CE",
+        "NAME": "Valledupar, CE",
+        "row_nr": 442
+    },
+    {
+        "department": "Choco",
+        "municipality": "Acandi",
+        "department_abbreviation": "CH",
+        "NAME": "Acandi, CH",
+        "row_nr": 443
+    },
+    {
+        "department": "Choco",
+        "municipality": "Alto Baudo",
+        "department_abbreviation": "CH",
+        "NAME": "Alto Baudo, CH",
+        "row_nr": 444
+    },
+    {
+        "department": "Choco",
+        "municipality": "Bagado",
+        "department_abbreviation": "CH",
+        "NAME": "Bagado, CH",
+        "row_nr": 445
+    },
+    {
+        "department": "Choco",
+        "municipality": "Bahia Solano",
+        "department_abbreviation": "CH",
+        "NAME": "Bahia Solano, CH",
+        "row_nr": 446
+    },
+    {
+        "department": "Choco",
+        "municipality": "Bajo Baudo",
+        "department_abbreviation": "CH",
+        "NAME": "Bajo Baudo, CH",
+        "row_nr": 447
+    },
+    {
+        "department": "Choco",
+        "municipality": "Bojaya",
+        "department_abbreviation": "CH",
+        "NAME": "Bojaya, CH",
+        "row_nr": 448
+    },
+    {
+        "department": "Choco",
+        "municipality": "Condoto",
+        "department_abbreviation": "CH",
+        "NAME": "Condoto, CH",
+        "row_nr": 449
+    },
+    {
+        "department": "Choco",
+        "municipality": "El Canton del San Pablo",
+        "department_abbreviation": "CH",
+        "NAME": "El Canton del San Pablo, CH",
+        "row_nr": 450
+    },
+    {
+        "department": "Choco",
+        "municipality": "El Carmen de Atrato",
+        "department_abbreviation": "CH",
+        "NAME": "El Carmen de Atrato, CH",
+        "row_nr": 451
+    },
+    {
+        "department": "Choco",
+        "municipality": "El Litoral del San Juan",
+        "department_abbreviation": "CH",
+        "NAME": "El Litoral del San Juan, CH",
+        "row_nr": 452
+    },
+    {
+        "department": "Choco",
+        "municipality": "Istmina",
+        "department_abbreviation": "CH",
+        "NAME": "Istmina, CH",
+        "row_nr": 453
+    },
+    {
+        "department": "Choco",
+        "municipality": "Jurado",
+        "department_abbreviation": "CH",
+        "NAME": "Jurado, CH",
+        "row_nr": 454
+    },
+    {
+        "department": "Choco",
+        "municipality": "Lloro",
+        "department_abbreviation": "CH",
+        "NAME": "Lloro, CH",
+        "row_nr": 455
+    },
+    {
+        "department": "Choco",
+        "municipality": "Novita",
+        "department_abbreviation": "CH",
+        "NAME": "Novita, CH",
+        "row_nr": 456
+    },
+    {
+        "department": "Choco",
+        "municipality": "Nuqui",
+        "department_abbreviation": "CH",
+        "NAME": "Nuqui, CH",
+        "row_nr": 457
+    },
+    {
+        "department": "Choco",
+        "municipality": "Quibdo",
+        "department_abbreviation": "CH",
+        "NAME": "Quibdo, CH",
+        "row_nr": 458
+    },
+    {
+        "department": "Choco",
+        "municipality": "Riosucio",
+        "department_abbreviation": "CH",
+        "NAME": "Riosucio, CH",
+        "row_nr": 459
+    },
+    {
+        "department": "Choco",
+        "municipality": "San Jose del Palmar",
+        "department_abbreviation": "CH",
+        "NAME": "San Jose del Palmar, CH",
+        "row_nr": 460
+    },
+    {
+        "department": "Choco",
+        "municipality": "Sipi",
+        "department_abbreviation": "CH",
+        "NAME": "Sipi, CH",
+        "row_nr": 461
+    },
+    {
+        "department": "Choco",
+        "municipality": "Tado",
+        "department_abbreviation": "CH",
+        "NAME": "Tado, CH",
+        "row_nr": 462
+    },
+    {
+        "department": "Choco",
+        "municipality": "Unguia",
+        "department_abbreviation": "CH",
+        "NAME": "Unguia, CH",
+        "row_nr": 463
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Ayapel",
+        "department_abbreviation": "CO",
+        "NAME": "Ayapel, CO",
+        "row_nr": 464
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Buenavista",
+        "department_abbreviation": "CO",
+        "NAME": "Buenavista, CO",
+        "row_nr": 465
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Canalete",
+        "department_abbreviation": "CO",
+        "NAME": "Canalete, CO",
+        "row_nr": 466
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Cerete",
+        "department_abbreviation": "CO",
+        "NAME": "Cerete, CO",
+        "row_nr": 467
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Chima",
+        "department_abbreviation": "CO",
+        "NAME": "Chima, CO",
+        "row_nr": 468
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Chinu",
+        "department_abbreviation": "CO",
+        "NAME": "Chinu, CO",
+        "row_nr": 469
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Cienaga de Oro",
+        "department_abbreviation": "CO",
+        "NAME": "Cienaga de Oro, CO",
+        "row_nr": 470
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Los Cordobas",
+        "department_abbreviation": "CO",
+        "NAME": "Los Cordobas, CO",
+        "row_nr": 471
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Momil",
+        "department_abbreviation": "CO",
+        "NAME": "Momil, CO",
+        "row_nr": 472
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Monitos",
+        "department_abbreviation": "CO",
+        "NAME": "Monitos, CO",
+        "row_nr": 473
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Montelibano",
+        "department_abbreviation": "CO",
+        "NAME": "Montelibano, CO",
+        "row_nr": 474
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Monteria",
+        "department_abbreviation": "CO",
+        "NAME": "Monteria, CO",
+        "row_nr": 475
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Planeta Rica",
+        "department_abbreviation": "CO",
+        "NAME": "Planeta Rica, CO",
+        "row_nr": 476
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Pueblo Nuevo",
+        "department_abbreviation": "CO",
+        "NAME": "Pueblo Nuevo, CO",
+        "row_nr": 477
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Puerto Escondido",
+        "department_abbreviation": "CO",
+        "NAME": "Puerto Escondido, CO",
+        "row_nr": 478
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Puerto Libertador",
+        "department_abbreviation": "CO",
+        "NAME": "Puerto Libertador, CO",
+        "row_nr": 479
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Purisima",
+        "department_abbreviation": "CO",
+        "NAME": "Purisima, CO",
+        "row_nr": 480
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Andres de Sotavento",
+        "department_abbreviation": "CO",
+        "NAME": "San Andres de Sotavento, CO",
+        "row_nr": 481
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Antero",
+        "department_abbreviation": "CO",
+        "NAME": "San Antero, CO",
+        "row_nr": 482
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Bernardino de Sahagun",
+        "department_abbreviation": "CO",
+        "NAME": "San Bernardino de Sahagun, CO",
+        "row_nr": 483
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Bernardo del Viento",
+        "department_abbreviation": "CO",
+        "NAME": "San Bernardo del Viento, CO",
+        "row_nr": 484
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Carlos",
+        "department_abbreviation": "CO",
+        "NAME": "San Carlos, CO",
+        "row_nr": 485
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "San Pelayo",
+        "department_abbreviation": "CO",
+        "NAME": "San Pelayo, CO",
+        "row_nr": 486
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Santa Cruz de Lorica",
+        "department_abbreviation": "CO",
+        "NAME": "Santa Cruz de Lorica, CO",
+        "row_nr": 487
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Tierralta",
+        "department_abbreviation": "CO",
+        "NAME": "Tierralta, CO",
+        "row_nr": 488
+    },
+    {
+        "department": "Cordoba",
+        "municipality": "Valencia",
+        "department_abbreviation": "CO",
+        "NAME": "Valencia, CO",
+        "row_nr": 489
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Agua de Dios",
+        "department_abbreviation": "CU",
+        "NAME": "Agua de Dios, CU",
+        "row_nr": 490
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Alban",
+        "department_abbreviation": "CU",
+        "NAME": "Alban, CU",
+        "row_nr": 491
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Anapoima",
+        "department_abbreviation": "CU",
+        "NAME": "Anapoima, CU",
+        "row_nr": 492
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Anolaima",
+        "department_abbreviation": "CU",
+        "NAME": "Anolaima, CU",
+        "row_nr": 493
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Apulo",
+        "department_abbreviation": "CU",
+        "NAME": "Apulo, CU",
+        "row_nr": 494
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Arbelaez",
+        "department_abbreviation": "CU",
+        "NAME": "Arbelaez, CU",
+        "row_nr": 495
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Beltran",
+        "department_abbreviation": "CU",
+        "NAME": "Beltran, CU",
+        "row_nr": 496
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Bituima",
+        "department_abbreviation": "CU",
+        "NAME": "Bituima, CU",
+        "row_nr": 497
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Bojaca",
+        "department_abbreviation": "CU",
+        "NAME": "Bojaca, CU",
+        "row_nr": 498
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cabrera",
+        "department_abbreviation": "CU",
+        "NAME": "Cabrera, CU",
+        "row_nr": 499
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cachipay",
+        "department_abbreviation": "CU",
+        "NAME": "Cachipay, CU",
+        "row_nr": 500
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cajica",
+        "department_abbreviation": "CU",
+        "NAME": "Cajica, CU",
+        "row_nr": 501
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Caparrapi",
+        "department_abbreviation": "CU",
+        "NAME": "Caparrapi, CU",
+        "row_nr": 502
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Caqueza",
+        "department_abbreviation": "CU",
+        "NAME": "Caqueza, CU",
+        "row_nr": 503
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Carmen de Carupa",
+        "department_abbreviation": "CU",
+        "NAME": "Carmen de Carupa, CU",
+        "row_nr": 504
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Chaguani",
+        "department_abbreviation": "CU",
+        "NAME": "Chaguani, CU",
+        "row_nr": 505
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Chia",
+        "department_abbreviation": "CU",
+        "NAME": "Chia, CU",
+        "row_nr": 506
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Chipaque",
+        "department_abbreviation": "CU",
+        "NAME": "Chipaque, CU",
+        "row_nr": 507
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Choachi",
+        "department_abbreviation": "CU",
+        "NAME": "Choachi, CU",
+        "row_nr": 508
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Choconta",
+        "department_abbreviation": "CU",
+        "NAME": "Choconta, CU",
+        "row_nr": 509
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cogua",
+        "department_abbreviation": "CU",
+        "NAME": "Cogua, CU",
+        "row_nr": 510
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cota",
+        "department_abbreviation": "CU",
+        "NAME": "Cota, CU",
+        "row_nr": 511
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Cucunuba",
+        "department_abbreviation": "CU",
+        "NAME": "Cucunuba, CU",
+        "row_nr": 512
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "El Colegio",
+        "department_abbreviation": "CU",
+        "NAME": "El Colegio, CU",
+        "row_nr": 513
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "El Penon",
+        "department_abbreviation": "CU",
+        "NAME": "El Penon, CU",
+        "row_nr": 514
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Facatativa",
+        "department_abbreviation": "CU",
+        "NAME": "Facatativa, CU",
+        "row_nr": 515
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Fomeque",
+        "department_abbreviation": "CU",
+        "NAME": "Fomeque, CU",
+        "row_nr": 516
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Fosca",
+        "department_abbreviation": "CU",
+        "NAME": "Fosca, CU",
+        "row_nr": 517
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Funza",
+        "department_abbreviation": "CU",
+        "NAME": "Funza, CU",
+        "row_nr": 518
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Fuquene",
+        "department_abbreviation": "CU",
+        "NAME": "Fuquene, CU",
+        "row_nr": 519
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Fusagasuga",
+        "department_abbreviation": "CU",
+        "NAME": "Fusagasuga, CU",
+        "row_nr": 520
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Gachala",
+        "department_abbreviation": "CU",
+        "NAME": "Gachala, CU",
+        "row_nr": 521
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Gachancipa",
+        "department_abbreviation": "CU",
+        "NAME": "Gachancipa, CU",
+        "row_nr": 522
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Gacheta",
+        "department_abbreviation": "CU",
+        "NAME": "Gacheta, CU",
+        "row_nr": 523
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Gama",
+        "department_abbreviation": "CU",
+        "NAME": "Gama, CU",
+        "row_nr": 524
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Girardot",
+        "department_abbreviation": "CU",
+        "NAME": "Girardot, CU",
+        "row_nr": 525
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guacheta",
+        "department_abbreviation": "CU",
+        "NAME": "Guacheta, CU",
+        "row_nr": 526
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guaduas",
+        "department_abbreviation": "CU",
+        "NAME": "Guaduas, CU",
+        "row_nr": 527
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guasca",
+        "department_abbreviation": "CU",
+        "NAME": "Guasca, CU",
+        "row_nr": 528
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guataqui",
+        "department_abbreviation": "CU",
+        "NAME": "Guataqui, CU",
+        "row_nr": 529
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guatavita",
+        "department_abbreviation": "CU",
+        "NAME": "Guatavita, CU",
+        "row_nr": 530
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guayabal de Siquima",
+        "department_abbreviation": "CU",
+        "NAME": "Guayabal de Siquima, CU",
+        "row_nr": 531
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Guayabetal",
+        "department_abbreviation": "CU",
+        "NAME": "Guayabetal, CU",
+        "row_nr": 532
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Gutierrez",
+        "department_abbreviation": "CU",
+        "NAME": "Gutierrez, CU",
+        "row_nr": 533
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Jerusalen",
+        "department_abbreviation": "CU",
+        "NAME": "Jerusalen, CU",
+        "row_nr": 534
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Junin",
+        "department_abbreviation": "CU",
+        "NAME": "Junin, CU",
+        "row_nr": 535
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "La Calera",
+        "department_abbreviation": "CU",
+        "NAME": "La Calera, CU",
+        "row_nr": 536
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "La Mesa",
+        "department_abbreviation": "CU",
+        "NAME": "La Mesa, CU",
+        "row_nr": 537
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "La Palma",
+        "department_abbreviation": "CU",
+        "NAME": "La Palma, CU",
+        "row_nr": 538
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "La Pena",
+        "department_abbreviation": "CU",
+        "NAME": "La Pena, CU",
+        "row_nr": 539
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "La Vega",
+        "department_abbreviation": "CU",
+        "NAME": "La Vega, CU",
+        "row_nr": 540
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Lenguazaque",
+        "department_abbreviation": "CU",
+        "NAME": "Lenguazaque, CU",
+        "row_nr": 541
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Macheta",
+        "department_abbreviation": "CU",
+        "NAME": "Macheta, CU",
+        "row_nr": 542
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Madrid",
+        "department_abbreviation": "CU",
+        "NAME": "Madrid, CU",
+        "row_nr": 543
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Manta",
+        "department_abbreviation": "CU",
+        "NAME": "Manta, CU",
+        "row_nr": 544
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Medina",
+        "department_abbreviation": "CU",
+        "NAME": "Medina, CU",
+        "row_nr": 545
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Mosquera",
+        "department_abbreviation": "CU",
+        "NAME": "Mosquera, CU",
+        "row_nr": 546
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Narino",
+        "department_abbreviation": "CU",
+        "NAME": "Narino, CU",
+        "row_nr": 547
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Nemocon",
+        "department_abbreviation": "CU",
+        "NAME": "Nemocon, CU",
+        "row_nr": 548
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Nilo",
+        "department_abbreviation": "CU",
+        "NAME": "Nilo, CU",
+        "row_nr": 549
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Nimaima",
+        "department_abbreviation": "CU",
+        "NAME": "Nimaima, CU",
+        "row_nr": 550
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Nocaima",
+        "department_abbreviation": "CU",
+        "NAME": "Nocaima, CU",
+        "row_nr": 551
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Pacho",
+        "department_abbreviation": "CU",
+        "NAME": "Pacho, CU",
+        "row_nr": 552
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Paime",
+        "department_abbreviation": "CU",
+        "NAME": "Paime, CU",
+        "row_nr": 553
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Pandi",
+        "department_abbreviation": "CU",
+        "NAME": "Pandi, CU",
+        "row_nr": 554
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Paratebueno",
+        "department_abbreviation": "CU",
+        "NAME": "Paratebueno, CU",
+        "row_nr": 555
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Pasca",
+        "department_abbreviation": "CU",
+        "NAME": "Pasca, CU",
+        "row_nr": 556
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Puerto Salgar",
+        "department_abbreviation": "CU",
+        "NAME": "Puerto Salgar, CU",
+        "row_nr": 557
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Puli",
+        "department_abbreviation": "CU",
+        "NAME": "Puli, CU",
+        "row_nr": 558
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Quebradanegra",
+        "department_abbreviation": "CU",
+        "NAME": "Quebradanegra, CU",
+        "row_nr": 559
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Quetame",
+        "department_abbreviation": "CU",
+        "NAME": "Quetame, CU",
+        "row_nr": 560
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Quipile",
+        "department_abbreviation": "CU",
+        "NAME": "Quipile, CU",
+        "row_nr": 561
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Ricaurte",
+        "department_abbreviation": "CU",
+        "NAME": "Ricaurte, CU",
+        "row_nr": 562
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "San Antonio del Tequendama",
+        "department_abbreviation": "CU",
+        "NAME": "San Antonio del Tequendama, CU",
+        "row_nr": 563
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "San Bernardo",
+        "department_abbreviation": "CU",
+        "NAME": "San Bernardo, CU",
+        "row_nr": 564
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "San Cayetano",
+        "department_abbreviation": "CU",
+        "NAME": "San Cayetano, CU",
+        "row_nr": 565
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "San Francisco",
+        "department_abbreviation": "CU",
+        "NAME": "San Francisco, CU",
+        "row_nr": 566
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "San Juan de Rio Seco",
+        "department_abbreviation": "CU",
+        "NAME": "San Juan de Rio Seco, CU",
+        "row_nr": 567
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Santafe de Bogota",
+        "department_abbreviation": "CU",
+        "NAME": "Santafe de Bogota, CU",
+        "row_nr": 568
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Sasaima",
+        "department_abbreviation": "CU",
+        "NAME": "Sasaima, CU",
+        "row_nr": 569
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Sesquile",
+        "department_abbreviation": "CU",
+        "NAME": "Sesquile, CU",
+        "row_nr": 570
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Sibate",
+        "department_abbreviation": "CU",
+        "NAME": "Sibate, CU",
+        "row_nr": 571
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Silvania",
+        "department_abbreviation": "CU",
+        "NAME": "Silvania, CU",
+        "row_nr": 572
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Simijaca",
+        "department_abbreviation": "CU",
+        "NAME": "Simijaca, CU",
+        "row_nr": 573
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Soacha",
+        "department_abbreviation": "CU",
+        "NAME": "Soacha, CU",
+        "row_nr": 574
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Sopo",
+        "department_abbreviation": "CU",
+        "NAME": "Sopo, CU",
+        "row_nr": 575
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Subachoque",
+        "department_abbreviation": "CU",
+        "NAME": "Subachoque, CU",
+        "row_nr": 576
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Suesca",
+        "department_abbreviation": "CU",
+        "NAME": "Suesca, CU",
+        "row_nr": 577
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Supata",
+        "department_abbreviation": "CU",
+        "NAME": "Supata, CU",
+        "row_nr": 578
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Susa",
+        "department_abbreviation": "CU",
+        "NAME": "Susa, CU",
+        "row_nr": 579
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Sutatausa",
+        "department_abbreviation": "CU",
+        "NAME": "Sutatausa, CU",
+        "row_nr": 580
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tabio",
+        "department_abbreviation": "CU",
+        "NAME": "Tabio, CU",
+        "row_nr": 581
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tausa",
+        "department_abbreviation": "CU",
+        "NAME": "Tausa, CU",
+        "row_nr": 582
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tena",
+        "department_abbreviation": "CU",
+        "NAME": "Tena, CU",
+        "row_nr": 583
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tenjo",
+        "department_abbreviation": "CU",
+        "NAME": "Tenjo, CU",
+        "row_nr": 584
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tibacuy",
+        "department_abbreviation": "CU",
+        "NAME": "Tibacuy, CU",
+        "row_nr": 585
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tibirita",
+        "department_abbreviation": "CU",
+        "NAME": "Tibirita, CU",
+        "row_nr": 586
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tocaima",
+        "department_abbreviation": "CU",
+        "NAME": "Tocaima, CU",
+        "row_nr": 587
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Tocancipa",
+        "department_abbreviation": "CU",
+        "NAME": "Tocancipa, CU",
+        "row_nr": 588
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Topaipi",
+        "department_abbreviation": "CU",
+        "NAME": "Topaipi, CU",
+        "row_nr": 589
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Ubala",
+        "department_abbreviation": "CU",
+        "NAME": "Ubala, CU",
+        "row_nr": 590
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Ubaque",
+        "department_abbreviation": "CU",
+        "NAME": "Ubaque, CU",
+        "row_nr": 591
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Une",
+        "department_abbreviation": "CU",
+        "NAME": "Une, CU",
+        "row_nr": 592
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Utica",
+        "department_abbreviation": "CU",
+        "NAME": "Utica, CU",
+        "row_nr": 593
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Venecia",
+        "department_abbreviation": "CU",
+        "NAME": "Venecia, CU",
+        "row_nr": 594
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Vergara",
+        "department_abbreviation": "CU",
+        "NAME": "Vergara, CU",
+        "row_nr": 595
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Viani",
+        "department_abbreviation": "CU",
+        "NAME": "Viani, CU",
+        "row_nr": 596
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Villa de San Diego de Ubate",
+        "department_abbreviation": "CU",
+        "NAME": "Villa de San Diego de Ubate, CU",
+        "row_nr": 597
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Villagomez",
+        "department_abbreviation": "CU",
+        "NAME": "Villagomez, CU",
+        "row_nr": 598
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Villapinzon",
+        "department_abbreviation": "CU",
+        "NAME": "Villapinzon, CU",
+        "row_nr": 599
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Villeta",
+        "department_abbreviation": "CU",
+        "NAME": "Villeta, CU",
+        "row_nr": 600
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Viota",
+        "department_abbreviation": "CU",
+        "NAME": "Viota, CU",
+        "row_nr": 601
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Yacopi",
+        "department_abbreviation": "CU",
+        "NAME": "Yacopi, CU",
+        "row_nr": 602
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Zipacon",
+        "department_abbreviation": "CU",
+        "NAME": "Zipacon, CU",
+        "row_nr": 603
+    },
+    {
+        "department": "Cundinamarca",
+        "municipality": "Zipaquira",
+        "department_abbreviation": "CU",
+        "NAME": "Zipaquira, CU",
+        "row_nr": 604
+    },
+    {
+        "department": "Guainia",
+        "municipality": "Barranco Minas",
+        "department_abbreviation": "GN",
+        "NAME": "Barranco Minas, GN",
+        "row_nr": 605
+    },
+    {
+        "department": "Guainia",
+        "municipality": "Cacahual",
+        "department_abbreviation": "GN",
+        "NAME": "Cacahual, GN",
+        "row_nr": 606
+    },
+    {
+        "department": "Guainia",
+        "municipality": "La Guadalupe",
+        "department_abbreviation": "GN",
+        "NAME": "La Guadalupe, GN",
+        "row_nr": 607
+    },
+    {
+        "department": "Guainia",
+        "municipality": "Pana Pana",
+        "department_abbreviation": "GN",
+        "NAME": "Pana Pana, GN",
+        "row_nr": 608
+    },
+    {
+        "department": "Guainia",
+        "municipality": "Puerto Colombia",
+        "department_abbreviation": "GN",
+        "NAME": "Puerto Colombia, GN",
+        "row_nr": 609
+    },
+    {
+        "department": "Guainia",
+        "municipality": "Puerto Inirida",
+        "department_abbreviation": "GN",
+        "NAME": "Puerto Inirida, GN",
+        "row_nr": 610
+    },
+    {
+        "department": "Guainia",
+        "municipality": "San Felipe",
+        "department_abbreviation": "GN",
+        "NAME": "San Felipe, GN",
+        "row_nr": 611
+    },
+    {
+        "department": "Guaviare",
+        "municipality": "Calamar",
+        "department_abbreviation": "GV",
+        "NAME": "Calamar, GV",
+        "row_nr": 612
+    },
+    {
+        "department": "Guaviare",
+        "municipality": "El Retorno",
+        "department_abbreviation": "GV",
+        "NAME": "El Retorno, GV",
+        "row_nr": 613
+    },
+    {
+        "department": "Guaviare",
+        "municipality": "Miraflores",
+        "department_abbreviation": "GV",
+        "NAME": "Miraflores, GV",
+        "row_nr": 614
+    },
+    {
+        "department": "Guaviare",
+        "municipality": "San Jose del Guaviare",
+        "department_abbreviation": "GV",
+        "NAME": "San Jose del Guaviare, GV",
+        "row_nr": 615
+    },
+    {
+        "department": "Huila",
+        "municipality": "Acevedo",
+        "department_abbreviation": "HU",
+        "NAME": "Acevedo, HU",
+        "row_nr": 616
+    },
+    {
+        "department": "Huila",
+        "municipality": "Agrado",
+        "department_abbreviation": "HU",
+        "NAME": "Agrado, HU",
+        "row_nr": 617
+    },
+    {
+        "department": "Huila",
+        "municipality": "Aipe",
+        "department_abbreviation": "HU",
+        "NAME": "Aipe, HU",
+        "row_nr": 618
+    },
+    {
+        "department": "Huila",
+        "municipality": "Algeciras",
+        "department_abbreviation": "HU",
+        "NAME": "Algeciras, HU",
+        "row_nr": 619
+    },
+    {
+        "department": "Huila",
+        "municipality": "Altamira",
+        "department_abbreviation": "HU",
+        "NAME": "Altamira, HU",
+        "row_nr": 620
+    },
+    {
+        "department": "Huila",
+        "municipality": "Baraya",
+        "department_abbreviation": "HU",
+        "NAME": "Baraya, HU",
+        "row_nr": 621
+    },
+    {
+        "department": "Huila",
+        "municipality": "Campoalegre",
+        "department_abbreviation": "HU",
+        "NAME": "Campoalegre, HU",
+        "row_nr": 622
+    },
+    {
+        "department": "Huila",
+        "municipality": "Colombia",
+        "department_abbreviation": "HU",
+        "NAME": "Colombia, HU",
+        "row_nr": 623
+    },
+    {
+        "department": "Huila",
+        "municipality": "Elias",
+        "department_abbreviation": "HU",
+        "NAME": "Elias, HU",
+        "row_nr": 624
+    },
+    {
+        "department": "Huila",
+        "municipality": "Garzon",
+        "department_abbreviation": "HU",
+        "NAME": "Garzon, HU",
+        "row_nr": 625
+    },
+    {
+        "department": "Huila",
+        "municipality": "Gigante",
+        "department_abbreviation": "HU",
+        "NAME": "Gigante, HU",
+        "row_nr": 626
+    },
+    {
+        "department": "Huila",
+        "municipality": "Guadalupe",
+        "department_abbreviation": "HU",
+        "NAME": "Guadalupe, HU",
+        "row_nr": 627
+    },
+    {
+        "department": "Huila",
+        "municipality": "Hobo",
+        "department_abbreviation": "HU",
+        "NAME": "Hobo, HU",
+        "row_nr": 628
+    },
+    {
+        "department": "Huila",
+        "municipality": "Iquira",
+        "department_abbreviation": "HU",
+        "NAME": "Iquira, HU",
+        "row_nr": 629
+    },
+    {
+        "department": "Huila",
+        "municipality": "Isnos",
+        "department_abbreviation": "HU",
+        "NAME": "Isnos, HU",
+        "row_nr": 630
+    },
+    {
+        "department": "Huila",
+        "municipality": "La Argentina",
+        "department_abbreviation": "HU",
+        "NAME": "La Argentina, HU",
+        "row_nr": 631
+    },
+    {
+        "department": "Huila",
+        "municipality": "La Plata",
+        "department_abbreviation": "HU",
+        "NAME": "La Plata, HU",
+        "row_nr": 632
+    },
+    {
+        "department": "Huila",
+        "municipality": "Nataga",
+        "department_abbreviation": "HU",
+        "NAME": "Nataga, HU",
+        "row_nr": 633
+    },
+    {
+        "department": "Huila",
+        "municipality": "Neiva",
+        "department_abbreviation": "HU",
+        "NAME": "Neiva, HU",
+        "row_nr": 634
+    },
+    {
+        "department": "Huila",
+        "municipality": "Oporapa",
+        "department_abbreviation": "HU",
+        "NAME": "Oporapa, HU",
+        "row_nr": 635
+    },
+    {
+        "department": "Huila",
+        "municipality": "Paicol",
+        "department_abbreviation": "HU",
+        "NAME": "Paicol, HU",
+        "row_nr": 636
+    },
+    {
+        "department": "Huila",
+        "municipality": "Palermo",
+        "department_abbreviation": "HU",
+        "NAME": "Palermo, HU",
+        "row_nr": 637
+    },
+    {
+        "department": "Huila",
+        "municipality": "Palestina",
+        "department_abbreviation": "HU",
+        "NAME": "Palestina, HU",
+        "row_nr": 638
+    },
+    {
+        "department": "Huila",
+        "municipality": "Pital",
+        "department_abbreviation": "HU",
+        "NAME": "Pital, HU",
+        "row_nr": 639
+    },
+    {
+        "department": "Huila",
+        "municipality": "Pitalito",
+        "department_abbreviation": "HU",
+        "NAME": "Pitalito, HU",
+        "row_nr": 640
+    },
+    {
+        "department": "Huila",
+        "municipality": "Rivera",
+        "department_abbreviation": "HU",
+        "NAME": "Rivera, HU",
+        "row_nr": 641
+    },
+    {
+        "department": "Huila",
+        "municipality": "Saladoblanco",
+        "department_abbreviation": "HU",
+        "NAME": "Saladoblanco, HU",
+        "row_nr": 642
+    },
+    {
+        "department": "Huila",
+        "municipality": "San Agustin",
+        "department_abbreviation": "HU",
+        "NAME": "San Agustin, HU",
+        "row_nr": 643
+    },
+    {
+        "department": "Huila",
+        "municipality": "Santa Maria",
+        "department_abbreviation": "HU",
+        "NAME": "Santa Maria, HU",
+        "row_nr": 644
+    },
+    {
+        "department": "Huila",
+        "municipality": "Suaza",
+        "department_abbreviation": "HU",
+        "NAME": "Suaza, HU",
+        "row_nr": 645
+    },
+    {
+        "department": "Huila",
+        "municipality": "Tarqui",
+        "department_abbreviation": "HU",
+        "NAME": "Tarqui, HU",
+        "row_nr": 646
+    },
+    {
+        "department": "Huila",
+        "municipality": "Tello",
+        "department_abbreviation": "HU",
+        "NAME": "Tello, HU",
+        "row_nr": 647
+    },
+    {
+        "department": "Huila",
+        "municipality": "Teruel",
+        "department_abbreviation": "HU",
+        "NAME": "Teruel, HU",
+        "row_nr": 648
+    },
+    {
+        "department": "Huila",
+        "municipality": "Tesalia",
+        "department_abbreviation": "HU",
+        "NAME": "Tesalia, HU",
+        "row_nr": 649
+    },
+    {
+        "department": "Huila",
+        "municipality": "Timana",
+        "department_abbreviation": "HU",
+        "NAME": "Timana, HU",
+        "row_nr": 650
+    },
+    {
+        "department": "Huila",
+        "municipality": "Villavieja",
+        "department_abbreviation": "HU",
+        "NAME": "Villavieja, HU",
+        "row_nr": 651
+    },
+    {
+        "department": "Huila",
+        "municipality": "Yaguara",
+        "department_abbreviation": "HU",
+        "NAME": "Yaguara, HU",
+        "row_nr": 652
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Barrancas",
+        "department_abbreviation": "LG",
+        "NAME": "Barrancas, LG",
+        "row_nr": 653
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "El Molino",
+        "department_abbreviation": "LG",
+        "NAME": "El Molino, LG",
+        "row_nr": 654
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Fonseca",
+        "department_abbreviation": "LG",
+        "NAME": "Fonseca, LG",
+        "row_nr": 655
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Maicao",
+        "department_abbreviation": "LG",
+        "NAME": "Maicao, LG",
+        "row_nr": 656
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Manaure",
+        "department_abbreviation": "LG",
+        "NAME": "Manaure, LG",
+        "row_nr": 657
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Riohacha",
+        "department_abbreviation": "LG",
+        "NAME": "Riohacha, LG",
+        "row_nr": 658
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "San Juan del Cesar",
+        "department_abbreviation": "LG",
+        "NAME": "San Juan del Cesar, LG",
+        "row_nr": 659
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Uribia",
+        "department_abbreviation": "LG",
+        "NAME": "Uribia, LG",
+        "row_nr": 660
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Urumita",
+        "department_abbreviation": "LG",
+        "NAME": "Urumita, LG",
+        "row_nr": 661
+    },
+    {
+        "department": "La Guajira",
+        "municipality": "Villanueva",
+        "department_abbreviation": "LG",
+        "NAME": "Villanueva, LG",
+        "row_nr": 662
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Aracataca",
+        "department_abbreviation": "MA",
+        "NAME": "Aracataca, MA",
+        "row_nr": 663
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Ariguani",
+        "department_abbreviation": "MA",
+        "NAME": "Ariguani, MA",
+        "row_nr": 664
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Cerro de San Antonio",
+        "department_abbreviation": "MA",
+        "NAME": "Cerro de San Antonio, MA",
+        "row_nr": 665
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Chivolo",
+        "department_abbreviation": "MA",
+        "NAME": "Chivolo, MA",
+        "row_nr": 666
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Cienaga",
+        "department_abbreviation": "MA",
+        "NAME": "Cienaga, MA",
+        "row_nr": 667
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "El Banco",
+        "department_abbreviation": "MA",
+        "NAME": "El Banco, MA",
+        "row_nr": 668
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "El Pinon",
+        "department_abbreviation": "MA",
+        "NAME": "El Pinon, MA",
+        "row_nr": 669
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Fundacion",
+        "department_abbreviation": "MA",
+        "NAME": "Fundacion, MA",
+        "row_nr": 670
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Guamal",
+        "department_abbreviation": "MA",
+        "NAME": "Guamal, MA",
+        "row_nr": 671
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Pedraza",
+        "department_abbreviation": "MA",
+        "NAME": "Pedraza, MA",
+        "row_nr": 672
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Pivijay",
+        "department_abbreviation": "MA",
+        "NAME": "Pivijay, MA",
+        "row_nr": 673
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Plato",
+        "department_abbreviation": "MA",
+        "NAME": "Plato, MA",
+        "row_nr": 674
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Pueblo Viejo",
+        "department_abbreviation": "MA",
+        "NAME": "Pueblo Viejo, MA",
+        "row_nr": 675
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Remolino",
+        "department_abbreviation": "MA",
+        "NAME": "Remolino, MA",
+        "row_nr": 676
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Salamina",
+        "department_abbreviation": "MA",
+        "NAME": "Salamina, MA",
+        "row_nr": 677
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "San Sebastian de Buenavista",
+        "department_abbreviation": "MA",
+        "NAME": "San Sebastian de Buenavista, MA",
+        "row_nr": 678
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "San Zenon",
+        "department_abbreviation": "MA",
+        "NAME": "San Zenon, MA",
+        "row_nr": 679
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Santa Ana",
+        "department_abbreviation": "MA",
+        "NAME": "Santa Ana, MA",
+        "row_nr": 680
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Santa Marta (Dist. Esp.)",
+        "department_abbreviation": "MA",
+        "NAME": "Santa Marta (Dist. Esp.), MA",
+        "row_nr": 681
+    },
+    {
+        "department": "Magdalena",
+        "municipality": "Tenerife",
+        "department_abbreviation": "MA",
+        "NAME": "Tenerife, MA",
+        "row_nr": 682
+    },
+    {
+        "department": "Meta",
+        "municipality": "Acacias",
+        "department_abbreviation": "ME",
+        "NAME": "Acacias, ME",
+        "row_nr": 683
+    },
+    {
+        "department": "Meta",
+        "municipality": "Barranca de Upia",
+        "department_abbreviation": "ME",
+        "NAME": "Barranca de Upia, ME",
+        "row_nr": 684
+    },
+    {
+        "department": "Meta",
+        "municipality": "Cabuyaro",
+        "department_abbreviation": "ME",
+        "NAME": "Cabuyaro, ME",
+        "row_nr": 685
+    },
+    {
+        "department": "Meta",
+        "municipality": "Castilla la Nueva",
+        "department_abbreviation": "ME",
+        "NAME": "Castilla la Nueva, ME",
+        "row_nr": 686
+    },
+    {
+        "department": "Meta",
+        "municipality": "Cumaral",
+        "department_abbreviation": "ME",
+        "NAME": "Cumaral, ME",
+        "row_nr": 687
+    },
+    {
+        "department": "Meta",
+        "municipality": "El Calvario",
+        "department_abbreviation": "ME",
+        "NAME": "El Calvario, ME",
+        "row_nr": 688
+    },
+    {
+        "department": "Meta",
+        "municipality": "El Castillo",
+        "department_abbreviation": "ME",
+        "NAME": "El Castillo, ME",
+        "row_nr": 689
+    },
+    {
+        "department": "Meta",
+        "municipality": "El Dorado",
+        "department_abbreviation": "ME",
+        "NAME": "El Dorado, ME",
+        "row_nr": 690
+    },
+    {
+        "department": "Meta",
+        "municipality": "Fuente de Oro",
+        "department_abbreviation": "ME",
+        "NAME": "Fuente de Oro, ME",
+        "row_nr": 691
+    },
+    {
+        "department": "Meta",
+        "municipality": "Granada",
+        "department_abbreviation": "ME",
+        "NAME": "Granada, ME",
+        "row_nr": 692
+    },
+    {
+        "department": "Meta",
+        "municipality": "Guamal",
+        "department_abbreviation": "ME",
+        "NAME": "Guamal, ME",
+        "row_nr": 693
+    },
+    {
+        "department": "Meta",
+        "municipality": "La Macarena",
+        "department_abbreviation": "ME",
+        "NAME": "La Macarena, ME",
+        "row_nr": 694
+    },
+    {
+        "department": "Meta",
+        "municipality": "La Uribe",
+        "department_abbreviation": "ME",
+        "NAME": "La Uribe, ME",
+        "row_nr": 695
+    },
+    {
+        "department": "Meta",
+        "municipality": "Lejanias",
+        "department_abbreviation": "ME",
+        "NAME": "Lejanias, ME",
+        "row_nr": 696
+    },
+    {
+        "department": "Meta",
+        "municipality": "Mapiripan",
+        "department_abbreviation": "ME",
+        "NAME": "Mapiripan, ME",
+        "row_nr": 697
+    },
+    {
+        "department": "Meta",
+        "municipality": "Mesetas",
+        "department_abbreviation": "ME",
+        "NAME": "Mesetas, ME",
+        "row_nr": 698
+    },
+    {
+        "department": "Meta",
+        "municipality": "Puerto Concordia",
+        "department_abbreviation": "ME",
+        "NAME": "Puerto Concordia, ME",
+        "row_nr": 699
+    },
+    {
+        "department": "Meta",
+        "municipality": "Puerto Gaitan",
+        "department_abbreviation": "ME",
+        "NAME": "Puerto Gaitan, ME",
+        "row_nr": 700
+    },
+    {
+        "department": "Meta",
+        "municipality": "Puerto Lleras",
+        "department_abbreviation": "ME",
+        "NAME": "Puerto Lleras, ME",
+        "row_nr": 701
+    },
+    {
+        "department": "Meta",
+        "municipality": "Puerto Lopez",
+        "department_abbreviation": "ME",
+        "NAME": "Puerto Lopez, ME",
+        "row_nr": 702
+    },
+    {
+        "department": "Meta",
+        "municipality": "Puerto Rico",
+        "department_abbreviation": "ME",
+        "NAME": "Puerto Rico, ME",
+        "row_nr": 703
+    },
+    {
+        "department": "Meta",
+        "municipality": "Restrepo",
+        "department_abbreviation": "ME",
+        "NAME": "Restrepo, ME",
+        "row_nr": 704
+    },
+    {
+        "department": "Meta",
+        "municipality": "San Carlos de Guaroa",
+        "department_abbreviation": "ME",
+        "NAME": "San Carlos de Guaroa, ME",
+        "row_nr": 705
+    },
+    {
+        "department": "Meta",
+        "municipality": "San Juan de Arama",
+        "department_abbreviation": "ME",
+        "NAME": "San Juan de Arama, ME",
+        "row_nr": 706
+    },
+    {
+        "department": "Meta",
+        "municipality": "San Juanito",
+        "department_abbreviation": "ME",
+        "NAME": "San Juanito, ME",
+        "row_nr": 707
+    },
+    {
+        "department": "Meta",
+        "municipality": "San Luis de Cubarral",
+        "department_abbreviation": "ME",
+        "NAME": "San Luis de Cubarral, ME",
+        "row_nr": 708
+    },
+    {
+        "department": "Meta",
+        "municipality": "San Martin",
+        "department_abbreviation": "ME",
+        "NAME": "San Martin, ME",
+        "row_nr": 709
+    },
+    {
+        "department": "Meta",
+        "municipality": "Villavicencio",
+        "department_abbreviation": "ME",
+        "NAME": "Villavicencio, ME",
+        "row_nr": 710
+    },
+    {
+        "department": "Meta",
+        "municipality": "Vista Hermosa",
+        "department_abbreviation": "ME",
+        "NAME": "Vista Hermosa, ME",
+        "row_nr": 711
+    },
+    {
+        "department": "Narino",
+        "municipality": "Alban",
+        "department_abbreviation": "NA",
+        "NAME": "Alban, NA",
+        "row_nr": 712
+    },
+    {
+        "department": "Narino",
+        "municipality": "Aldana",
+        "department_abbreviation": "NA",
+        "NAME": "Aldana, NA",
+        "row_nr": 713
+    },
+    {
+        "department": "Narino",
+        "municipality": "Ancuya",
+        "department_abbreviation": "NA",
+        "NAME": "Ancuya, NA",
+        "row_nr": 714
+    },
+    {
+        "department": "Narino",
+        "municipality": "Arboleda",
+        "department_abbreviation": "NA",
+        "NAME": "Arboleda, NA",
+        "row_nr": 715
+    },
+    {
+        "department": "Narino",
+        "municipality": "Barbacoas",
+        "department_abbreviation": "NA",
+        "NAME": "Barbacoas, NA",
+        "row_nr": 716
+    },
+    {
+        "department": "Narino",
+        "municipality": "Belen",
+        "department_abbreviation": "NA",
+        "NAME": "Belen, NA",
+        "row_nr": 717
+    },
+    {
+        "department": "Narino",
+        "municipality": "Buesaco",
+        "department_abbreviation": "NA",
+        "NAME": "Buesaco, NA",
+        "row_nr": 718
+    },
+    {
+        "department": "Narino",
+        "municipality": "Chachagui",
+        "department_abbreviation": "NA",
+        "NAME": "Chachagui, NA",
+        "row_nr": 719
+    },
+    {
+        "department": "Narino",
+        "municipality": "Colon",
+        "department_abbreviation": "NA",
+        "NAME": "Colon, NA",
+        "row_nr": 720
+    },
+    {
+        "department": "Narino",
+        "municipality": "Consaca",
+        "department_abbreviation": "NA",
+        "NAME": "Consaca, NA",
+        "row_nr": 721
+    },
+    {
+        "department": "Narino",
+        "municipality": "Contadero",
+        "department_abbreviation": "NA",
+        "NAME": "Contadero, NA",
+        "row_nr": 722
+    },
+    {
+        "department": "Narino",
+        "municipality": "Cordoba",
+        "department_abbreviation": "NA",
+        "NAME": "Cordoba, NA",
+        "row_nr": 723
+    },
+    {
+        "department": "Narino",
+        "municipality": "Cuaspud",
+        "department_abbreviation": "NA",
+        "NAME": "Cuaspud, NA",
+        "row_nr": 724
+    },
+    {
+        "department": "Narino",
+        "municipality": "Cumbal",
+        "department_abbreviation": "NA",
+        "NAME": "Cumbal, NA",
+        "row_nr": 725
+    },
+    {
+        "department": "Narino",
+        "municipality": "Cumbitara",
+        "department_abbreviation": "NA",
+        "NAME": "Cumbitara, NA",
+        "row_nr": 726
+    },
+    {
+        "department": "Narino",
+        "municipality": "El Charco",
+        "department_abbreviation": "NA",
+        "NAME": "El Charco, NA",
+        "row_nr": 727
+    },
+    {
+        "department": "Narino",
+        "municipality": "El Rosario",
+        "department_abbreviation": "NA",
+        "NAME": "El Rosario, NA",
+        "row_nr": 728
+    },
+    {
+        "department": "Narino",
+        "municipality": "El Tablon de Gomez",
+        "department_abbreviation": "NA",
+        "NAME": "El Tablon de Gomez, NA",
+        "row_nr": 729
+    },
+    {
+        "department": "Narino",
+        "municipality": "El Tambo",
+        "department_abbreviation": "NA",
+        "NAME": "El Tambo, NA",
+        "row_nr": 730
+    },
+    {
+        "department": "Narino",
+        "municipality": "Francisco Pizarro",
+        "department_abbreviation": "NA",
+        "NAME": "Francisco Pizarro, NA",
+        "row_nr": 731
+    },
+    {
+        "department": "Narino",
+        "municipality": "Funes",
+        "department_abbreviation": "NA",
+        "NAME": "Funes, NA",
+        "row_nr": 732
+    },
+    {
+        "department": "Narino",
+        "municipality": "Guachucal",
+        "department_abbreviation": "NA",
+        "NAME": "Guachucal, NA",
+        "row_nr": 733
+    },
+    {
+        "department": "Narino",
+        "municipality": "Guaitarilla",
+        "department_abbreviation": "NA",
+        "NAME": "Guaitarilla, NA",
+        "row_nr": 734
+    },
+    {
+        "department": "Narino",
+        "municipality": "Gualmatan",
+        "department_abbreviation": "NA",
+        "NAME": "Gualmatan, NA",
+        "row_nr": 735
+    },
+    {
+        "department": "Narino",
+        "municipality": "Iles",
+        "department_abbreviation": "NA",
+        "NAME": "Iles, NA",
+        "row_nr": 736
+    },
+    {
+        "department": "Narino",
+        "municipality": "Imues",
+        "department_abbreviation": "NA",
+        "NAME": "Imues, NA",
+        "row_nr": 737
+    },
+    {
+        "department": "Narino",
+        "municipality": "Ipiales",
+        "department_abbreviation": "NA",
+        "NAME": "Ipiales, NA",
+        "row_nr": 738
+    },
+    {
+        "department": "Narino",
+        "municipality": "La Cruz",
+        "department_abbreviation": "NA",
+        "NAME": "La Cruz, NA",
+        "row_nr": 739
+    },
+    {
+        "department": "Narino",
+        "municipality": "La Florida",
+        "department_abbreviation": "NA",
+        "NAME": "La Florida, NA",
+        "row_nr": 740
+    },
+    {
+        "department": "Narino",
+        "municipality": "La Llanada",
+        "department_abbreviation": "NA",
+        "NAME": "La Llanada, NA",
+        "row_nr": 741
+    },
+    {
+        "department": "Narino",
+        "municipality": "La Tola",
+        "department_abbreviation": "NA",
+        "NAME": "La Tola, NA",
+        "row_nr": 742
+    },
+    {
+        "department": "Narino",
+        "municipality": "La Union de Sucre",
+        "department_abbreviation": "NA",
+        "NAME": "La Union de Sucre, NA",
+        "row_nr": 743
+    },
+    {
+        "department": "Narino",
+        "municipality": "Leiva",
+        "department_abbreviation": "NA",
+        "NAME": "Leiva, NA",
+        "row_nr": 744
+    },
+    {
+        "department": "Narino",
+        "municipality": "Linares",
+        "department_abbreviation": "NA",
+        "NAME": "Linares, NA",
+        "row_nr": 745
+    },
+    {
+        "department": "Narino",
+        "municipality": "Los Andes",
+        "department_abbreviation": "NA",
+        "NAME": "Los Andes, NA",
+        "row_nr": 746
+    },
+    {
+        "department": "Narino",
+        "municipality": "Magui",
+        "department_abbreviation": "NA",
+        "NAME": "Magui, NA",
+        "row_nr": 747
+    },
+    {
+        "department": "Narino",
+        "municipality": "Mallama",
+        "department_abbreviation": "NA",
+        "NAME": "Mallama, NA",
+        "row_nr": 748
+    },
+    {
+        "department": "Narino",
+        "municipality": "Mosquera",
+        "department_abbreviation": "NA",
+        "NAME": "Mosquera, NA",
+        "row_nr": 749
+    },
+    {
+        "department": "Narino",
+        "municipality": "Olaya Herrera",
+        "department_abbreviation": "NA",
+        "NAME": "Olaya Herrera, NA",
+        "row_nr": 750
+    },
+    {
+        "department": "Narino",
+        "municipality": "Ospina",
+        "department_abbreviation": "NA",
+        "NAME": "Ospina, NA",
+        "row_nr": 751
+    },
+    {
+        "department": "Narino",
+        "municipality": "Policarpa",
+        "department_abbreviation": "NA",
+        "NAME": "Policarpa, NA",
+        "row_nr": 752
+    },
+    {
+        "department": "Narino",
+        "municipality": "Potosi",
+        "department_abbreviation": "NA",
+        "NAME": "Potosi, NA",
+        "row_nr": 753
+    },
+    {
+        "department": "Narino",
+        "municipality": "Providencia",
+        "department_abbreviation": "NA",
+        "NAME": "Providencia, NA",
+        "row_nr": 754
+    },
+    {
+        "department": "Narino",
+        "municipality": "Puerres",
+        "department_abbreviation": "NA",
+        "NAME": "Puerres, NA",
+        "row_nr": 755
+    },
+    {
+        "department": "Narino",
+        "municipality": "Pupiales",
+        "department_abbreviation": "NA",
+        "NAME": "Pupiales, NA",
+        "row_nr": 756
+    },
+    {
+        "department": "Narino",
+        "municipality": "Ricaurte",
+        "department_abbreviation": "NA",
+        "NAME": "Ricaurte, NA",
+        "row_nr": 757
+    },
+    {
+        "department": "Narino",
+        "municipality": "Roberto Payan",
+        "department_abbreviation": "NA",
+        "NAME": "Roberto Payan, NA",
+        "row_nr": 758
+    },
+    {
+        "department": "Narino",
+        "municipality": "Samaniego",
+        "department_abbreviation": "NA",
+        "NAME": "Samaniego, NA",
+        "row_nr": 759
+    },
+    {
+        "department": "Narino",
+        "municipality": "San Bernardo",
+        "department_abbreviation": "NA",
+        "NAME": "San Bernardo, NA",
+        "row_nr": 760
+    },
+    {
+        "department": "Narino",
+        "municipality": "San Juan de Pasto",
+        "department_abbreviation": "NA",
+        "NAME": "San Juan de Pasto, NA",
+        "row_nr": 761
+    },
+    {
+        "department": "Narino",
+        "municipality": "San Lorenzo",
+        "department_abbreviation": "NA",
+        "NAME": "San Lorenzo, NA",
+        "row_nr": 762
+    },
+    {
+        "department": "Narino",
+        "municipality": "San Pablo",
+        "department_abbreviation": "NA",
+        "NAME": "San Pablo, NA",
+        "row_nr": 763
+    },
+    {
+        "department": "Narino",
+        "municipality": "San Pedro de Cartago",
+        "department_abbreviation": "NA",
+        "NAME": "San Pedro de Cartago, NA",
+        "row_nr": 764
+    },
+    {
+        "department": "Narino",
+        "municipality": "Sandona",
+        "department_abbreviation": "NA",
+        "NAME": "Sandona, NA",
+        "row_nr": 765
+    },
+    {
+        "department": "Narino",
+        "municipality": "Santa Barbara",
+        "department_abbreviation": "NA",
+        "NAME": "Santa Barbara, NA",
+        "row_nr": 766
+    },
+    {
+        "department": "Narino",
+        "municipality": "Santa Cruz",
+        "department_abbreviation": "NA",
+        "NAME": "Santa Cruz, NA",
+        "row_nr": 767
+    },
+    {
+        "department": "Narino",
+        "municipality": "Sapuyes",
+        "department_abbreviation": "NA",
+        "NAME": "Sapuyes, NA",
+        "row_nr": 768
+    },
+    {
+        "department": "Narino",
+        "municipality": "Taminango",
+        "department_abbreviation": "NA",
+        "NAME": "Taminango, NA",
+        "row_nr": 769
+    },
+    {
+        "department": "Narino",
+        "municipality": "Tangua",
+        "department_abbreviation": "NA",
+        "NAME": "Tangua, NA",
+        "row_nr": 770
+    },
+    {
+        "department": "Narino",
+        "municipality": "Tumaco",
+        "department_abbreviation": "NA",
+        "NAME": "Tumaco, NA",
+        "row_nr": 771
+    },
+    {
+        "department": "Narino",
+        "municipality": "Tuquerres",
+        "department_abbreviation": "NA",
+        "NAME": "Tuquerres, NA",
+        "row_nr": 772
+    },
+    {
+        "department": "Narino",
+        "municipality": "Yacuanquer",
+        "department_abbreviation": "NA",
+        "NAME": "Yacuanquer, NA",
+        "row_nr": 773
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Abrego",
+        "department_abbreviation": "NS",
+        "NAME": "Abrego, NS",
+        "row_nr": 774
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Arboledas",
+        "department_abbreviation": "NS",
+        "NAME": "Arboledas, NS",
+        "row_nr": 775
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Bochalema",
+        "department_abbreviation": "NS",
+        "NAME": "Bochalema, NS",
+        "row_nr": 776
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Bucarasica",
+        "department_abbreviation": "NS",
+        "NAME": "Bucarasica, NS",
+        "row_nr": 777
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Cachira",
+        "department_abbreviation": "NS",
+        "NAME": "Cachira, NS",
+        "row_nr": 778
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Cacota",
+        "department_abbreviation": "NS",
+        "NAME": "Cacota, NS",
+        "row_nr": 779
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Chinacota",
+        "department_abbreviation": "NS",
+        "NAME": "Chinacota, NS",
+        "row_nr": 780
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Chitaga",
+        "department_abbreviation": "NS",
+        "NAME": "Chitaga, NS",
+        "row_nr": 781
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Convencion",
+        "department_abbreviation": "NS",
+        "NAME": "Convencion, NS",
+        "row_nr": 782
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Cucutilla",
+        "department_abbreviation": "NS",
+        "NAME": "Cucutilla, NS",
+        "row_nr": 783
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Durania",
+        "department_abbreviation": "NS",
+        "NAME": "Durania, NS",
+        "row_nr": 784
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "El Carmen",
+        "department_abbreviation": "NS",
+        "NAME": "El Carmen, NS",
+        "row_nr": 785
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "El Tarra",
+        "department_abbreviation": "NS",
+        "NAME": "El Tarra, NS",
+        "row_nr": 786
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "El Zulia",
+        "department_abbreviation": "NS",
+        "NAME": "El Zulia, NS",
+        "row_nr": 787
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Gramalote",
+        "department_abbreviation": "NS",
+        "NAME": "Gramalote, NS",
+        "row_nr": 788
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Hacari",
+        "department_abbreviation": "NS",
+        "NAME": "Hacari, NS",
+        "row_nr": 789
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Herran",
+        "department_abbreviation": "NS",
+        "NAME": "Herran, NS",
+        "row_nr": 790
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "La Esperanza",
+        "department_abbreviation": "NS",
+        "NAME": "La Esperanza, NS",
+        "row_nr": 791
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "La Playa de Belen",
+        "department_abbreviation": "NS",
+        "NAME": "La Playa de Belen, NS",
+        "row_nr": 792
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Labateca",
+        "department_abbreviation": "NS",
+        "NAME": "Labateca, NS",
+        "row_nr": 793
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Los Patios",
+        "department_abbreviation": "NS",
+        "NAME": "Los Patios, NS",
+        "row_nr": 794
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Lourdes",
+        "department_abbreviation": "NS",
+        "NAME": "Lourdes, NS",
+        "row_nr": 795
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Mutiscua",
+        "department_abbreviation": "NS",
+        "NAME": "Mutiscua, NS",
+        "row_nr": 796
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Ocana",
+        "department_abbreviation": "NS",
+        "NAME": "Ocana, NS",
+        "row_nr": 797
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Pamplona",
+        "department_abbreviation": "NS",
+        "NAME": "Pamplona, NS",
+        "row_nr": 798
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Pamplonita",
+        "department_abbreviation": "NS",
+        "NAME": "Pamplonita, NS",
+        "row_nr": 799
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Puerto Santander",
+        "department_abbreviation": "NS",
+        "NAME": "Puerto Santander, NS",
+        "row_nr": 800
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Ragonvalia",
+        "department_abbreviation": "NS",
+        "NAME": "Ragonvalia, NS",
+        "row_nr": 801
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Salazar de las Palmas",
+        "department_abbreviation": "NS",
+        "NAME": "Salazar de las Palmas, NS",
+        "row_nr": 802
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "San Calixto",
+        "department_abbreviation": "NS",
+        "NAME": "San Calixto, NS",
+        "row_nr": 803
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "San Cayetano",
+        "department_abbreviation": "NS",
+        "NAME": "San Cayetano, NS",
+        "row_nr": 804
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "San Jose de Cucuta",
+        "department_abbreviation": "NS",
+        "NAME": "San Jose de Cucuta, NS",
+        "row_nr": 805
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Santiago",
+        "department_abbreviation": "NS",
+        "NAME": "Santiago, NS",
+        "row_nr": 806
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Santo Domingo de Silos",
+        "department_abbreviation": "NS",
+        "NAME": "Santo Domingo de Silos, NS",
+        "row_nr": 807
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Sardinata",
+        "department_abbreviation": "NS",
+        "NAME": "Sardinata, NS",
+        "row_nr": 808
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Teorama",
+        "department_abbreviation": "NS",
+        "NAME": "Teorama, NS",
+        "row_nr": 809
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Tibu",
+        "department_abbreviation": "NS",
+        "NAME": "Tibu, NS",
+        "row_nr": 810
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Toledo",
+        "department_abbreviation": "NS",
+        "NAME": "Toledo, NS",
+        "row_nr": 811
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Villa Caro",
+        "department_abbreviation": "NS",
+        "NAME": "Villa Caro, NS",
+        "row_nr": 812
+    },
+    {
+        "department": "Norte de Santander",
+        "municipality": "Villa del Rosario",
+        "department_abbreviation": "NS",
+        "NAME": "Villa del Rosario, NS",
+        "row_nr": 813
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Colon",
+        "department_abbreviation": "PU",
+        "NAME": "Colon, PU",
+        "row_nr": 814
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Orito",
+        "department_abbreviation": "PU",
+        "NAME": "Orito, PU",
+        "row_nr": 815
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Puerto Asis",
+        "department_abbreviation": "PU",
+        "NAME": "Puerto Asis, PU",
+        "row_nr": 816
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Puerto Caicedo",
+        "department_abbreviation": "PU",
+        "NAME": "Puerto Caicedo, PU",
+        "row_nr": 817
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Puerto Guzman",
+        "department_abbreviation": "PU",
+        "NAME": "Puerto Guzman, PU",
+        "row_nr": 818
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Puerto Leguizamo",
+        "department_abbreviation": "PU",
+        "NAME": "Puerto Leguizamo, PU",
+        "row_nr": 819
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "San Francisco",
+        "department_abbreviation": "PU",
+        "NAME": "San Francisco, PU",
+        "row_nr": 820
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "San Miguel de Mocoa",
+        "department_abbreviation": "PU",
+        "NAME": "San Miguel de Mocoa, PU",
+        "row_nr": 821
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Santiago",
+        "department_abbreviation": "PU",
+        "NAME": "Santiago, PU",
+        "row_nr": 822
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Sibundoy",
+        "department_abbreviation": "PU",
+        "NAME": "Sibundoy, PU",
+        "row_nr": 823
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Valle del Guamuez",
+        "department_abbreviation": "PU",
+        "NAME": "Valle del Guamuez, PU",
+        "row_nr": 824
+    },
+    {
+        "department": "Putumayo",
+        "municipality": "Villagarzon",
+        "department_abbreviation": "PU",
+        "NAME": "Villagarzon, PU",
+        "row_nr": 825
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Armenia",
+        "department_abbreviation": "QD",
+        "NAME": "Armenia, QD",
+        "row_nr": 826
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Buenavista",
+        "department_abbreviation": "QD",
+        "NAME": "Buenavista, QD",
+        "row_nr": 827
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Calarca",
+        "department_abbreviation": "QD",
+        "NAME": "Calarca, QD",
+        "row_nr": 828
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Circasia",
+        "department_abbreviation": "QD",
+        "NAME": "Circasia, QD",
+        "row_nr": 829
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Cordoba",
+        "department_abbreviation": "QD",
+        "NAME": "Cordoba, QD",
+        "row_nr": 830
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Filandia",
+        "department_abbreviation": "QD",
+        "NAME": "Filandia, QD",
+        "row_nr": 831
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Genova",
+        "department_abbreviation": "QD",
+        "NAME": "Genova, QD",
+        "row_nr": 832
+    },
+    {
+        "department": "Quindio",
+        "municipality": "La Tebaida",
+        "department_abbreviation": "QD",
+        "NAME": "La Tebaida, QD",
+        "row_nr": 833
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Montenegro",
+        "department_abbreviation": "QD",
+        "NAME": "Montenegro, QD",
+        "row_nr": 834
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Pijao",
+        "department_abbreviation": "QD",
+        "NAME": "Pijao, QD",
+        "row_nr": 835
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Quimbaya",
+        "department_abbreviation": "QD",
+        "NAME": "Quimbaya, QD",
+        "row_nr": 836
+    },
+    {
+        "department": "Quindio",
+        "municipality": "Salento",
+        "department_abbreviation": "QD",
+        "NAME": "Salento, QD",
+        "row_nr": 837
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Apia",
+        "department_abbreviation": "RI",
+        "NAME": "Apia, RI",
+        "row_nr": 838
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Balboa",
+        "department_abbreviation": "RI",
+        "NAME": "Balboa, RI",
+        "row_nr": 839
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Belen de Umbria",
+        "department_abbreviation": "RI",
+        "NAME": "Belen de Umbria, RI",
+        "row_nr": 840
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Dosquebradas",
+        "department_abbreviation": "RI",
+        "NAME": "Dosquebradas, RI",
+        "row_nr": 841
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Guatica",
+        "department_abbreviation": "RI",
+        "NAME": "Guatica, RI",
+        "row_nr": 842
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "La Celia",
+        "department_abbreviation": "RI",
+        "NAME": "La Celia, RI",
+        "row_nr": 843
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "La Virginia",
+        "department_abbreviation": "RI",
+        "NAME": "La Virginia, RI",
+        "row_nr": 844
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Marsella",
+        "department_abbreviation": "RI",
+        "NAME": "Marsella, RI",
+        "row_nr": 845
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Mistrato",
+        "department_abbreviation": "RI",
+        "NAME": "Mistrato, RI",
+        "row_nr": 846
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Pereira",
+        "department_abbreviation": "RI",
+        "NAME": "Pereira, RI",
+        "row_nr": 847
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Pueblo Rico",
+        "department_abbreviation": "RI",
+        "NAME": "Pueblo Rico, RI",
+        "row_nr": 848
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Quinchia",
+        "department_abbreviation": "RI",
+        "NAME": "Quinchia, RI",
+        "row_nr": 849
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Santa Rosa de Cabal",
+        "department_abbreviation": "RI",
+        "NAME": "Santa Rosa de Cabal, RI",
+        "row_nr": 850
+    },
+    {
+        "department": "Risaralda",
+        "municipality": "Santuario",
+        "department_abbreviation": "RI",
+        "NAME": "Santuario, RI",
+        "row_nr": 851
+    },
+    {
+        "department": "San Andres y Providencia",
+        "municipality": "Bajo Nuevo Bank",
+        "department_abbreviation": "SA",
+        "NAME": "Bajo Nuevo Bank, SA",
+        "row_nr": 852
+    },
+    {
+        "department": "San Andres y Providencia",
+        "municipality": "Providencia",
+        "department_abbreviation": "SA",
+        "NAME": "Providencia, SA",
+        "row_nr": 853
+    },
+    {
+        "department": "San Andres y Providencia",
+        "municipality": "San Andres",
+        "department_abbreviation": "SA",
+        "NAME": "San Andres, SA",
+        "row_nr": 854
+    },
+    {
+        "department": "Santander",
+        "municipality": "Aguada",
+        "department_abbreviation": "ST",
+        "NAME": "Aguada, ST",
+        "row_nr": 855
+    },
+    {
+        "department": "Santander",
+        "municipality": "Albania",
+        "department_abbreviation": "ST",
+        "NAME": "Albania, ST",
+        "row_nr": 856
+    },
+    {
+        "department": "Santander",
+        "municipality": "Aratoca",
+        "department_abbreviation": "ST",
+        "NAME": "Aratoca, ST",
+        "row_nr": 857
+    },
+    {
+        "department": "Santander",
+        "municipality": "Barbosa",
+        "department_abbreviation": "ST",
+        "NAME": "Barbosa, ST",
+        "row_nr": 858
+    },
+    {
+        "department": "Santander",
+        "municipality": "Barichara",
+        "department_abbreviation": "ST",
+        "NAME": "Barichara, ST",
+        "row_nr": 859
+    },
+    {
+        "department": "Santander",
+        "municipality": "Barrancabermeja",
+        "department_abbreviation": "ST",
+        "NAME": "Barrancabermeja, ST",
+        "row_nr": 860
+    },
+    {
+        "department": "Santander",
+        "municipality": "Betulia",
+        "department_abbreviation": "ST",
+        "NAME": "Betulia, ST",
+        "row_nr": 861
+    },
+    {
+        "department": "Santander",
+        "municipality": "Bolivar",
+        "department_abbreviation": "ST",
+        "NAME": "Bolivar, ST",
+        "row_nr": 862
+    },
+    {
+        "department": "Santander",
+        "municipality": "Bucaramanga",
+        "department_abbreviation": "ST",
+        "NAME": "Bucaramanga, ST",
+        "row_nr": 863
+    },
+    {
+        "department": "Santander",
+        "municipality": "Cabrera",
+        "department_abbreviation": "ST",
+        "NAME": "Cabrera, ST",
+        "row_nr": 864
+    },
+    {
+        "department": "Santander",
+        "municipality": "California",
+        "department_abbreviation": "ST",
+        "NAME": "California, ST",
+        "row_nr": 865
+    },
+    {
+        "department": "Santander",
+        "municipality": "Capitanejo",
+        "department_abbreviation": "ST",
+        "NAME": "Capitanejo, ST",
+        "row_nr": 866
+    },
+    {
+        "department": "Santander",
+        "municipality": "Carcasi",
+        "department_abbreviation": "ST",
+        "NAME": "Carcasi, ST",
+        "row_nr": 867
+    },
+    {
+        "department": "Santander",
+        "municipality": "Cepita",
+        "department_abbreviation": "ST",
+        "NAME": "Cepita, ST",
+        "row_nr": 868
+    },
+    {
+        "department": "Santander",
+        "municipality": "Cerrito",
+        "department_abbreviation": "ST",
+        "NAME": "Cerrito, ST",
+        "row_nr": 869
+    },
+    {
+        "department": "Santander",
+        "municipality": "Charala",
+        "department_abbreviation": "ST",
+        "NAME": "Charala, ST",
+        "row_nr": 870
+    },
+    {
+        "department": "Santander",
+        "municipality": "Charta",
+        "department_abbreviation": "ST",
+        "NAME": "Charta, ST",
+        "row_nr": 871
+    },
+    {
+        "department": "Santander",
+        "municipality": "Chima",
+        "department_abbreviation": "ST",
+        "NAME": "Chima, ST",
+        "row_nr": 872
+    },
+    {
+        "department": "Santander",
+        "municipality": "Chipata",
+        "department_abbreviation": "ST",
+        "NAME": "Chipata, ST",
+        "row_nr": 873
+    },
+    {
+        "department": "Santander",
+        "municipality": "Cimitarra",
+        "department_abbreviation": "ST",
+        "NAME": "Cimitarra, ST",
+        "row_nr": 874
+    },
+    {
+        "department": "Santander",
+        "municipality": "Concepcion",
+        "department_abbreviation": "ST",
+        "NAME": "Concepcion, ST",
+        "row_nr": 875
+    },
+    {
+        "department": "Santander",
+        "municipality": "Confines",
+        "department_abbreviation": "ST",
+        "NAME": "Confines, ST",
+        "row_nr": 876
+    },
+    {
+        "department": "Santander",
+        "municipality": "Contratacion",
+        "department_abbreviation": "ST",
+        "NAME": "Contratacion, ST",
+        "row_nr": 877
+    },
+    {
+        "department": "Santander",
+        "municipality": "Coromoro",
+        "department_abbreviation": "ST",
+        "NAME": "Coromoro, ST",
+        "row_nr": 878
+    },
+    {
+        "department": "Santander",
+        "municipality": "Curiti",
+        "department_abbreviation": "ST",
+        "NAME": "Curiti, ST",
+        "row_nr": 879
+    },
+    {
+        "department": "Santander",
+        "municipality": "El Carmen de Chucuri",
+        "department_abbreviation": "ST",
+        "NAME": "El Carmen de Chucuri, ST",
+        "row_nr": 880
+    },
+    {
+        "department": "Santander",
+        "municipality": "El Guacamayo",
+        "department_abbreviation": "ST",
+        "NAME": "El Guacamayo, ST",
+        "row_nr": 881
+    },
+    {
+        "department": "Santander",
+        "municipality": "El Penon",
+        "department_abbreviation": "ST",
+        "NAME": "El Penon, ST",
+        "row_nr": 882
+    },
+    {
+        "department": "Santander",
+        "municipality": "El Playon",
+        "department_abbreviation": "ST",
+        "NAME": "El Playon, ST",
+        "row_nr": 883
+    },
+    {
+        "department": "Santander",
+        "municipality": "Encino",
+        "department_abbreviation": "ST",
+        "NAME": "Encino, ST",
+        "row_nr": 884
+    },
+    {
+        "department": "Santander",
+        "municipality": "Enciso",
+        "department_abbreviation": "ST",
+        "NAME": "Enciso, ST",
+        "row_nr": 885
+    },
+    {
+        "department": "Santander",
+        "municipality": "Florian",
+        "department_abbreviation": "ST",
+        "NAME": "Florian, ST",
+        "row_nr": 886
+    },
+    {
+        "department": "Santander",
+        "municipality": "Floridablanca",
+        "department_abbreviation": "ST",
+        "NAME": "Floridablanca, ST",
+        "row_nr": 887
+    },
+    {
+        "department": "Santander",
+        "municipality": "Galan",
+        "department_abbreviation": "ST",
+        "NAME": "Galan, ST",
+        "row_nr": 888
+    },
+    {
+        "department": "Santander",
+        "municipality": "Gambita",
+        "department_abbreviation": "ST",
+        "NAME": "Gambita, ST",
+        "row_nr": 889
+    },
+    {
+        "department": "Santander",
+        "municipality": "Giron",
+        "department_abbreviation": "ST",
+        "NAME": "Giron, ST",
+        "row_nr": 890
+    },
+    {
+        "department": "Santander",
+        "municipality": "Guaca",
+        "department_abbreviation": "ST",
+        "NAME": "Guaca, ST",
+        "row_nr": 891
+    },
+    {
+        "department": "Santander",
+        "municipality": "Guadalupe",
+        "department_abbreviation": "ST",
+        "NAME": "Guadalupe, ST",
+        "row_nr": 892
+    },
+    {
+        "department": "Santander",
+        "municipality": "Guapota",
+        "department_abbreviation": "ST",
+        "NAME": "Guapota, ST",
+        "row_nr": 893
+    },
+    {
+        "department": "Santander",
+        "municipality": "Guavata",
+        "department_abbreviation": "ST",
+        "NAME": "Guavata, ST",
+        "row_nr": 894
+    },
+    {
+        "department": "Santander",
+        "municipality": "Guepsa",
+        "department_abbreviation": "ST",
+        "NAME": "Guepsa, ST",
+        "row_nr": 895
+    },
+    {
+        "department": "Santander",
+        "municipality": "Hato",
+        "department_abbreviation": "ST",
+        "NAME": "Hato, ST",
+        "row_nr": 896
+    },
+    {
+        "department": "Santander",
+        "municipality": "Jesus Maria",
+        "department_abbreviation": "ST",
+        "NAME": "Jesus Maria, ST",
+        "row_nr": 897
+    },
+    {
+        "department": "Santander",
+        "municipality": "Jordan",
+        "department_abbreviation": "ST",
+        "NAME": "Jordan, ST",
+        "row_nr": 898
+    },
+    {
+        "department": "Santander",
+        "municipality": "La Belleza",
+        "department_abbreviation": "ST",
+        "NAME": "La Belleza, ST",
+        "row_nr": 899
+    },
+    {
+        "department": "Santander",
+        "municipality": "La Paz",
+        "department_abbreviation": "ST",
+        "NAME": "La Paz, ST",
+        "row_nr": 900
+    },
+    {
+        "department": "Santander",
+        "municipality": "Landazuri",
+        "department_abbreviation": "ST",
+        "NAME": "Landazuri, ST",
+        "row_nr": 901
+    },
+    {
+        "department": "Santander",
+        "municipality": "Lebrija",
+        "department_abbreviation": "ST",
+        "NAME": "Lebrija, ST",
+        "row_nr": 902
+    },
+    {
+        "department": "Santander",
+        "municipality": "Los Santos",
+        "department_abbreviation": "ST",
+        "NAME": "Los Santos, ST",
+        "row_nr": 903
+    },
+    {
+        "department": "Santander",
+        "municipality": "Macaravita",
+        "department_abbreviation": "ST",
+        "NAME": "Macaravita, ST",
+        "row_nr": 904
+    },
+    {
+        "department": "Santander",
+        "municipality": "Malaga",
+        "department_abbreviation": "ST",
+        "NAME": "Malaga, ST",
+        "row_nr": 905
+    },
+    {
+        "department": "Santander",
+        "municipality": "Matanza",
+        "department_abbreviation": "ST",
+        "NAME": "Matanza, ST",
+        "row_nr": 906
+    },
+    {
+        "department": "Santander",
+        "municipality": "Mogotes",
+        "department_abbreviation": "ST",
+        "NAME": "Mogotes, ST",
+        "row_nr": 907
+    },
+    {
+        "department": "Santander",
+        "municipality": "Molagavita",
+        "department_abbreviation": "ST",
+        "NAME": "Molagavita, ST",
+        "row_nr": 908
+    },
+    {
+        "department": "Santander",
+        "municipality": "Ocamonte",
+        "department_abbreviation": "ST",
+        "NAME": "Ocamonte, ST",
+        "row_nr": 909
+    },
+    {
+        "department": "Santander",
+        "municipality": "Oiba",
+        "department_abbreviation": "ST",
+        "NAME": "Oiba, ST",
+        "row_nr": 910
+    },
+    {
+        "department": "Santander",
+        "municipality": "Onzaga",
+        "department_abbreviation": "ST",
+        "NAME": "Onzaga, ST",
+        "row_nr": 911
+    },
+    {
+        "department": "Santander",
+        "municipality": "Palmar",
+        "department_abbreviation": "ST",
+        "NAME": "Palmar, ST",
+        "row_nr": 912
+    },
+    {
+        "department": "Santander",
+        "municipality": "Palmas del Socorro",
+        "department_abbreviation": "ST",
+        "NAME": "Palmas del Socorro, ST",
+        "row_nr": 913
+    },
+    {
+        "department": "Santander",
+        "municipality": "Paramo",
+        "department_abbreviation": "ST",
+        "NAME": "Paramo, ST",
+        "row_nr": 914
+    },
+    {
+        "department": "Santander",
+        "municipality": "Piedecuesta",
+        "department_abbreviation": "ST",
+        "NAME": "Piedecuesta, ST",
+        "row_nr": 915
+    },
+    {
+        "department": "Santander",
+        "municipality": "Pinchote",
+        "department_abbreviation": "ST",
+        "NAME": "Pinchote, ST",
+        "row_nr": 916
+    },
+    {
+        "department": "Santander",
+        "municipality": "Puente Nacional",
+        "department_abbreviation": "ST",
+        "NAME": "Puente Nacional, ST",
+        "row_nr": 917
+    },
+    {
+        "department": "Santander",
+        "municipality": "Puerto Parra",
+        "department_abbreviation": "ST",
+        "NAME": "Puerto Parra, ST",
+        "row_nr": 918
+    },
+    {
+        "department": "Santander",
+        "municipality": "Puerto Wilches",
+        "department_abbreviation": "ST",
+        "NAME": "Puerto Wilches, ST",
+        "row_nr": 919
+    },
+    {
+        "department": "Santander",
+        "municipality": "Rionegro",
+        "department_abbreviation": "ST",
+        "NAME": "Rionegro, ST",
+        "row_nr": 920
+    },
+    {
+        "department": "Santander",
+        "municipality": "Sabana de Torres",
+        "department_abbreviation": "ST",
+        "NAME": "Sabana de Torres, ST",
+        "row_nr": 921
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Andres de Cuerquia",
+        "department_abbreviation": "ST",
+        "NAME": "San Andres de Cuerquia, ST",
+        "row_nr": 922
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Benito",
+        "department_abbreviation": "ST",
+        "NAME": "San Benito, ST",
+        "row_nr": 923
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Gil",
+        "department_abbreviation": "ST",
+        "NAME": "San Gil, ST",
+        "row_nr": 924
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Joaquin",
+        "department_abbreviation": "ST",
+        "NAME": "San Joaquin, ST",
+        "row_nr": 925
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Jose de Miranda",
+        "department_abbreviation": "ST",
+        "NAME": "San Jose de Miranda, ST",
+        "row_nr": 926
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Miguel",
+        "department_abbreviation": "ST",
+        "NAME": "San Miguel, ST",
+        "row_nr": 927
+    },
+    {
+        "department": "Santander",
+        "municipality": "San Vicente de Chucuri",
+        "department_abbreviation": "ST",
+        "NAME": "San Vicente de Chucuri, ST",
+        "row_nr": 928
+    },
+    {
+        "department": "Santander",
+        "municipality": "Santa Barbara",
+        "department_abbreviation": "ST",
+        "NAME": "Santa Barbara, ST",
+        "row_nr": 929
+    },
+    {
+        "department": "Santander",
+        "municipality": "Santa Helena del Opon",
+        "department_abbreviation": "ST",
+        "NAME": "Santa Helena del Opon, ST",
+        "row_nr": 930
+    },
+    {
+        "department": "Santander",
+        "municipality": "Simacota",
+        "department_abbreviation": "ST",
+        "NAME": "Simacota, ST",
+        "row_nr": 931
+    },
+    {
+        "department": "Santander",
+        "municipality": "Socorro",
+        "department_abbreviation": "ST",
+        "NAME": "Socorro, ST",
+        "row_nr": 932
+    },
+    {
+        "department": "Santander",
+        "municipality": "Suaita",
+        "department_abbreviation": "ST",
+        "NAME": "Suaita, ST",
+        "row_nr": 933
+    },
+    {
+        "department": "Santander",
+        "municipality": "Sucre",
+        "department_abbreviation": "ST",
+        "NAME": "Sucre, ST",
+        "row_nr": 934
+    },
+    {
+        "department": "Santander",
+        "municipality": "Surata",
+        "department_abbreviation": "ST",
+        "NAME": "Surata, ST",
+        "row_nr": 935
+    },
+    {
+        "department": "Santander",
+        "municipality": "Tona",
+        "department_abbreviation": "ST",
+        "NAME": "Tona, ST",
+        "row_nr": 936
+    },
+    {
+        "department": "Santander",
+        "municipality": "Valle de San Jose",
+        "department_abbreviation": "ST",
+        "NAME": "Valle de San Jose, ST",
+        "row_nr": 937
+    },
+    {
+        "department": "Santander",
+        "municipality": "Velez",
+        "department_abbreviation": "ST",
+        "NAME": "Velez, ST",
+        "row_nr": 938
+    },
+    {
+        "department": "Santander",
+        "municipality": "Vetas",
+        "department_abbreviation": "ST",
+        "NAME": "Vetas, ST",
+        "row_nr": 939
+    },
+    {
+        "department": "Santander",
+        "municipality": "Villanueva",
+        "department_abbreviation": "ST",
+        "NAME": "Villanueva, ST",
+        "row_nr": 940
+    },
+    {
+        "department": "Santander",
+        "municipality": "Zapatoca",
+        "department_abbreviation": "ST",
+        "NAME": "Zapatoca, ST",
+        "row_nr": 941
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Buenavista",
+        "department_abbreviation": "SU",
+        "NAME": "Buenavista, SU",
+        "row_nr": 942
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Caimito",
+        "department_abbreviation": "SU",
+        "NAME": "Caimito, SU",
+        "row_nr": 943
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Chalan",
+        "department_abbreviation": "SU",
+        "NAME": "Chalan, SU",
+        "row_nr": 944
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Coloso",
+        "department_abbreviation": "SU",
+        "NAME": "Coloso, SU",
+        "row_nr": 945
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Corozal",
+        "department_abbreviation": "SU",
+        "NAME": "Corozal, SU",
+        "row_nr": 946
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Galeras",
+        "department_abbreviation": "SU",
+        "NAME": "Galeras, SU",
+        "row_nr": 947
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Guaranda",
+        "department_abbreviation": "SU",
+        "NAME": "Guaranda, SU",
+        "row_nr": 948
+    },
+    {
+        "department": "Sucre",
+        "municipality": "La Union de Sucre",
+        "department_abbreviation": "SU",
+        "NAME": "La Union de Sucre, SU",
+        "row_nr": 949
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Los Palmitos",
+        "department_abbreviation": "SU",
+        "NAME": "Los Palmitos, SU",
+        "row_nr": 950
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Majagual",
+        "department_abbreviation": "SU",
+        "NAME": "Majagual, SU",
+        "row_nr": 951
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Morroa",
+        "department_abbreviation": "SU",
+        "NAME": "Morroa, SU",
+        "row_nr": 952
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Ovejas",
+        "department_abbreviation": "SU",
+        "NAME": "Ovejas, SU",
+        "row_nr": 953
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Sampues",
+        "department_abbreviation": "SU",
+        "NAME": "Sampues, SU",
+        "row_nr": 954
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Antonio de Palmito",
+        "department_abbreviation": "SU",
+        "NAME": "San Antonio de Palmito, SU",
+        "row_nr": 955
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Benito Abad",
+        "department_abbreviation": "SU",
+        "NAME": "San Benito Abad, SU",
+        "row_nr": 956
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Juan de Betulia",
+        "department_abbreviation": "SU",
+        "NAME": "San Juan de Betulia, SU",
+        "row_nr": 957
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Marcos",
+        "department_abbreviation": "SU",
+        "NAME": "San Marcos, SU",
+        "row_nr": 958
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Onofre",
+        "department_abbreviation": "SU",
+        "NAME": "San Onofre, SU",
+        "row_nr": 959
+    },
+    {
+        "department": "Sucre",
+        "municipality": "San Pedro",
+        "department_abbreviation": "SU",
+        "NAME": "San Pedro, SU",
+        "row_nr": 960
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Since",
+        "department_abbreviation": "SU",
+        "NAME": "Since, SU",
+        "row_nr": 961
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Sincelejo",
+        "department_abbreviation": "SU",
+        "NAME": "Sincelejo, SU",
+        "row_nr": 962
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Sucre",
+        "department_abbreviation": "SU",
+        "NAME": "Sucre, SU",
+        "row_nr": 963
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Tolu",
+        "department_abbreviation": "SU",
+        "NAME": "Tolu, SU",
+        "row_nr": 964
+    },
+    {
+        "department": "Sucre",
+        "municipality": "Toluviejo",
+        "department_abbreviation": "SU",
+        "NAME": "Toluviejo, SU",
+        "row_nr": 965
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Alpujarra",
+        "department_abbreviation": "TO",
+        "NAME": "Alpujarra, TO",
+        "row_nr": 966
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Alvarado",
+        "department_abbreviation": "TO",
+        "NAME": "Alvarado, TO",
+        "row_nr": 967
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Ambalema",
+        "department_abbreviation": "TO",
+        "NAME": "Ambalema, TO",
+        "row_nr": 968
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Anzoategui",
+        "department_abbreviation": "TO",
+        "NAME": "Anzoategui, TO",
+        "row_nr": 969
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Armero",
+        "department_abbreviation": "TO",
+        "NAME": "Armero, TO",
+        "row_nr": 970
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Ataco",
+        "department_abbreviation": "TO",
+        "NAME": "Ataco, TO",
+        "row_nr": 971
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Cajamarca",
+        "department_abbreviation": "TO",
+        "NAME": "Cajamarca, TO",
+        "row_nr": 972
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Carmen de Apicala",
+        "department_abbreviation": "TO",
+        "NAME": "Carmen de Apicala, TO",
+        "row_nr": 973
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Casabianca",
+        "department_abbreviation": "TO",
+        "NAME": "Casabianca, TO",
+        "row_nr": 974
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Chaparral",
+        "department_abbreviation": "TO",
+        "NAME": "Chaparral, TO",
+        "row_nr": 975
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Coello",
+        "department_abbreviation": "TO",
+        "NAME": "Coello, TO",
+        "row_nr": 976
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Coyaima",
+        "department_abbreviation": "TO",
+        "NAME": "Coyaima, TO",
+        "row_nr": 977
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Cunday",
+        "department_abbreviation": "TO",
+        "NAME": "Cunday, TO",
+        "row_nr": 978
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Dolores",
+        "department_abbreviation": "TO",
+        "NAME": "Dolores, TO",
+        "row_nr": 979
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Espinal",
+        "department_abbreviation": "TO",
+        "NAME": "Espinal, TO",
+        "row_nr": 980
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Falan",
+        "department_abbreviation": "TO",
+        "NAME": "Falan, TO",
+        "row_nr": 981
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Flandes",
+        "department_abbreviation": "TO",
+        "NAME": "Flandes, TO",
+        "row_nr": 982
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Fresno",
+        "department_abbreviation": "TO",
+        "NAME": "Fresno, TO",
+        "row_nr": 983
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Guamo",
+        "department_abbreviation": "TO",
+        "NAME": "Guamo, TO",
+        "row_nr": 984
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Herveo",
+        "department_abbreviation": "TO",
+        "NAME": "Herveo, TO",
+        "row_nr": 985
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Honda",
+        "department_abbreviation": "TO",
+        "NAME": "Honda, TO",
+        "row_nr": 986
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Ibague",
+        "department_abbreviation": "TO",
+        "NAME": "Ibague, TO",
+        "row_nr": 987
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Icononzo",
+        "department_abbreviation": "TO",
+        "NAME": "Icononzo, TO",
+        "row_nr": 988
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Lerida",
+        "department_abbreviation": "TO",
+        "NAME": "Lerida, TO",
+        "row_nr": 989
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Libano",
+        "department_abbreviation": "TO",
+        "NAME": "Libano, TO",
+        "row_nr": 990
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Melgar",
+        "department_abbreviation": "TO",
+        "NAME": "Melgar, TO",
+        "row_nr": 991
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Murillo",
+        "department_abbreviation": "TO",
+        "NAME": "Murillo, TO",
+        "row_nr": 992
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Natagaima",
+        "department_abbreviation": "TO",
+        "NAME": "Natagaima, TO",
+        "row_nr": 993
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Ortega",
+        "department_abbreviation": "TO",
+        "NAME": "Ortega, TO",
+        "row_nr": 994
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Piedras",
+        "department_abbreviation": "TO",
+        "NAME": "Piedras, TO",
+        "row_nr": 995
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Planadas",
+        "department_abbreviation": "TO",
+        "NAME": "Planadas, TO",
+        "row_nr": 996
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Prado",
+        "department_abbreviation": "TO",
+        "NAME": "Prado, TO",
+        "row_nr": 997
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Purificacion",
+        "department_abbreviation": "TO",
+        "NAME": "Purificacion, TO",
+        "row_nr": 998
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Rioblanco",
+        "department_abbreviation": "TO",
+        "NAME": "Rioblanco, TO",
+        "row_nr": 999
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Roncesvalles",
+        "department_abbreviation": "TO",
+        "NAME": "Roncesvalles, TO",
+        "row_nr": 1000
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Rovira",
+        "department_abbreviation": "TO",
+        "NAME": "Rovira, TO",
+        "row_nr": 1001
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Saldana",
+        "department_abbreviation": "TO",
+        "NAME": "Saldana, TO",
+        "row_nr": 1002
+    },
+    {
+        "department": "Tolima",
+        "municipality": "San Antonio",
+        "department_abbreviation": "TO",
+        "NAME": "San Antonio, TO",
+        "row_nr": 1003
+    },
+    {
+        "department": "Tolima",
+        "municipality": "San Luis",
+        "department_abbreviation": "TO",
+        "NAME": "San Luis, TO",
+        "row_nr": 1004
+    },
+    {
+        "department": "Tolima",
+        "municipality": "San Sebastian de Mariquita",
+        "department_abbreviation": "TO",
+        "NAME": "San Sebastian de Mariquita, TO",
+        "row_nr": 1005
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Santa Isabel",
+        "department_abbreviation": "TO",
+        "NAME": "Santa Isabel, TO",
+        "row_nr": 1006
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Suarez",
+        "department_abbreviation": "TO",
+        "NAME": "Suarez, TO",
+        "row_nr": 1007
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Valle de San Juan",
+        "department_abbreviation": "TO",
+        "NAME": "Valle de San Juan, TO",
+        "row_nr": 1008
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Venadillo",
+        "department_abbreviation": "TO",
+        "NAME": "Venadillo, TO",
+        "row_nr": 1009
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Villahermosa",
+        "department_abbreviation": "TO",
+        "NAME": "Villahermosa, TO",
+        "row_nr": 1010
+    },
+    {
+        "department": "Tolima",
+        "municipality": "Villarrica",
+        "department_abbreviation": "TO",
+        "NAME": "Villarrica, TO",
+        "row_nr": 1011
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Alcala",
+        "department_abbreviation": "VC",
+        "NAME": "Alcala, VC",
+        "row_nr": 1012
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Andalucia",
+        "department_abbreviation": "VC",
+        "NAME": "Andalucia, VC",
+        "row_nr": 1013
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Ansermanuevo",
+        "department_abbreviation": "VC",
+        "NAME": "Ansermanuevo, VC",
+        "row_nr": 1014
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Argelia",
+        "department_abbreviation": "VC",
+        "NAME": "Argelia, VC",
+        "row_nr": 1015
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Bolivar",
+        "department_abbreviation": "VC",
+        "NAME": "Bolivar, VC",
+        "row_nr": 1016
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Buenaventura",
+        "department_abbreviation": "VC",
+        "NAME": "Buenaventura, VC",
+        "row_nr": 1017
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Bugalagrande",
+        "department_abbreviation": "VC",
+        "NAME": "Bugalagrande, VC",
+        "row_nr": 1018
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Caicedonia",
+        "department_abbreviation": "VC",
+        "NAME": "Caicedonia, VC",
+        "row_nr": 1019
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Calima",
+        "department_abbreviation": "VC",
+        "NAME": "Calima, VC",
+        "row_nr": 1020
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Candelaria",
+        "department_abbreviation": "VC",
+        "NAME": "Candelaria, VC",
+        "row_nr": 1021
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Cartago",
+        "department_abbreviation": "VC",
+        "NAME": "Cartago, VC",
+        "row_nr": 1022
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Dagua",
+        "department_abbreviation": "VC",
+        "NAME": "Dagua, VC",
+        "row_nr": 1023
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "El Aguila",
+        "department_abbreviation": "VC",
+        "NAME": "El Aguila, VC",
+        "row_nr": 1024
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "El Cairo",
+        "department_abbreviation": "VC",
+        "NAME": "El Cairo, VC",
+        "row_nr": 1025
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "El Cerrito",
+        "department_abbreviation": "VC",
+        "NAME": "El Cerrito, VC",
+        "row_nr": 1026
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "El Dovio",
+        "department_abbreviation": "VC",
+        "NAME": "El Dovio, VC",
+        "row_nr": 1027
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Florida",
+        "department_abbreviation": "VC",
+        "NAME": "Florida, VC",
+        "row_nr": 1028
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Ginebra",
+        "department_abbreviation": "VC",
+        "NAME": "Ginebra, VC",
+        "row_nr": 1029
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Guacari",
+        "department_abbreviation": "VC",
+        "NAME": "Guacari, VC",
+        "row_nr": 1030
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Guadalajara de Buga",
+        "department_abbreviation": "VC",
+        "NAME": "Guadalajara de Buga, VC",
+        "row_nr": 1031
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Jamundi",
+        "department_abbreviation": "VC",
+        "NAME": "Jamundi, VC",
+        "row_nr": 1032
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "La Cumbre",
+        "department_abbreviation": "VC",
+        "NAME": "La Cumbre, VC",
+        "row_nr": 1033
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "La Union de Sucre",
+        "department_abbreviation": "VC",
+        "NAME": "La Union de Sucre, VC",
+        "row_nr": 1034
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "La Victoria",
+        "department_abbreviation": "VC",
+        "NAME": "La Victoria, VC",
+        "row_nr": 1035
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Obando",
+        "department_abbreviation": "VC",
+        "NAME": "Obando, VC",
+        "row_nr": 1036
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Palmira",
+        "department_abbreviation": "VC",
+        "NAME": "Palmira, VC",
+        "row_nr": 1037
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Pradera",
+        "department_abbreviation": "VC",
+        "NAME": "Pradera, VC",
+        "row_nr": 1038
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Restrepo",
+        "department_abbreviation": "VC",
+        "NAME": "Restrepo, VC",
+        "row_nr": 1039
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Riofrio",
+        "department_abbreviation": "VC",
+        "NAME": "Riofrio, VC",
+        "row_nr": 1040
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Roldanillo",
+        "department_abbreviation": "VC",
+        "NAME": "Roldanillo, VC",
+        "row_nr": 1041
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "San Pedro",
+        "department_abbreviation": "VC",
+        "NAME": "San Pedro, VC",
+        "row_nr": 1042
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Santiago de Cali",
+        "department_abbreviation": "VC",
+        "NAME": "Santiago de Cali, VC",
+        "row_nr": 1043
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Sevilla",
+        "department_abbreviation": "VC",
+        "NAME": "Sevilla, VC",
+        "row_nr": 1044
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Toro",
+        "department_abbreviation": "VC",
+        "NAME": "Toro, VC",
+        "row_nr": 1045
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Trujillo",
+        "department_abbreviation": "VC",
+        "NAME": "Trujillo, VC",
+        "row_nr": 1046
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Tulua",
+        "department_abbreviation": "VC",
+        "NAME": "Tulua, VC",
+        "row_nr": 1047
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Ulloa",
+        "department_abbreviation": "VC",
+        "NAME": "Ulloa, VC",
+        "row_nr": 1048
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Versalles",
+        "department_abbreviation": "VC",
+        "NAME": "Versalles, VC",
+        "row_nr": 1049
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Vijes",
+        "department_abbreviation": "VC",
+        "NAME": "Vijes, VC",
+        "row_nr": 1050
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Yotoco",
+        "department_abbreviation": "VC",
+        "NAME": "Yotoco, VC",
+        "row_nr": 1051
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Yumbo",
+        "department_abbreviation": "VC",
+        "NAME": "Yumbo, VC",
+        "row_nr": 1052
+    },
+    {
+        "department": "Valle del Cauca",
+        "municipality": "Zarzal",
+        "department_abbreviation": "VC",
+        "NAME": "Zarzal, VC",
+        "row_nr": 1053
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Caruru",
+        "department_abbreviation": "VP",
+        "NAME": "Caruru, VP",
+        "row_nr": 1054
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Mitu",
+        "department_abbreviation": "VP",
+        "NAME": "Mitu, VP",
+        "row_nr": 1055
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Pacoa",
+        "department_abbreviation": "VP",
+        "NAME": "Pacoa, VP",
+        "row_nr": 1056
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Papunahua",
+        "department_abbreviation": "VP",
+        "NAME": "Papunahua, VP",
+        "row_nr": 1057
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Taraira",
+        "department_abbreviation": "VP",
+        "NAME": "Taraira, VP",
+        "row_nr": 1058
+    },
+    {
+        "department": "Vaupes",
+        "municipality": "Yavarate",
+        "department_abbreviation": "VP",
+        "NAME": "Yavarate, VP",
+        "row_nr": 1059
+    },
+    {
+        "department": "Vichada",
+        "municipality": "Cumaribo",
+        "department_abbreviation": "VD",
+        "NAME": "Cumaribo, VD",
+        "row_nr": 1060
+    },
+    {
+        "department": "Vichada",
+        "municipality": "La Primavera",
+        "department_abbreviation": "VD",
+        "NAME": "La Primavera, VD",
+        "row_nr": 1061
+    },
+    {
+        "department": "Vichada",
+        "municipality": "Puerto Carreno",
+        "department_abbreviation": "VD",
+        "NAME": "Puerto Carreno, VD",
+        "row_nr": 1062
+    },
+    {
+        "department": "Vichada",
+        "municipality": "San Jose de Ocune",
+        "department_abbreviation": "VD",
+        "NAME": "San Jose de Ocune, VD",
+        "row_nr": 1063
+    },
+    {
+        "department": "Vichada",
+        "municipality": "Santa Rita",
+        "department_abbreviation": "VD",
+        "NAME": "Santa Rita, VD",
+        "row_nr": 1064
+    },
+    {
+        "department": "Vichada",
+        "municipality": "Santa Rosalia",
+        "department_abbreviation": "VD",
+        "NAME": "Santa Rosalia, VD",
+        "row_nr": 1065
+    }
+]

@@ -1,14 +1,13 @@
 
 // Geoloc
-let inputGeolocCiudad = document.getElementById('inputGeolocCiudad');
-let inputGeolocDepartamento = document.getElementById('inputGeolocDepartamento');
-let inputGeolocLng = document.getElementById('inputGeolocLng');
-let inputGeolocLat = document.getElementById('inputGeolocLat');
+// let inputGeolocCiudad = document.getElementById('inputGeolocCiudad');
+// let inputGeolocDepartamento = document.getElementById('inputGeolocDepartamento');
+// let inputGeolocLng = document.getElementById('inputGeolocLng');
+// let inputGeolocLat = document.getElementById('inputGeolocLat');
 let btnGeoloc = document.getElementById('btnGeoloc');
 
 function GeolocInput(data, position) {
     let dataGeoloc = [];
-    console.log(data.results)
     lat = position.coords.latitude;
     lng = position.coords.longitude;
 
@@ -30,17 +29,17 @@ function GeolocInput(data, position) {
 
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(function (position) {
-            console.log(position);
-            $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng=' + position.coords.latitude + ',' + position.coords.longitude + "&key=AIzaSyA9VCeYTBLZprpSfqWOtlw - j9rQUVTsCzg", function (data) {
-                GeolocInput(data, position)
+// document.addEventListener('DOMContentLoaded', () => {
+//     if (navigator.geolocation) {
+//         navigator.geolocation.getCurrentPosition(function (position) {
+//             console.log(position);
+//             $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng=' + position.coords.latitude + ',' + position.coords.longitude + "&key=AIzaSyA9VCeYTBLZprpSfqWOtlw - j9rQUVTsCzg", function (data) {
+//                 GeolocInput(data, position)
 
-            })
-        })
-    }
-})
+//             })
+//         })
+//     }
+// })
 
 btnGeoloc.addEventListener('click', () => {
     if (navigator.geolocation) {
