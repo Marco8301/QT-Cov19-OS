@@ -4,7 +4,7 @@
 // let inputGeolocDepartamento = document.getElementById('inputGeolocDepartamento');
 let inputGeolocLng = document.getElementById('inputGeolocLng');
 let inputGeolocLat = document.getElementById('inputGeolocLat');
-let btnGeoloc = document.getElementById('btnGeoloc');
+// let btnGeoloc = document.getElementById('btnGeoloc');
 
 function GeolocInput(data, position) {
     let dataGeoloc = [];
@@ -22,8 +22,8 @@ function GeolocInput(data, position) {
     dataGeoloc.push(ville);
     dataGeoloc.push(province);
 
-    inputGeolocCiudad.value = dataGeoloc[0];
-    inputGeolocDepartamento.value = dataGeoloc[1];
+    // inputGeolocCiudad.value = dataGeoloc[0];
+    // inputGeolocDepartamento.value = dataGeoloc[1];
     inputGeolocLat.value = lat;
     inputGeolocLng.value = lng;
 
@@ -32,7 +32,7 @@ function GeolocInput(data, position) {
 document.addEventListener('DOMContentLoaded', () => {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function (position) {
-            console.log(position);
+            // console.log(position);
             $.get('https://maps.googleapis.com/maps/api/geocode/json?latlng=' + position.coords.latitude + ',' + position.coords.longitude + "&key=AIzaSyA9VCeYTBLZprpSfqWOtlw - j9rQUVTsCzg", function (data) {
                 GeolocInput(data, position)
 
