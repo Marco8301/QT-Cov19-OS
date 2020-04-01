@@ -107,9 +107,9 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
 
                             
 
-                                    <!-- <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
+                                    <input type="hidden" id="inputGeolocLat" name="inputGeolocLat" required>
 
-                                    <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required> -->
+                                    <input type="hidden" id="inputGeolocLng" name="inputGeolocLng" required>
 
                                     <!-- <a class="btn btn-primary" id="btnGeoloc"><i class="fas fa-map-marker-alt"
                                             style="color:white;"></i></a> -->
@@ -352,7 +352,7 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
     </footer>
 
     <script src="./js/main.js"></script>
-    <!-- <script src="./js/geoloc.js"></script> -->
+    <script src="./js/geoloc.js"></script>
 </body>
 
 </html>
