@@ -55,9 +55,9 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
                             <legend style="padding-left:0px;">Su identidad</legend>
 
                             <div class="form-group ">
-                                <label class="col-form-label" for="inputIniciales">Su Iniciales</label>
+                                <label class="col-form-label" for="inputIniciales">Su Nombre</label>
 
-                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su Iniciales"
+                                <input type="text" class="form-control col-xs-12 col-sm-5" placeholder="Su Nombre"
                                     id="inputIniciales" name="inputIniciales" required>
 
                                 <input type="hidden" id="inputIP" name="inputIP" value="<?= $inputIP ?>">
@@ -351,8 +351,8 @@ $inputIP = $_SERVER['REMOTE_ADDR'];
         <p style="margin:0 auto; color:white; text-align:center;"><small>Consulte nuestra <a target="blank" href="./Data protection-Cov19Col OS rev AVE.pdf" style="color:white; text-decoration:underline;">política de privacidad</a></small></p>
     </footer>
 
-    <script src="./js/main.js"></script>
-    <script src="./js/geoloc.js"></script>
+    <script defer src="./js/main.js"></script>
+    <script defer src="./js/geoloc.js"></script>
 </body>
 
 </html>
