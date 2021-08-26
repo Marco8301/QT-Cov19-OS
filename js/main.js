@@ -1,25 +1,9 @@
 // Transform full name to initials
-
 let inputIniciales = document.getElementById("inputIniciales");
 let submitBtn = document.getElementById("submitBtn");
 let checkApruebo = document.getElementById("checkApruebo");
 
-// function toInitials(input) {
-//     let final = "";
-//     var output = input.split(" ");
-//     for (let i = 0; i < output.length; i++) {
-//         var letter = output[i].substr(0, 1);
-//         final += letter + ".";
-//     }
-//     return final
-// }
-
-// submitBtn.addEventListener('click', () => {
-//     inputIniciales.value = toInitials(inputIniciales.value);
-// })
-
 // Toggle btn attribute disabled
-
 function removeDisabled() {
   if (checkApruebo.checked === true) {
     submitBtn.removeAttribute("disabled", "");
@@ -29,7 +13,6 @@ function removeDisabled() {
 }
 
 // Form Logic
-
 function changeState(id) {
   switch (id) {
     case inputFebre:
@@ -95,13 +78,6 @@ var inputGeolocDepartamento = document.getElementById(
 );
 let inputGeolocCiudad = document.getElementById("inputGeolocCiudad");
 
-// Avec un ajax
-// $.getJSON('./js/department.json', (data) => {
-//     createDepartments(data);
-//     searchCiudades()
-// });
-
-// Ou alors avec l'api fetch
 async function getContent(url) {
   let res = await fetch(url);
   let content = await res.json();
@@ -109,7 +85,6 @@ async function getContent(url) {
 }
 
 const jsonArray = getContent("./js/department.json");
-
 jsonArray.then((data) => {
   createDepartments(data);
   searchCiudades();
@@ -117,20 +92,11 @@ jsonArray.then((data) => {
 
 function createDepartments(data) {
   let listDepartments = [];
-
   for (let i = 0; i < data.length; i++) {
     if (!listDepartments.includes(data[i]["department"])) {
       listDepartments.push(data[i]["department"]);
     }
   }
-
-  // Ou avec une boucle foreach
-  // data.forEach(element => {
-  //     if (!listDepartments.includes(element.department)) {
-  //         listDepartments.push(element.department)
-  //     }
-  // });
-
   for (let y = 0; y < listDepartments.length; y++) {
     var elSelect = document.createElement("option");
     elSelect.appendChild(document.createTextNode(listDepartments[y]));
@@ -141,15 +107,11 @@ function createDepartments(data) {
 
 function searchCiudades() {
   jsonArray.then((data) => {
-    // $.getJSON('./js/department.json', (data) => {
-
     let ciudades = [];
-
     for (let i = 0; i < data.length; i++) {
       if (data[i]["department"] === inputGeolocDepartamento.value)
         ciudades.push(data[i]["municipality"]);
     }
-
     if (inputGeolocCiudad.length === 1) {
       createCiudades(ciudades);
     } else {
